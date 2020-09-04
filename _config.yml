@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
-title: "SNUFA: Spiking Neural networks as Universal Function Approximators"
-description: " "
+title: "SNUFA"
+description: "Spiking Neural networks as Universal Function Approximators"
 show_downloads: false
 github:
   is_project_page: false
