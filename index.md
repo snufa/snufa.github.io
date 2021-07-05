@@ -15,3 +15,6 @@ Archive
 
 * [SNUFA 2020](https://snufa.github.io/snufa2020/).
 
+
+
+SNUFA logo courtesy of [Koshika Yadava](https://kyadava.net)
