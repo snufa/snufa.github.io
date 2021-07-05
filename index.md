@@ -8,7 +8,7 @@ This year's workshop [SNUFA 2021](/2021) will be held 8-9 November 2021.
 
 The last years have seen many exciting new developments to train spiking neural networks to perform complex information processing. This annual online workshop brings together researchers in the field to present their work and discuss ways of translating these findings into a better understanding of neural circuits. Topics of interest include artificial and biologically plausible learning algorithms and the dissection of trained spiking circuits toward understanding neural processing.
 
-The workshops are being organised by [Dan Goodman](https://neural-reckoning.org/) and [Friedemann Zenke](https://fzenke.net).
+The workshops are being organised by [Dan Goodman](https://neural-reckoning.org/) and [Friedemann Zenke](https://zenkelab.org).
 
 Archive
 -------
