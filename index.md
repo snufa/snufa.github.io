@@ -2,7 +2,7 @@
 
 SNUFA is an online workshop focused research advances in the field of "Spiking Networks as Universal Function Approximators."
 
-This year's workshop [SNUFA 2021](/2021) will be held 8-9 November 2021.
+This year's workshop [SNUFA 2021](/2021) will be held 2-3 November 2021.
 
 ![SNUFA2021 Logo](/images/snufa2021_hedgehog.png)
 
