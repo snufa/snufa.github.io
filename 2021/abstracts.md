@@ -44,12 +44,12 @@ James Knight, Thomas Nowotny <br/>
 **Abstract:** Last year’s SNUFA workshop report concluded “Moving toward neuron numbers comparable with biology and applying these networks to real-world data-sets will require the development of novel algorithms, software libraries, and dedicated hardware accelerators that perform well with the specifics of spiking neural networks” [1]. Taking inspiration from machine learning libraries — where techniques such as parallel batch training minimise latency and maximise GPU occupancy — as well as our previous research on efficiently simulating SNNs on GPUs for computational neuroscience [2,3], we are extending our GeNN SNN simulator to pursue this vision. To explore GeNN's potential, we use the eProp learning rule [4] — which approximates RTRL — to train SNN classifiers on the Spiking Heidelberg Digits and the Spiking Sequential MNIST datasets. We find that the performance of these classifiers is comparable to those trained using BPTT [5] and verify that the theoretical advantages of neuron models with adaptation dynamics [5] translate to improved classification performance. We then measured execution times and found that training an SNN classifier using GeNN and eProp becomes faster than SpyTorch and BPTT after less than 685 timesteps and much larger models can be trained on the same GPU when using GeNN. Furthermore, we demonstrate that our implementation of parallel batch training improves training performance by over 4⨉ and enables near-perfect scaling across multiple GPUs. Finally, we show that performing inference using a recurrent SNN using GeNN uses less energy and has lower latency than a comparable LSTM simulated with TensorFlow [6] .
 
 References
-  * Zenke et al. (2021). 10.1016/j.neuron.2021.01.009
-  * Knight et al. (2021). 10.1038/s43588-020-00022-7
-  * Knight et al. (2018). 10.3389/fnins.2018.00941
-  * Bellec et al. (2020). 10.1038/s41467-020-17236-y
-  * Zenke et al. (2021). 10.1109/JPROC.2020.3045625
-  * Plank et al. (2021). arXiv 2107.03992
+1. Zenke et al. (2021). 10.1016/j.neuron.2021.01.009
+2. Knight et al. (2021). 10.1038/s43588-020-00022-7
+3. Knight et al. (2018). 10.3389/fnins.2018.00941
+4. Bellec et al. (2020). 10.1038/s41467-020-17236-y
+5. Zenke et al. (2021). 10.1109/JPROC.2020.3045625
+6. Plank et al. (2021). arXiv 2107.03992
 
 
 
