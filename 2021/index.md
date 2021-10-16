@@ -22,6 +22,8 @@ Abstract submission is now closed.
 
 ## Agenda
 
+List of [abstracts](abstracts)
+
 <script language="javascript">
 	function LT(d, t) {
 		var date = new Date(d+' 2021 '+t+' UTC+1');
