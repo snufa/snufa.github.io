@@ -1,6 +1,6 @@
 # SNUFA 2021
 
-<img align="right" width="400" src="/images/snufa2021_hedgehog.png">
+<img align="right" width="300" src="/images/snufa2021_hedgehog.png">
 				
 Like last year this online workshop brings together researchers in the fields of computational neuroscience, machine learning, and neuromorphic engineering to present their work and discuss ways of translating these findings into a better understanding of neural circuits. Topics include artificial and biologically plausible learning algorithms and the dissection of trained spiking circuits toward understanding neural processing. We have a manageable number of talks with ample time for discussions.
 
