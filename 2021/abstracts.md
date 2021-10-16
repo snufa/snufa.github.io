@@ -1,4 +1,6 @@
+# List of SNUFA2021 abstracts
 
+[Back to meeting overview](.)
 
 ## Deriving local synaptic learning rules for efficient representations in networks of spiking neurons 
 Viola Priesemann, Lucas Rudelt, Fabian Mikulasch <br/>
@@ -144,6 +146,6 @@ Ildefonso Ferreira Pica <br/>
 **Abstract:** Neural network models provide a useful tool to study brain dynamics, and understand relevant mechanisms for cognition. A key point of these models is to explain the irregularity of the spiking activity of neurons that is observed in vivo. To get irregular activity without relying on stochastic inputs, large fluctuations of the network dynamics need to be counterbalanced by weak synaptic weights and a balance in excitatory and inhibitory activity. This E-I balance results in complex and irregular spiking activity because the average activity of neuron are kept below a threshold, which then allows for fluctuations in the input to cause reactive spiking activity. This setup is efficient, as it moderates high firing activity, and it allows for non-linear processing of stimuli because the network of neurons can generate complex patterns of activity. The neuromodulator dopamine is known to modulate the E-I balance. Here I will present some simulation results where we have modelled the modulatory effect of dopamine in E-I balanced spiking neural networks, by lowering the action potential (AP) threshold in the inhibitory leaky integrate and fire neurons. The act of lowering the AP threshold, can induce a shift from a regular  firing regime to an irregular firing regime which may support more complex computations.
 
 
-
+[Back to meeting overview](.)
 
 
