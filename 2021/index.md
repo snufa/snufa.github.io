@@ -77,4 +77,4 @@ List of [abstracts](abstracts)
 
 ## Last year's workshop
 
-You can read last year's meeting report [here](https://www.sciencedirect.com/science/article/abs/pii/S089662732100009X), watch last year's talks and discussions on [Crowdcast](https://www.crowdcast.io/e/snufa2020) or [YouTube](https://www.youtube.com/playlist?list=PL09WqqDbQWHFvM9DFYkM_GfnrVnIdLRhy).
+You can read last year's meeting report [here](https://www.sciencedirect.com/science/article/abs/pii/S089662732100009X), watch last year's talks and discussions on [Crowdcast](/2020) or [YouTube](https://www.youtube.com/playlist?list=PL09WqqDbQWHFvM9DFYkM_GfnrVnIdLRhy).
