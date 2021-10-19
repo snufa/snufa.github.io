@@ -15,7 +15,7 @@ The workshops are being organised by [Dan Goodman](https://neural-reckoning.org/
 Archive
 -------
 
-* [SNUFA 2020](https://snufa.github.io/snufa2020/).
+* [SNUFA 2020](/2020).
 
 
 
