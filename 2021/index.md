@@ -38,7 +38,7 @@ List of [abstracts](abstracts)
 |------------|---------|-----------------
 |**November 2nd** |  |  
 | 14:00 | Welcome by the organizers | <script language="javascript">LT('2 Nov', '14:00')</script> 
-|     | **Session 1** (Chair: Chiara Bartollozi) |  
+|     | **Session 1** (Chair: Chiara Bartolozzi) |  
 | 14:10 | [Tara Hamilton](https://profiles.uts.edu.au/Tara.Hamilton), University of Technology Sydney, Australia (invited talk) | <script language="javascript">LT('2 Nov', '14:10')</script> 
 | 14:55 | Dominik Dold, ESA ESTEC, Germany<br/> Spike-based embeddings for multi-relational graph data <br/>[abstract](abstracts#spike-based-embeddings-for-multi-relational-graph-data) | <script language="javascript">LT('2 Nov', '14:55')</script> 
 | 15:15 | Ulysse Rancon, U Bordeaux, France<br/> StereoSpike: Depth Learning with a Spiking Neural Network <br/>[abstract](abstracts#stereospike-depth-learning-with-a-spiking-neural-network) | <script language="javascript">LT('2 Nov', '15:15')</script> 
