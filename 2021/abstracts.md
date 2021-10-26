@@ -8,7 +8,7 @@ Viola Priesemann, Lucas Rudelt, Fabian Mikulasch <br/>
 
 **Abstract:** How can neural networks learn to efficiently represent complex and high-dimensional inputs via local plasticity mechanisms? Classical models of representation learning assume that input weights are learned via pairwise Hebbian-like plasticity. Here, we show that pairwise Hebbian-like plasticity only works under specific requirements on neural dynamics and input statistics. To overcome these limitations, we derive from first principles a learning scheme based on voltage-dependent synaptic plasticity rules. Here, inhibition learns to locally balance excitatory input in individual dendritic compartments, and thereby can modulate excitatory synaptic plasticity to learn efficient representations. We demonstrate in simulations that this learning scheme works robustly even for complex, high-dimensional and correlated inputs. It also works in the presence of inhibitory transmission delays, where Hebbian-like plasticity typically fails. Our results draw a direct connection between dendritic excitatory-inhibitory balance and voltage-dependent synaptic plasticity as observed in vivo, and suggest that both are crucial for representation learning. 
 
-Preprint: Fabian Alexander Mikulasch, Lucas Rudelt, Viola Priesemann, "Local dendritic balance enables learning of efficient representations in networks of spiking neurons", https://arxiv.org/pdf/2010.12395
+Preprint: Fabian Alexander Mikulasch, Lucas Rudelt, Viola Priesemann, "Local dendritic balance enables learning of efficient representations in networks of spiking neurons", (https://arxiv.org/pdf/2010.12395)
 
 
 ## Spike-based embeddings for multi-relational graph data 
