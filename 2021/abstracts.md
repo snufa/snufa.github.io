@@ -90,7 +90,7 @@ Wei Fang <br/>
 
 
 ## Optimizing for fast sampling-based inference yields oscillatory dynamics in a spiking model of primary visual cortex 
-Zhen Chen <br/>
+Zhen Chen, Forrest Wargo, Rodrigo Echeveste, Ralf Haefner<br/>
 <sub>Presentation: poster </sub>
 
 **Abstract:** The neural sampling hypothesis suggests that the brain’s sensory processing can be understood as implementing a sampling process that computes the posterior belief over latent variables given a sensory observation. Prior studies have examined this hypothesis in the context of the primary visual cortex (V1), and almost all of them have assumed V1 neurons to represent the continuous intensity of Gabor- shaped features either by firing rates or membrane potentials (Hoyer and Hyvärinen, 2003; Haefner et al., 2016; Orbán et al., 2016; Bányai et al., 2017). All of these models either implemented known sampling algorithms or simply ignored dynamics. Most recently, Echeveste et al. 2020 showed that a rate-based model optimized for fast sampling exhibited rich dynamics including marked stimulus-dependent transient responses and gamma oscillations.
