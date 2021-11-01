@@ -24,7 +24,7 @@ Abstract submission is now closed.
 
 ## Main meeting
 
-https://www.crowdcast.io/e/snufa-2021
+[https://www.crowdcast.io/e/snufa-2021](https://www.crowdcast.io/e/snufa-2021)
 
 ### Agenda
 
