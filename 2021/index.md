@@ -22,8 +22,11 @@ Registration is free. [Click here to register](https://www.eventbrite.co.uk/e/sn
 
 Abstract submission is now closed.
 
+## Main meeting
 
-## Agenda
+https://www.crowdcast.io/e/snufa-2021
+
+### Agenda
 
 List of [abstracts](abstracts)
 
