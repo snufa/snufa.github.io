@@ -74,6 +74,8 @@ Christian Pehle, Timo Wunderlich <br/>
 Guruprasad Raghavan, Cong Lin, Matt Thomson <br/>
 <sub>Presentation: poster </sub>
 
+**Withdrawn** due to scheduling conflict.
+
 **Abstract:** Living  neural  networks  in  our  brains  autonomously  self-organize  into large,  complex  architectures  during  early  development. A key mechanism that enables the formation and learning of complex organized architectures in the brain is the emergence of traveling spatio-temporal waves of neuronal activity across the brain. Previous studies have demonstrated that neuronal waves provide a mechanism to self-organize retinotopic pooling architectures in networks that are subject to growth and noisy stimulus. Here, we  examine  the  potential  role  of neuronal  waves  in  internalizing  dynamic  learning  representations  by  using  a  phased learning strategy; which involves:  (i) passive (unsupervised) observation to internalize  inputs  via  self-organization  in  the  latent  space,  followed  by  (ii)  learning mappings between the resulting neuronal dynamics of the hidden layer to provided  categorical labels. To  achieve  this,  we  propose  a  modular  dynamical  systems  tool-kit  that  can  be seamlessly stacked to allow for self-organization and phased learning across multiple layers of the  spiking  network. Furthermore,  inter-layer  weights  can  be  trained  via  local (gradient-informed)  feedback  rules,  in  the  fashion  of  a  closed-loop  control  system for real-time learning.  We demonstrate that networks endowed with spatio-temporal neuronal dynamics are especially suited for representing dynamic input data,  like the continuous rotation of MNIST digits or dynamic gesture detection datasets. Broadly, our work shows that the dynamical systems framework for learning can be used to self-organize large computational devices.
 
 
@@ -144,6 +146,8 @@ Jens Egholm Pedersen, Christian Pehle <br/>
 ## Modelling the effect of dopamine on E-I balance in spiking neural networks 
 Ildefonso Ferreira Pica <br/>
 <sub>Presentation: poster </sub>
+
+**Withdrawn** due to scheduling conflict.
 
 **Abstract:** Neural network models provide a useful tool to study brain dynamics, and understand relevant mechanisms for cognition. A key point of these models is to explain the irregularity of the spiking activity of neurons that is observed in vivo. To get irregular activity without relying on stochastic inputs, large fluctuations of the network dynamics need to be counterbalanced by weak synaptic weights and a balance in excitatory and inhibitory activity. This E-I balance results in complex and irregular spiking activity because the average activity of neuron are kept below a threshold, which then allows for fluctuations in the input to cause reactive spiking activity. This setup is efficient, as it moderates high firing activity, and it allows for non-linear processing of stimuli because the network of neurons can generate complex patterns of activity. The neuromodulator dopamine is known to modulate the E-I balance. Here I will present some simulation results where we have modelled the modulatory effect of dopamine in E-I balanced spiking neural networks, by lowering the action potential (AP) threshold in the inhibitory leaky integrate and fire neurons. The act of lowering the AP threshold, can induce a shift from a regular  firing regime to an irregular firing regime which may support more complex computations.
 
