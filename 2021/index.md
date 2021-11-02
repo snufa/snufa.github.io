@@ -26,6 +26,8 @@ Abstract submission is now closed.
 
 [https://www.crowdcast.io/e/snufa-2021](https://www.crowdcast.io/e/snufa-2021)
 
+<sub>Thanks to [World Wide Neuro](https://www.world-wide.org/Neuro/) for sponsoring this event!</sub>
+
 ### Agenda
 
 List of [abstracts](abstracts)
