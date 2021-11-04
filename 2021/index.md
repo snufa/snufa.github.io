@@ -4,31 +4,17 @@
 				
 Like last year this online workshop brings together researchers in the fields of computational neuroscience, machine learning, and neuromorphic engineering to present their work and discuss ways of translating these findings into a better understanding of neural circuits. Topics include artificial and biologically plausible learning algorithms and the dissection of trained spiking circuits toward understanding neural processing. We have a manageable number of talks with ample time for discussions.
 
-This year's executive committee comprises [Chiara Bartolozzi](https://www.iit.it/people/chiara-bartolozzi), [Sander Bohté](https://homepages.cwi.nl/~sbohte/), [Dan Goodman](https://neural-reckoning.org), and [Friedemann Zenke](https://fzenke.net/).
+This year's executive committee comprised [Chiara Bartolozzi](https://www.iit.it/people/chiara-bartolozzi), [Sander Bohté](https://homepages.cwi.nl/~sbohte/), [Dan Goodman](https://neural-reckoning.org), and [Friedemann Zenke](https://fzenke.net/).
 
+The workshop took place **2-3 November, 2021**.
 
+Thanks to [World Wide Neuro](https://www.world-wide.org/Neuro/) for sponsoring this event!
 
-## Key dates
+## Talks
 
-The workshop will take place **2-3 November, 2021** (please note change of date from original announcement).
+Talks can be viewed on [Crowdcast](https://www.crowdcast.io/e/snufa-2021) or [YouTube](https://www.youtube.com/playlist?list=PL09WqqDbQWHEqm1_3a620tKUKnC6FgBrG).
 
-~~Abstract submission will close **1 October, 2021**.~~
-
-~~Acceptance notification expected by **18th of October, 2021**.~~
-
-## Registration and submissions
-
-Registration is free. [Click here to register](https://www.eventbrite.co.uk/e/snufa-2021-tickets-162043527553).
-
-Abstract submission is now closed.
-
-## Main meeting
-
-[https://www.crowdcast.io/e/snufa-2021](https://www.crowdcast.io/e/snufa-2021)
-
-<sub>Thanks to [World Wide Neuro](https://www.world-wide.org/Neuro/) for sponsoring this event!</sub>
-
-### Agenda
+## Agenda
 
 List of [abstracts](abstracts)
 
@@ -77,7 +63,7 @@ List of [abstracts](abstracts)
 * 4 invited talks
 * 8 contributed talks
 * Poster session
-* Panel debate: "What should be the next big breakthrough in spiking neural networks?" (speakers to be decided)
+* Panel debate: "What should be the next big breakthrough in spiking neural networks?"
 
 
 ## Last year's workshop
