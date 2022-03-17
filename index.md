@@ -1,6 +1,8 @@
 ## SNUFA
 
-SNUFA is an online workshop focused research advances in the field of "Spiking Networks as Universal Function Approximators."
+SNUFA is an online workshop and community focused on research advances in the field of "Spiking Networks as Universal Function Approximators."
+
+[Join our Discord](https://discord.gg/aYvgGakrVK) to chat about this research area, and to get announcements of new papers, conferences, jobs, grant schemes, etc.
 
 SNUFA 2022 hasn't been scheduled yet, but will take place some time in fall. 
 
