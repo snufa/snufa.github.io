@@ -1,5 +1,6 @@
-SNUFA 2022
-==========
+# SNUFA 2022
+
+<img align="right" width="300" src="/images/snufa2022_logo.png">
 
 This year's workshop will be held November 2-3, European afternoons.
 
