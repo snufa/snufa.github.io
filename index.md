@@ -4,23 +4,18 @@ SNUFA is an online workshop and community focused on research advances in the fi
 
 [Join our Discord](https://discord.gg/aYvgGakrVK) to chat about this research area, and to get announcements of new papers, conferences, jobs, grant schemes, etc.
 
-SNUFA 2022 hasn't been scheduled yet, but will take place some time in fall. 
+<img align="right" width="300" src="/images/snufa2022_logo.png">
 
-Last year's workshop [SNUFA 2021](/2021) took place on held 2-3 November 2021.
-
-For details see the SNUFA2021 [agenda](/2021) and [abstracts](/2021/abstracts).
-
-![SNUFA2021 Logo](/images/snufa2021_hedgehog.png)
+[SNUFA 2022](/2022) will take place 2-3 November 2022, European afternoons.
 
 The last years have seen many exciting new developments to train spiking neural networks to perform complex information processing. This annual online workshop brings together researchers in the field to present their work and discuss ways of translating these findings into a better understanding of neural circuits. Topics of interest include artificial and biologically plausible learning algorithms and the dissection of trained spiking circuits toward understanding neural processing.
 
-The workshops are being organised by [Dan Goodman](https://neural-reckoning.org/) and [Friedemann Zenke](https://zenkelab.org).
+The workshops are organised by [Dan Goodman](https://neural-reckoning.org/) and [Friedemann Zenke](https://zenkelab.org).
 
 Archive
 -------
 
+* [SNUFA 2021](/2021).
 * [SNUFA 2020](/2020).
-
-
 
 SNUFA logo courtesy of [Koshika Yadava](https://kyadava.net)
