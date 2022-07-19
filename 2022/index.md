@@ -8,13 +8,13 @@
 
 ## Key dates
 
-**Workshop**. November 2-3, European afternoons.
+**Workshop**. 2-3 November 2022, European afternoons.
 
 **Registration**. Free but mandatory, will open very soon.
 
-**Abstract submission deadline**. Towards the end of September (to be finalised).
+**Abstract submission deadline**. 28 September 2022.
 
-**Final decisions**. Early October (to be finalised).
+**Final decisions**. 12 October 2022.
 
 ## Format
 
