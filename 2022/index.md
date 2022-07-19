@@ -6,7 +6,7 @@
 
 **Executive committee.** [Katie Schuman](https://catherineschuman.com/), [Timothée Masquelier](https://cerco.cnrs.fr/pagesp/tim/), [Dan Goodman](https://neural-reckoning.org), and [Friedemann Zenke](https://fzenke.net/).
 
-**Quick links.** <span style="background: lightgreen; border-radius: 10px; padding: 10px;"><a href="https://www.eventbrite.co.uk/e/snufa-workshop-2022-tickets-387490864607">Register (free)</a></span> <span style="background: lightgreen; border-radius: 10px; padding: 10px;"><a href="https://www.eventbrite.co.uk/e/snufa-workshop-2022-tickets-387490864607">Submit an abstract (before 28 Sept 2022)</a></span>
+**Quick links.** <span style="background: lightgreen; border-radius: 10px; padding: 10px;"><a href="https://www.eventbrite.co.uk/e/snufa-workshop-2022-tickets-387490864607">Register (free)</a></span> <span style="background: lightgreen; border-radius: 10px; padding: 10px;"><a href="https://forms.office.com/r/izX1Wimhy6">Submit an abstract (before 28 Sept 2022)</a></span>
 
 ## Key dates
 
@@ -14,7 +14,7 @@
 
 **Registration**. Free but mandatory. [Click here to register](https://www.eventbrite.co.uk/e/snufa-workshop-2022-tickets-387490864607).
 
-**Abstract submission deadline**. 28 September 2022.
+**Abstract submission deadline**. 28 September 2022. [Click here to submit](https://forms.office.com/r/izX1Wimhy6).
 
 **Final decisions**. 12 October 2022.
 
