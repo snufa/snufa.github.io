@@ -4,7 +4,7 @@
 
 **Brief summary.** This online workshop brings together researchers in the fields of computational neuroscience, machine learning, and neuromorphic engineering to present their work and discuss ways of translating these findings into a better understanding of neural circuits. Topics include artificial and biologically plausible learning algorithms and the dissection of trained spiking circuits toward understanding neural processing. We have a manageable number of talks with ample time for discussions.
 
-**Executive committee.** [Katie Schuman](https://catherineschuman.com/), [Timothée Masquelier](https://cerco.cnrs.fr/pagesp/tim/), [Dan Goodman](https://neural-reckoning.org), and [Friedemann Zenke](https://fzenke.net/).
+**Executive committee.** [Katie Schuman](https://catherineschuman.com/), [Timothée Masquelier](https://cerco.cnrs.fr/pagesp/tim/), [Dan Goodman](https://neural-reckoning.org), and [Friedemann Zenke](https://zenkelab.org/).
 
 **Quick links.** <span style="background: lightgreen; border-radius: 10px; padding: 10px;"><a href="https://www.eventbrite.co.uk/e/snufa-workshop-2022-tickets-387490864607">Register (free)</a></span> <span style="background: lightgreen; border-radius: 10px; padding: 10px;"><a href="https://forms.office.com/r/izX1Wimhy6">Submit an abstract (before 28 Sept 2022)</a></span>
 
