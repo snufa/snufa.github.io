@@ -8,6 +8,15 @@
 
 **Quick links.** <span style="background: lightgreen; border-radius: 10px; padding: 10px;"><a href="https://www.eventbrite.co.uk/e/snufa-workshop-2022-tickets-387490864607">Register (free)</a></span> <span style="background: lightgreen; border-radius: 10px; padding: 10px;"><a href="https://forms.office.com/r/izX1Wimhy6">Submit an abstract (before 28 Sept 2022)</a></span>
 
+
+**Invited speakers.**
+
+* Charlotte Frenkel, TU Delft, https://chfrenkel.github.io/
+* Priya Panda, Yale, https://intelligentcomputinglab.yale.edu/ 
+* Yiota Poirazi, Institute of Molecular Biology and Biotechnology (IMBB), http://dendrites.gr/
+* Yonghong Tian, Peking University, https://www.pkuml.org/
+
+
 ## Key dates
 
 **Workshop**. 9-10 November 2022, European afternoons.
