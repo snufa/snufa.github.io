@@ -17,7 +17,7 @@
 * [Yonghong Tian](https://www.pkuml.org/), Peking University
 
 
-## Key dates
+## Key information
 
 **Workshop**. 9-10 November 2022, European afternoons.
 
@@ -33,11 +33,11 @@
 * 4 invited talks
 * 8 contributed talks
 * Poster session
-* Panel debate (topic to be decided)
+* Panel debate (topic to be decided, let us know if you have a good idea)
 
 ## Abstract submissions
 
-We will shortly post an abstract submissions form. Abstracts will be made publicly available at the end of the abstract submissions deadline for blinded public comments and ratings. We will select the most highly rated abstracts for contributed talks, subject to maintaining a balance between the different fields of, broadly speaking, neuroscience, computer science and neuromorphic engineering.
+[Click here to submit](https://forms.office.com/r/izX1Wimhy6). Abstracts will be made publicly available at the end of the abstract submissions deadline for blinded public comments and ratings. We will select the most highly rated abstracts for contributed talks, subject to maintaining a balance between the different fields of, broadly speaking, neuroscience, computer science and neuromorphic engineering. Abstracts not selected for a talk will be presented as posters, and there is an option to submit an abstract directly for a poster and not a talk if you prefer.
 
 ## Previous editions
 
