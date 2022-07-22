@@ -10,7 +10,7 @@
 
 ## Key dates
 
-**Workshop**. 2-3 November 2022, European afternoons.
+**Workshop**. 9-10 November 2022, European afternoons.
 
 **Registration**. Free but mandatory. [Click here to register](https://www.eventbrite.co.uk/e/snufa-workshop-2022-tickets-387490864607).
 
