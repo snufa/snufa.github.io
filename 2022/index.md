@@ -11,10 +11,10 @@
 
 ## Invited speakers.
 
-* Charlotte Frenkel, TU Delft, https://chfrenkel.github.io/
-* Priya Panda, Yale, https://intelligentcomputinglab.yale.edu/ 
-* Yiota Poirazi, Institute of Molecular Biology and Biotechnology (IMBB), http://dendrites.gr/
-* Yonghong Tian, Peking University, https://www.pkuml.org/
+* [Charlotte Frenkel](https://chfrenkel.github.io/), TU Delft
+* [Priya Panda](https://intelligentcomputinglab.yale.edu/), Yale
+* [Yiota Poirazi](http://dendrites.gr/), Institute of Molecular Biology and Biotechnology (IMBB)
+* [Yonghong Tian](https://www.pkuml.org/), Peking University
 
 
 ## Key dates
