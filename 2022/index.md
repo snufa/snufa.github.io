@@ -6,7 +6,7 @@
 
 **Executive committee.** [Katie Schuman](https://catherineschuman.com/), [Timothée Masquelier](https://cerco.cnrs.fr/pagesp/tim/), [Dan Goodman](https://neural-reckoning.org), and [Friedemann Zenke](https://zenkelab.org/).
 
-**Quick links.** <span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://www.eventbrite.co.uk/e/snufa-workshop-2022-tickets-387490864607">Register (free)</a></span> <span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://forms.office.com/r/izX1Wimhy6">Submit an abstract (before 28 Sept 2022)</a></span>
+**Quick links.** <span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://www.eventbrite.co.uk/e/snufa-workshop-2022-tickets-387490864607">Register (free)</a></span> <span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://imperial.eu.qualtrics.com/jfe/form/SV_0pvzikmEV0MJe0C">Vote on abstracts</a></span>
 
 
 ## Invited speakers
@@ -23,7 +23,7 @@
 
 **Registration**. Free but mandatory. [Click here to register](https://www.eventbrite.co.uk/e/snufa-workshop-2022-tickets-387490864607).
 
-**Abstract submission deadline**. 28 September 2022. [Click here to submit](https://forms.office.com/r/izX1Wimhy6).
+Abstract submission deadline. Closed. Was 28 September 2022.
 
 **Final decisions**. 12 October 2022.
 
@@ -35,9 +35,9 @@
 * Poster session
 * Panel debate (topic to be decided, let us know if you have a good idea)
 
-## Abstract submissions
+## Abstract submissions closed
 
-[Click here to submit](https://forms.office.com/r/izX1Wimhy6). Abstracts will be made publicly available at the end of the abstract submissions deadline for blinded public comments and ratings. We will select the most highly rated abstracts for contributed talks, subject to maintaining a balance between the different fields of, broadly speaking, neuroscience, computer science and neuromorphic engineering. Abstracts not selected for a talk will be presented as posters, and there is an option to submit an abstract directly for a poster and not a talk if you prefer.
+[Abstracts are now publicly available for blinded public comments and ratings.](https://imperial.eu.qualtrics.com/jfe/form/SV_0pvzikmEV0MJe0C) We will select the most highly rated abstracts for contributed talks, subject to maintaining a balance between the different fields of, broadly speaking, neuroscience, computer science and neuromorphic engineering. Abstracts not selected for a talk will be presented as posters, and there is an option to submit an abstract directly for a poster and not a talk if you prefer.
 
 ## Previous editions
 
