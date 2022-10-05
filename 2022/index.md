@@ -39,6 +39,8 @@ Abstract submission deadline. Closed. Was 28 September 2022.
 
 [Abstracts are now publicly available for blinded public comments and ratings.](https://imperial.eu.qualtrics.com/jfe/form/SV_0pvzikmEV0MJe0C) We will select the most highly rated abstracts for contributed talks, subject to maintaining a balance between the different fields of, broadly speaking, neuroscience, computer science and neuromorphic engineering. Abstracts not selected for a talk will be presented as posters, and there is an option to submit an abstract directly for a poster and not a talk if you prefer.
 
+By the way, if you're interested in adapting this idea for your workshop, [we wrote up a quick guide on how to do it](https://github.com/neural-reckoning/misc-guides/blob/main/workshop-abstract-voting-with-qualtrics-and-office.md).
+
 ## Previous editions
 
 ### 2021
