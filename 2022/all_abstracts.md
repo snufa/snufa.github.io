@@ -28,7 +28,7 @@
 
 * [Evaluating the temporal understanding of spiking neural networks on event-based action recognition with DVS-Gesture-Chain](abstracts/alex-vicente-sola-evaluating.md) (Alex Vicente-Sola)
 
-* [Library of dynamics: linking parameters and behaviour of spiking networks with Simulation-Based Inference](abstracts/basile-confavreux-library.md) (Basile Confavreux*, Aaradhya Vaze*, Poornima Ramesh, Pedro Gonçalves, Jakob H. Macke and Tim P. Vogels)
+* [Library of dynamics: linking parameters and behaviour of spiking networks with Simulation-Based Inference](abstracts/basile-confavreux-library.md) (Basile Confavreux, Aaradhya Vaze, Poornima Ramesh, Pedro Gonçalves, Jakob H. Macke and Tim P. Vogels)
 
 * [ Neural Network for Modelling Ion Channels in Smooth Muscle Electrophysiology](abstracts/chitaranjan-mahapatra-neural.md) (Chitaranjan Mahapatra)
 
@@ -53,8 +53,6 @@
 * [Mitigating Catastrophic Forgetting in Spiking Neural Networks through Threshold Modulation](abstracts/ilyass-hammouamri-mitigating.md) (Ilyass Hammouamri)
 
 * [Exploiting Sparsity for Accelerated SNN Training on Graphcore IPUs](abstracts/jan-finkbeiner-exploiting.md) (Jan Finkbeiner, Emre Neftci)
-
-* [A protein-driven heterosynaptic rule for spiking neural networks](abstracts/janko-petkovic-protein-driven.md) (Janko Petkovic)
 
 * [A protein-driven heterosynaptic rule for spiking neural networks](abstracts/janko-petkovic-protein-driven.md) (Janko Petkovic, Maximilian Eggl, Tatjana Tchumatchenko)
 
