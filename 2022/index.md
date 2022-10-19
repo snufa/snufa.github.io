@@ -78,7 +78,7 @@
 * 4 invited talks
 * 8 contributed talks
 * Poster session
-* Panel debate (topic to be decided, let us know if you have a good idea)
+* Panel debate 
 
 ## Abstract submissions 
 
