@@ -10,7 +10,7 @@
 
 * [Beyond Biologically Plausible Spiking Networks for Neuromorphic Computing](abstracts/anand-subramoney-beyond.md) (Anand Subramoney, Khaleelulla Khan Nazeer, Mark Schöne, Christian Mayr, David Kappel)
 
-* [Training Dynamic Spiking Neural Network via Forward Propagation Through Time](abstracts/bojian-yin-training.md) (Bojian Yin)
+* [Training Dynamic Spiking Neural Network via Forward Propagation Through Time](abstracts/bojian-yin-training.md) (Bojian Yin, Federico Corradi and Sander M Bohte)
 
 * [Bridging the gap between artificial models and cortical circuits](abstracts/christopher-brian-bridging.md) (Christopher B. Currin, Karin Stecher, Carsten Pfeffer, Gaia Novarino, and Tim P. Vogels)
 

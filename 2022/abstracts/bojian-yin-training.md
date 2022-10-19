@@ -1,7 +1,7 @@
 
 # Training Dynamic Spiking Neural Network via Forward Propagation Through Time
 
-**Authors:** Bojian Yin
+**Authors:** Bojian Yin, Federico Corradi and Sander M Bohte
 
 **Presentation type:** Talk
 
