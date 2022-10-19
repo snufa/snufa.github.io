@@ -9,15 +9,11 @@
 **Quick links.** <span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://www.eventbrite.co.uk/e/snufa-workshop-2022-tickets-387490864607">Register (free)</a></span> 
 
 
-## Invited speakers
 
-* [Charlotte Frenkel](https://chfrenkel.github.io/), TU Delft
-* [Priya Panda](https://intelligentcomputinglab.yale.edu/), Yale
-* [Yiota Poirazi](http://dendrites.gr/), Institute of Molecular Biology and Biotechnology (IMBB)
-* [Yonghong Tian](https://www.pkuml.org/), Peking University
 
 
 ## Key information
+
 
 **Workshop**. 9-10 November 2022, European afternoons.
 
@@ -25,6 +21,11 @@
 
 **Abstract submission**. Closed (deadline was 28 September 2022).
 
+**Invited speakers**. 
+[Charlotte Frenkel](https://chfrenkel.github.io/) (TU Delft),
+[Priya Panda](https://intelligentcomputinglab.yale.edu/) (Yale),
+[Yiota Poirazi](http://dendrites.gr/) (Institute of Molecular Biology and Biotechnology IMBB),
+[Yonghong Tian](https://www.pkuml.org/) (Peking University)
 
 
 ## Agenda
