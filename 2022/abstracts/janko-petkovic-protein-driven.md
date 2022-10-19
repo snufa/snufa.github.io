@@ -1,0 +1,10 @@
+
+# A protein-driven heterosynaptic rule for spiking neural networks
+
+**Authors:** Janko Petkovic, Maximilian Eggl, Tatjana Tchumatchenko
+
+**Presentation type:** Poster
+
+## Abstract
+
+Conditions for synaptic plasticity have been extensively studied throughout the last decades, attempting to gain more insight into the elusive mechanisms that underlie superior cognitive phenomena like memory and learning. However, a unifying functional principle with clear biological grounding explaining these manifestations has not yet been fully formulated, and many state-of-the-art modelizations still partially rely on purely heuristic rules. To address this complex question, we explore the molecular machinery underlying spatio-temporal long-term heterosynaptic plasticity evolving on minute-hour timescales. Subsequently, we elaborate on an essential formalism able to describe the behavior of the biologically detailed plastic phenomenology using a limited number of clear mathematical objects and study its behavior on a computational dendrite model. Inspired by the results from one of our previous collaborations, we started investigating the spatio-temporal dynamics of peri-synaptic calcium, indirectly reconstructing its fingerprint from the behavior of primary synaptic plasticity driving molecules (PP1, PP2A, calcineurin, CaMKII). We could thus expand our previous diffusion-degradation formalism into a more complex reaction-diffusion model, able to natively support emerging properties like inter-spine competition and cooperation. Accounting for the correct timescales, we found a closed form approximation for the model, obtaining a clean, explainable, and light, functional form, the parameters of which we then fit using the experimental data in our possession. We will now implement the newly found rule in a computationally simulated dendritic branch, validated via known experimental results, and then used to investigate the abstract dynamical-computational properties of the linear dendritic branch system.

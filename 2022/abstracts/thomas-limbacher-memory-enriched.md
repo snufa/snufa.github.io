@@ -1,0 +1,10 @@
+
+# Memory-enriched computation and learning in spiking neural networks through Hebbian plasticity
+
+**Authors:** Thomas Limbacher, Ozan Özdenizci, Robert Legenstein
+
+**Presentation type:** Talk
+
+## Abstract
+
+Memory is a key component of biological neural systems that enables the retention of information over a huge range of temporal scales, ranging from hundreds of milliseconds up to years. While Hebbian plasticity is believed to play a pivotal role in biological memory, it has so far been analyzed mostly in the context of pattern completion and unsupervised learning. Here, we propose that Hebbian plasticity is fundamental for computations in biological neural systems. We introduce a novel spiking neural network (SNN) architecture that is enriched by Hebbian synaptic plasticity. We experimentally show that our memory-equipped SNN model outperforms state-of-the-art deep learning mechanisms in a sequential pattern-memorization task, as well as demonstrate superior out-of-distribution generalization capabilities compared to these models. We further show that our model can be successfully applied to one-shot learning and classification of handwritten characters, improving over the state-of-the-art SNN model. We also demonstrate the capability of our model to learn associations for audio to image synthesis from spoken and handwritten digits. Our SNN model further presents a novel solution to a variety of cognitive question answering tasks from a standard benchmark, achieving comparable performance to both memory-augmented ANN and SNN-based state-of-the-art solutions to this problem. Finally we demonstrate that our model is able to learn from rewards on an episodic reinforcement learning task and attain near-optimal strategy on a memory-based card game. Hence, our results show that Hebbian enrichment renders spiking neural networks surprisingly versatile in terms of their computational as well as learning capabilities. Since local Hebbian plasticity can easily be implemented in neuromorphic hardware, this also suggests that powerful cognitive neuromorphic systems can be build based on this principle.
