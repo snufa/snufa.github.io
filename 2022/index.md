@@ -75,18 +75,12 @@
 * Poster session
 * Panel debate (topic to be decided, let us know if you have a good idea)
 
-## Abstract submissions closed
+## Abstract submissions 
 
-[Abstracts are now publicly available for blinded public comments and ratings.](https://imperial.eu.qualtrics.com/jfe/form/SV_0pvzikmEV0MJe0C) We will select the most highly rated abstracts for contributed talks, subject to maintaining a balance between the different fields of, broadly speaking, neuroscience, computer science and neuromorphic engineering. Abstracts not selected for a talk will be presented as posters, and there is an option to submit an abstract directly for a poster and not a talk if you prefer.
-
-By the way, if you're interested in adapting this idea for your workshop, [we wrote up a quick guide on how to do it](https://github.com/neural-reckoning/misc-guides/blob/main/workshop-abstract-voting-with-qualtrics-and-office.md).
+[Abstracts are now publicly available for blinded public comments and ratings.](https://imperial.eu.qualtrics.com/jfe/form/SV_0pvzikmEV0MJe0C) We selected the most highly rated abstracts for contributed talks, subject to maintaining a balance between the different fields of, broadly speaking, neuroscience, computer science and neuromorphic engineering. Abstracts not selected for a talk will be presented as posters. If you're interested in adapting this idea for your workshop, [we wrote up a quick guide on how to do it](https://github.com/neural-reckoning/misc-guides/blob/main/workshop-abstract-voting-with-qualtrics-and-office.md).
 
 ## Previous editions
 
-### 2021
+**2021** Talks can be viewed on [Crowdcast](https://www.crowdcast.io/e/snufa-2021) or [YouTube](https://www.youtube.com/playlist?list=PL09WqqDbQWHEqm1_3a620tKUKnC6FgBrG)
 
-Talks can be viewed on [Crowdcast](https://www.crowdcast.io/e/snufa-2021) or [YouTube](https://www.youtube.com/playlist?list=PL09WqqDbQWHEqm1_3a620tKUKnC6FgBrG)
-
-### 2020
-
-You can read the meeting report [here](https://www.sciencedirect.com/science/article/abs/pii/S089662732100009X), and watch the talks and discussions on [Crowdcast](/2020) or [YouTube](https://www.youtube.com/playlist?list=PL09WqqDbQWHFvM9DFYkM_GfnrVnIdLRhy).
+**2020** You can read the meeting report [here](https://www.sciencedirect.com/science/article/abs/pii/S089662732100009X), and watch the talks and discussions on [Crowdcast](/2020) or [YouTube](https://www.youtube.com/playlist?list=PL09WqqDbQWHFvM9DFYkM_GfnrVnIdLRhy).
