@@ -30,6 +30,8 @@
 
 ## Agenda
 
+[Click here for all abstracts](all_abstracts.md).
+
 <script language="javascript">
 	function LT(d, t) {
 		var date = new Date(d+' 2022 '+t+' UTC+1');
@@ -78,7 +80,7 @@
 
 ## Abstract submissions 
 
-[Abstracts are now publicly available for blinded public comments and ratings.](https://imperial.eu.qualtrics.com/jfe/form/SV_0pvzikmEV0MJe0C) We selected the most highly rated abstracts for contributed talks, subject to maintaining a balance between the different fields of, broadly speaking, neuroscience, computer science and neuromorphic engineering. Abstracts not selected for a talk will be presented as posters. If you're interested in adapting this idea for your workshop, [we wrote up a quick guide on how to do it](https://github.com/neural-reckoning/misc-guides/blob/main/workshop-abstract-voting-with-qualtrics-and-office.md).
+We sent workshop participants a set of blinded abstracts to vote on whether or not they would be interested to see them as a talk. We selected the eight most highly requested abstracts for contributed talks. Abstracts not selected for a talk are presented as posters. If you're interested in adapting this idea for your workshop, [we wrote up a quick guide on how to do it](https://github.com/neural-reckoning/misc-guides/blob/main/workshop-abstract-voting-with-qualtrics-and-office.md).
 
 ## Previous editions
 
