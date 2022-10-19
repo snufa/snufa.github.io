@@ -57,7 +57,7 @@
 |       | **Session 3** (Chair: Timothée Masquelier) | 
 | 14:10 |  [Yonghong Tian](https://www.pkuml.org/), Peking University (invited) | <script language="javascript">LT('3 Nov', '14:10')</script>
 | 14:55 | **W. F. Podlaski**, C. K. Machens (Champalimaud) <br/> Universal function approximation in balanced spiking networks through convex-concave boundary composition | <script language="javascript">LT('3 Nov', '14:55')</script>
-| 15:15 | **B. Yin** (CWI) <br/> Training Dynamic Spiking Neural Network via Forward Propagation Through Time | <script language="javascript">LT('3 Nov', '15:15')</script>
+| 15:15 | **B. Yin, F. Corradi, and S. M. Bohte** (CWI) <br/> Training Dynamic Spiking Neural Network via Forward Propagation Through Time | <script language="javascript">LT('3 Nov', '15:15')</script>
 | 15:35 | Break (15mins) | <script language="javascript">LT('3 Nov', '15:35')</script>
 | 15:50 | **Panel discussion (Zoom)** | <script language="javascript">LT('3 Nov', '15:50')</script>
 |       | **Session 4** (Chair: Dan Goodman) | 
