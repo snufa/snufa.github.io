@@ -6,7 +6,7 @@
 
 **Executive committee.** [Katie Schuman](https://catherineschuman.com/), [Timothée Masquelier](https://cerco.cnrs.fr/pagesp/tim/), [Dan Goodman](https://neural-reckoning.org), and [Friedemann Zenke](https://zenkelab.org/).
 
-**Quick links.** <span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://www.eventbrite.co.uk/e/snufa-workshop-2022-tickets-387490864607">Register (free)</a></span> <span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://imperial.eu.qualtrics.com/jfe/form/SV_0pvzikmEV0MJe0C">Vote on abstracts</a></span>
+**Quick links.** <span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://www.eventbrite.co.uk/e/snufa-workshop-2022-tickets-387490864607">Register (free)</a></span> Voting on abstracts is now closed. 
 
 
 ## Invited speakers
@@ -26,6 +26,46 @@
 Abstract submission deadline. Closed. Was 28 September 2022.
 
 **Final decisions**. 12 October 2022.
+
+
+
+<script language="javascript">
+	function LT(d, t) {
+		var date = new Date(d+' 2022 '+t+' UTC+1');
+		document.write(date.toString());
+	}
+</script>
+
+| Time (CET) | Session | Local date/time 
+|------------|---------|-----------------
+|**November 9th** |  |  
+| 14:00 | Welcome by the organizers | <script language="javascript">LT('2 Nov', '14:00')</script> 
+|     | **Session 1** (Chair: Katie Schuman) |  
+| 14:10 | [Priya Panda](https://intelligentcomputinglab.yale.edu/), Yale (invited)| <script language="javascript">LT('2 Nov', '14:10')</script> 
+| 14:55 | **Thomas Limbacher**, Ozan Özdenizci, Robert Legenstein <br/> | <script language="javascript">LT('2 Nov', '14:55')</script> 
+| 15:15 | **M. Nardin**, J. W. Phillips, W. F. Podlaski, S. W. Keemink <br/> | <script language="javascript">LT('2 Nov', '15:15')</script> 
+| 15:35 | Break (30mins) | 
+|       | **Session 2** (Chair: Friedemann Zenke) |  
+| 16:05 | [Charlotte Frenkel](https://chfrenkel.github.io/), TU Delft (invited) |  <script language="javascript">LT('2 Nov', '16:05')</script>
+| 16:50 | **A. Subramoney**, K. K. Nazeer, M. Schöne, C. Mayr, D. Kappel | <script language="javascript">LT('2 Nov', '16:50')</script> 
+| 17:10 | **A. Galloni**, A. Peddada, A. Milstein | <script language="javascript">LT('2 Nov', '17:10')</script>
+| 17:30 | Break (30mins) | <script language="javascript">LT('2 Nov', '17:30')</script>
+| 18:00 | **Poster session (Zoom)** |  <script language="javascript">LT('2 Nov', '18:00')</script>
+| **November 10th** | | 
+| 14:00 | Welcome to day two | <script language="javascript">LT('3 Nov', '14:00')</script> 
+|       | **Session 3** (Chair: Timothée Masquelier) | 
+| 14:10 |  [Yonghong Tian](https://www.pkuml.org/), Peking University (invited) | <script language="javascript">LT('3 Nov', '14:10')</script>
+| 14:55 | **W. F. Podlaski**, C. K. Machens | <script language="javascript">LT('3 Nov', '14:55')</script>
+| 15:15 | **B. Yin** | <script language="javascript">LT('3 Nov', '15:15')</script>
+| 15:35 | Break (15mins) | <script language="javascript">LT('3 Nov', '15:35')</script>
+| 15:50 | **Panel discussion (Zoom)** | <script language="javascript">LT('3 Nov', '15:50')</script>
+|       | **Session 4** (Chair: Dan Goodman) | 
+| 16:30 | [Panayiota Poirazi](http://dendrites.gr/), Institute of Molecular Biology and Biotechnology (IMBB) | <script language="javascript">LT('3 Nov', '16:30')</script>
+| 17:15 | **Z. Liao**, D. Hadjiabadi, S. Terada, I. Soltesz, A. Losonczy  | <script language="javascript">LT('3 Nov', '17:15')</script>
+| 17:35 | **C. B. Currin**, K. Stecher, C. Pfeffer, G. Novarino, and T. P. Vogels | <script language="javascript">LT('3 Nov', '17:35')</script>
+| 17:55 | Closing remarks by organizers | <script language="javascript">LT('3 Nov', '17:55')</script>
+
+
 
 ## Format
 
