@@ -1,0 +1,10 @@
+
+# Training Dynamic Spiking Neural Network via Forward Propagation Through Time
+
+**Authors:** Bojian Yin
+
+**Presentation type:** Talk
+
+## Abstract
+
+With recent advances in learning algorithms, recurrent networks of spiking neurons are achieving performance competitive with standard recurrent neural networks. Still, these learning algorithms are limited to small networks of simple spiking neurons and modest-length temporal sequences, as they impose high memory requirements, have difficulty training complex neuron models, and are incompatible with online learning.Taking inspiration from the concept of Liquid Time-Constant (LTCs), we introduce a novel class of spiking neurons, the Liquid Time-Constant Spiking Neuron (LTC-SN), resulting in functionality similar to the gating operation in LSTMs. We integrate these neurons in SNNs that are trained with FPTT and demonstrate that thus trained LTC-SNNs outperform various SNNs trained with BPTT on long sequences while enabling online learning and drastically reducing memory complexity. We show this for several classical benchmarks that can easily be varied in sequence length, like the Add Task and the DVS-gesture benchmark. We also show how FPTT-trained LTC-SNNs can be applied to large convolutional SNNs, where we demonstrate novel state-of-the-art for online learning in SNNs on a number of standard benchmarks (S-MNIST, R-MNIST, DVS-GESTURE) and also show that large feedforward SNNs can be trained successfully in an online manner to near (Fashion-MNIST, DVS-CIFAR10) or exceeding (PS-MNIST, R-MNIST) state-of-the-art performance as obtained with offline BPTT. Finally, the training and memory efficiency of FPTT enables us to directly train SNNs in an end-to-end manner at network sizes and complexity that was previously infeasible:  we demonstrate this by training in an end-to-end fashion the first deep and performant spiking neural network for object localization and recognition. Taken together, we out contribution enable for the first time training large-scale complex spiking neural network architectures online and on long temporal sequences.

@@ -1,0 +1,10 @@
+
+# An Optimized Deep Spiking Neural Network Architecture Without Gradients
+
+**Authors:** Yeshwanth Bethi, André van Schaik, and Saeed Afshar
+
+**Presentation type:** Poster
+
+## Abstract
+
+We present an end-to-end trainable modular event-driven neural architecture that uses local synaptic and threshold adaptation rules to perform transformations between arbitrary spatio-temporal spike patterns. The architecture represents a highly abstracted model of existing Spiking Neural Network (SNN) architectures. The proposed Optimized Deep Event-driven Spiking neural network Architecture (ODESA) can simultaneously learn hierarchical spatio-temporal features at multiple arbitrary time scales. ODESA performs online learning without the use of error back-propagation or the calculation of gradients. Through the use of simple local adaptive selection thresholds at each node, the network rapidly learns to appropriately allocate its neuronal resources at each layer for any given problem without using an error measure. These adaptive selection thresholds are the central feature of ODESA, ensuring network stability and robustness to noise as well as to the selection of initial system parameters. Network activations are inherently sparse due to a hard Winner-Take-All (WTA) constraint at each layer. We evaluate the architecture on existing spatio-temporal datasets, as well as a novel set of tasks based on International Morse Code that we created. These tests demonstrate the hierarchical spatio-temporal learning capabilities of ODESA. Through these tests, we demonstrate that ODESA can optimally solve practical and highly challenging hierarchical spatio-temporal learning tasks with the minimum possible number of computing nodes. We discuss how abstractions of SNN architectures like ODESA can help us investigate the role of SNNs in solving practical machine learning tasks while retaining the core principles of neuromorphic computing like local and event-driven computation.

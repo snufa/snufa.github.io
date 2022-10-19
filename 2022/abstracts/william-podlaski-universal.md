@@ -1,0 +1,10 @@
+
+# Universal function approximation in balanced spiking networks through convex-concave boundary composition
+
+**Authors:** William F Podlaski, Christian K Machens
+
+**Presentation type:** Talk
+
+## Abstract
+
+The spike-threshold nonlinearity is a fundamental, yet enigmatic, component of biological computation — despite its role in many theories, it has evaded definitive characterisation. Indeed, much classic work has attempted to limit the focus on spiking by smoothing over the spike threshold or by approximating spiking dynamics with firing-rate dynamics. Here, we take a novel perspective that captures the full potential of spike-based computation. Based on previous studies of the geometry of efficient spike-coding networks, we consider a population of neurons with low-rank connectivity, allowing us to cast each neuron’s threshold as a boundary in a space of population modes, or latent variables. Each neuron divides this latent space into subthreshold and suprathreshold areas. We then demonstrate how a network of inhibitory (I) neurons forms a convex, attracting boundary in the latent coding space, and a network of excitatory (E) neurons forms a concave, repellant boundary. Finally, we show how the combination of the two yields stable dynamics at the crossing of the E and I boundaries, and can be mapped onto a constrained optimization problem. The resultant EI networks are balanced, inhibition-stabilized, and exhibit asynchronous irregular activity, thereby closely resembling cortical networks of the brain. Moreover, we demonstrate how such networks can be tuned to either suppress or amplify noise, and how the composition of inhibitory convex and excitatory concave boundaries can result in universal function approximation. Our work puts forth a new theory of biologically-plausible computation in balanced spiking networks, and could serve as a novel framework for scalable and interpretable computation with spikes.
