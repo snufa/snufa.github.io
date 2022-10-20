@@ -51,7 +51,7 @@
 | 15:15 | **M. Nardin**, J. W. Phillips, W. F. Podlaski, S. W. Keemink (IST Austria) <br/> Nonlinear computations in spiking neural networks through multiplicative synapses <br /> [abstract](https://snufa.net/2022/abstracts/michele-nardin-nonlinear.html)  | <script language="javascript">LT('9 Nov', '15:15')</script> 
 | 15:35 | Break (30mins) | 
 |       | **Session 2** (Chair: Friedemann Zenke) |  
-| 16:05 | [Charlotte Frenkel](https://chfrenkel.github.io/), TU Delft (invited) |  <script language="javascript">LT('9 Nov', '16:05')</script>
+| 16:05 | [Panayiota Poirazi](http://dendrites.gr/), Institute of Molecular Biology and Biotechnology (IMBB) <br /> Why dendrites matter for biological and artificial circuits |  <script language="javascript">LT('9 Nov', '16:05')</script>
 | 16:50 | **A. Subramoney**, K. K. Nazeer, M. Schöne, C. Mayr, D. Kappel (University of Bochum) <br/> Beyond Biologically Plausible Spiking Networks for Neuromorphic Computing <br /> [abstract](https://snufa.net/2022/abstracts/anand-subramoney-beyond.html)  | <script language="javascript">LT('9 Nov', '16:50')</script> 
 | 17:10 | **A. Galloni**, A. Peddada, A. Milstein (Rutgers) <br/> Behavioral Timescale Synaptic Plasticity (BTSP) for biologically plausible credit assignment across multiple layers via top-down gating of dendritic plasticity <br /> [abstract](https://snufa.net/2022/abstracts/aaron-milstein-behavioral.html)  | <script language="javascript">LT('9 Nov', '17:10')</script>
 | 17:30 | Break (30mins) | <script language="javascript">LT('9 Nov', '17:30')</script>
@@ -65,7 +65,7 @@
 | 15:35 | Break (15mins) | <script language="javascript">LT('10 Nov', '15:35')</script>
 | 15:50 | **Panel discussion (Zoom)** | <script language="javascript">LT('10 Nov', '15:50')</script>
 |       | **Session 4** (Chair: Dan Goodman) | 
-| 16:30 | [Panayiota Poirazi](http://dendrites.gr/), Institute of Molecular Biology and Biotechnology (IMBB) <br /> Why dendrites matter for biological and artificial circuits | <script language="javascript">LT('10 Nov', '16:30')</script>
+| 16:30 | [Charlotte Frenkel](https://chfrenkel.github.io/), TU Delft (invited) <br /> Merging insights from artificial and biological neural networks for neuromorphic intelligence | <script language="javascript">LT('10 Nov', '16:30')</script>
 | 17:15 | **Z. Liao**, D. Hadjiabadi, S. Terada, I. Soltesz, A. Losonczy (Columbia) <br/> A biologically plausible inhibitory plasticity rule for world-model learning in SNNs  <br /> [abstract](https://snufa.net/2022/abstracts/zhenrui-liao-biologically.html)  | <script language="javascript">LT('10 Nov', '17:15')</script>
 | 17:35 | **C. B. Currin**, K. Stecher, C. Pfeffer, G. Novarino, and T. P. Vogels (IST Austria) <br/> Bridging the gap between artificial models and cortical circuits <br /> [abstract](https://snufa.net/2022/abstracts/christopher-brian-bridging.html)  | <script language="javascript">LT('10 Nov', '17:35')</script>
 | 17:55 | Closing remarks by organizers | <script language="javascript">LT('10 Nov', '17:55')</script>
