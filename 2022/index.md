@@ -59,7 +59,7 @@
 | **November 10th** | | 
 | 14:00 | Welcome to day two | <script language="javascript">LT('10 Nov', '14:00')</script> 
 |       | **Session 3** (Chair: Timothée Masquelier) | 
-| 14:10 |  [Yonghong Tian](https://www.pkuml.org/), Peking University (invited) | <script language="javascript">LT('10 Nov', '14:10')</script>
+| 14:10 |  [Yonghong Tian](https://www.pkuml.org/), Peking University (invited) <br /> Spiking Deep Learning with SpikingJelly | <script language="javascript">LT('10 Nov', '14:10')</script>
 | 14:55 | **W. F. Podlaski**, C. K. Machens (Champalimaud) <br/> Universal function approximation in balanced spiking networks through convex-concave boundary composition <br /> [abstract](https://snufa.net/2022/abstracts/william-podlaski-universal.html)  | <script language="javascript">LT('10 Nov', '14:55')</script>
 | 15:15 | **B. Yin, F. Corradi, and S. M. Bohte** (CWI) <br/> Training Dynamic Spiking Neural Network via Forward Propagation Through Time <br /> [abstract](https://snufa.net/2022/abstracts/bojian-yin-training.html)  | <script language="javascript">LT('10 Nov', '15:15')</script>
 | 15:35 | Break (15mins) | <script language="javascript">LT('10 Nov', '15:35')</script>
