@@ -4,7 +4,7 @@
 ## Invited talks 
 
 * Merging insights from artificial and biological neural networks for neuromorphic intelligence, [Charlotte Frenkel](https://chfrenkel.github.io/) (TU Delft),
-* TBD, [Priya Panda](https://intelligentcomputinglab.yale.edu/) (Yale),
+* Algorithm-Hardware Co-design for Efficient and Robust Spiking Neural Networks, [Priya Panda](https://intelligentcomputinglab.yale.edu/) (Yale),
 * Why dendrites matter for biological and artificial circuits, [Yiota Poirazi](http://dendrites.gr/) (Institute of Molecular Biology and Biotechnology IMBB),
 * [Spiking Deep Learning with SpikingJelly](abstracts/yonghon-tian-spiking.md), [Yonghong Tian](https://www.pkuml.org/) (Peking University)
 

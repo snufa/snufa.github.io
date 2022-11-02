@@ -46,7 +46,7 @@
 |**November 9th** |  |  
 | 14:00 | Welcome by the organizers | <script language="javascript">LT('9 Nov', '14:00')</script> 
 |     | **Session 1** (Chair: Katie Schuman) |  
-| 14:10 | [Priya Panda](https://intelligentcomputinglab.yale.edu/), Yale (invited)| <script language="javascript">LT('9 Nov', '14:10')</script> 
+| 14:10 | [Priya Panda](https://intelligentcomputinglab.yale.edu/), Yale (invited) <br /> Algorithm-Hardware Co-design for Efficient and Robust Spiking Neural Networks | <script language="javascript">LT('9 Nov', '14:10')</script> 
 | 14:55 | **Thomas Limbacher**, Ozan Özdenizci, Robert Legenstein (TU Graz) <br/> Memory-enriched computation and learning in spiking neural networks through Hebbian plasticity <br /> [abstract](https://snufa.net/2022/abstracts/thomas-limbacher-memory-enriched.html) | <script language="javascript">LT('9 Nov', '14:55')</script> 
 | 15:15 | **M. Nardin**, J. W. Phillips, W. F. Podlaski, S. W. Keemink (IST Austria) <br/> Nonlinear computations in spiking neural networks through multiplicative synapses <br /> [abstract](https://snufa.net/2022/abstracts/michele-nardin-nonlinear.html)  | <script language="javascript">LT('9 Nov', '15:15')</script> 
 | 15:35 | Break (30mins) | 
