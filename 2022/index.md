@@ -26,6 +26,8 @@
 
 **Talks**. Talks will be streamed on [CrowdCast](https://www.crowdcast.io/e/snufa-2022) with many thanks to [WorldWideNeuro](https://www.world-wide.org/Neuro/) for sponsoring this.
 
+**Posters and AGM**. These will be streamed on Zoom and links will be emailed to registered participants.
+
 ## Agenda
 
 [Click here for all abstracts](all_abstracts.md).
