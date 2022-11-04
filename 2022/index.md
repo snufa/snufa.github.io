@@ -61,7 +61,7 @@
 | 14:55 | **W. F. Podlaski**, C. K. Machens (Champalimaud) <br/> Universal function approximation in balanced spiking networks through convex-concave boundary composition <br /> [abstract](https://snufa.net/2022/abstracts/william-podlaski-universal.html)  | <script language="javascript">LT('10 Nov', '14:55')</script>
 | 15:15 | **B. Yin**, F. Corradi, and S. M. Bohte (CWI) <br/> Training Dynamic Spiking Neural Network via Forward Propagation Through Time <br /> [abstract](https://snufa.net/2022/abstracts/bojian-yin-training.html)  | <script language="javascript">LT('10 Nov', '15:15')</script>
 | 15:35 | Break (15mins) | <script language="javascript">LT('10 Nov', '15:35')</script>
-| 15:50 | **Annual General Meeting (Zoom)** | <script language="javascript">LT('10 Nov', '15:50')</script>
+| 15:50 | **Annual General Meeting (Zoom)** <br/> Open to everyone to discuss issues and opportunities for this community. | <script language="javascript">LT('10 Nov', '15:50')</script>
 |       | **Session 4** (Chair: Dan Goodman) | 
 | 16:30 | [Charlotte Frenkel](https://chfrenkel.github.io/), TU Delft (invited) <br /> Merging insights from artificial and biological neural networks for neuromorphic intelligence | <script language="javascript">LT('10 Nov', '16:30')</script>
 | 17:15 | **Z. Liao**, D. Hadjiabadi, S. Terada, I. Soltesz, A. Losonczy (Columbia) <br/> A biologically plausible inhibitory plasticity rule for world-model learning in SNNs  <br /> [abstract](https://snufa.net/2022/abstracts/zhenrui-liao-biologically.html)  | <script language="javascript">LT('10 Nov', '17:15')</script>
