@@ -12,3 +12,7 @@ The learning paradigms between biological spiking neural networks compared to th
 Toward this end, we have extended a recently developed method, EventProp [1], which derives an exact gradient across event-based neuron models, to compute its gradients through these varied delays. We implement this as an additional matrix specifying the connection delays between neurons, which we then use to construct indexical matrices to enable the proper alignment of spiking activity through the forward and backward passes of EventProp. Experimentally, we train against a simple, temporally encoded classification task using the Yin-Yang dataset, which was developed for research on biologically plausible error backpropagation. We found that incorporating varied delays to the network structure for this task resulted in improvements to training such as faster learning and increased robustness to hyperparameter tuning. We offer varied delays as a useful structural detail, and which also brings us closer to combining the different learning paradigms.
 
 1	Wunderlich, T. C. & Pehle, C. Event-based backpropagation can compute exact gradients for spiking neural networks. Scientific Reports 11, 12829, doi:10.1038/s41598-021-91786-z (2021).
+
+### Funding
+
+Sandia National Laboratories is a multimission laboratory managed and operated by National Technology & Engineering Solutions of Sandia, LLC, a wholly owned subsidiary of Honeywell International Inc., for the U.S. Department of Energy’s National Nuclear Security Administration under contract DE-NA0003525.
