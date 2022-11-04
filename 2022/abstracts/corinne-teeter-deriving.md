@@ -13,3 +13,6 @@ Though e-prop provides a more biologically plausible alternative to BPTT, its co
 
 1	Bellec, G. et al. A solution to the learning dilemma for recurrent networks of spiking neurons. Nature Communications 11, 3625, doi:10.1038/s41467-020-17236-y (2020).
 
+### Funding
+
+Sandia National Laboratories is a multimission laboratory managed and operated by National Technology & Engineering Solutions of Sandia, LLC, a wholly owned subsidiary of Honeywell International Inc., for the U.S. Department of Energy’s National Nuclear Security Administration under contract DE-NA0003525.
