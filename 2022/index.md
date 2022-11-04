@@ -6,10 +6,7 @@
 
 **Executive committee.** [Katie Schuman](https://catherineschuman.com/), [Timothée Masquelier](https://cerco.cnrs.fr/pagesp/tim/), [Dan Goodman](https://neural-reckoning.org), and [Friedemann Zenke](https://zenkelab.org/).
 
-**Quick links.** <span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://www.eventbrite.co.uk/e/snufa-workshop-2022-tickets-387490864607">Register (free)</a></span> 
-
-
-
+**Quick links.** <span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://www.eventbrite.co.uk/e/snufa-workshop-2022-tickets-387490864607">Register (free)</a></span> <span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://www.crowdcast.io/e/snufa-2022">Talks</a></span>
 
 
 ## Key information
@@ -27,6 +24,7 @@
 [Yiota Poirazi](http://dendrites.gr/) (Institute of Molecular Biology and Biotechnology IMBB),
 [Yonghong Tian](https://www.pkuml.org/) (Peking University)
 
+**Talks**. Talks will be streamed on [CrowdCast](https://www.crowdcast.io/e/snufa-2022) with many thanks to [WorldWideNeuro](https://www.world-wide.org/Neuro/) for sponsoring this.
 
 ## Agenda
 
@@ -63,7 +61,7 @@
 | 14:55 | **W. F. Podlaski**, C. K. Machens (Champalimaud) <br/> Universal function approximation in balanced spiking networks through convex-concave boundary composition <br /> [abstract](https://snufa.net/2022/abstracts/william-podlaski-universal.html)  | <script language="javascript">LT('10 Nov', '14:55')</script>
 | 15:15 | **B. Yin**, F. Corradi, and S. M. Bohte (CWI) <br/> Training Dynamic Spiking Neural Network via Forward Propagation Through Time <br /> [abstract](https://snufa.net/2022/abstracts/bojian-yin-training.html)  | <script language="javascript">LT('10 Nov', '15:15')</script>
 | 15:35 | Break (15mins) | <script language="javascript">LT('10 Nov', '15:35')</script>
-| 15:50 | **Panel discussion (Zoom)** | <script language="javascript">LT('10 Nov', '15:50')</script>
+| 15:50 | **Annual General Meeting (Zoom)** | <script language="javascript">LT('10 Nov', '15:50')</script>
 |       | **Session 4** (Chair: Dan Goodman) | 
 | 16:30 | [Charlotte Frenkel](https://chfrenkel.github.io/), TU Delft (invited) <br /> Merging insights from artificial and biological neural networks for neuromorphic intelligence | <script language="javascript">LT('10 Nov', '16:30')</script>
 | 17:15 | **Z. Liao**, D. Hadjiabadi, S. Terada, I. Soltesz, A. Losonczy (Columbia) <br/> A biologically plausible inhibitory plasticity rule for world-model learning in SNNs  <br /> [abstract](https://snufa.net/2022/abstracts/zhenrui-liao-biologically.html)  | <script language="javascript">LT('10 Nov', '17:15')</script>
@@ -78,7 +76,7 @@
 * 4 invited talks
 * 8 contributed talks
 * Poster session
-* Panel debate 
+* Annual General Meeting
 
 ## Abstract submissions 
 
