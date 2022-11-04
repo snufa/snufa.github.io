@@ -66,13 +66,9 @@
 
 * [Cleo: a simulation testbed for bridging model and experiment in mesoscale neuroscience](abstracts/kyle-johnsen-cleo.md) (Kyle Johnsen, Nathanael Cruzado, Adam Willats, Christopher Rozell)
 
-* [Computing with precisely timed spikes using polychronous spiking neurons](abstracts/laurent-perrinet-computing.md) (Laurent PERRINET)
-
 * [Gradient Computation and Analog Neuromorphic Hardware](abstracts/luca-blessing-gradient.md) (Luca Blessing)
 
 * [Temporally shifted STDP rule reveals synapses crucial for learning](abstracts/maayan-levy-temporally.md) (Maayan Levy, Tim P. Vogels)
-
-* [On the computational role of multimodal units ](abstracts/marcus-ghosh-computational.md) (Marcus Ghosh, Gabriel Béna, Nicolas Perez-Nieves, Volker Bormuth, Dan F. M. Goodman  )
 
 * [Design and Simulation of Spiking Programmable Neural Computers](abstracts/mehmet-kerem-design.md) (Mehmet Kerem Turkcan)
 
