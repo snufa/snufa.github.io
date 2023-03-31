@@ -6,8 +6,7 @@ SNUFA is an online workshop and community focused on research advances in the fi
 
 <img align="right" width="300" src="/images/snufa2022_logo.png">
 
-
-The annual SNUFA online workshop brings together researchers in the field of spiking neural networks to present their work and discuss ways of translating these findings into a better understanding of neural circuits and novel brain-inspired computing approaches. Topics of interest include artificial and biologically plausible learning algorithms and the dissection of trained spiking circuits toward understanding neural processing.
+The annual SNUFA online workshop brings together researchers in spiking neural networks to present their work and discuss translating these findings into a better understanding of neural circuits and novel brain-inspired computing approaches. Topics of interest include artificial and biologically plausible learning algorithms and the dissection of trained spiking circuits toward understanding neural processing.
 
 The workshops are organised by [Dan Goodman](https://neural-reckoning.org/) and [Friedemann Zenke](https://zenkelab.org).
 
