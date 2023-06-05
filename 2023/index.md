@@ -43,7 +43,7 @@
 |------------|---------|-----------------
 |**November 7th** |  |  
 | 14:00 | Welcome by the organizers | <script language="javascript">LT('7 Nov', '14:00')</script> 
-|     | **Session 1** (Chair: Charlotte Frenkel) |  
+|       | **Session 1** (Chair: Charlotte Frenkel) |  
 | 14:10 | [Rodolphe Sepulchre](https://sites.google.com/site/rsepulchre), KU Leuven and University of Cambridge | <script language="javascript">LT('7 Nov', '14:10')</script> 
 | 14:55 | TBA | <script language="javascript">LT('7 Nov', '14:55')</script> 
 | 15:15 | TBA | <script language="javascript">LT('7 Nov', '15:15')</script> 
@@ -51,22 +51,21 @@
 |       | **Session 2** (Chair: Friedemann Zenke) |  
 | 16:05 | [Gabriel Ocker](https://www.bu.edu/math/profile/gabriel-ocker/), Boston University (invited) |  <script language="javascript">LT('7 Nov', '16:05')</script>
 | 16:50 | TBA | <script language="javascript">LT('7 Nov', '16:50')</script> 
-| 17:10 | TBA | <script language="javascript">LT('7 Nov', '17:10')</script>
+| 17:10 | Flash talks by selected poster presenters | <script language="javascript">LT('7 Nov', '17:10')</script>
 | 17:30 | Break (30mins) | <script language="javascript">LT('7 Nov', '17:30')</script>
 | 18:00 | **Poster session (Zoom)** |  <script language="javascript">LT('7 Nov', '18:00')</script>
 | **November 8th** | | 
 | 14:00 | Welcome to day two | <script language="javascript">LT('8 Nov', '14:00')</script> 
 |       | **Session 3** (Chair: Dan Goodman) | 
-| 14:10 | [Melika Payvand](https://services.ini.uzh.ch/people/melika), INI, Zurich (invited) | <script language="javascript">LT('8 Nov', '14:10')</script>
-| 14:55 | TBA | <script language="javascript">LT('8 Nov', '14:55')</script>
-| 15:15 | TBA | <script language="javascript">LT('8 Nov', '15:15')</script>
-| 15:35 | Break (15mins) | <script language="javascript">LT('8 Nov', '15:35')</script>
-| 15:50 | **Annual General Meeting (Zoom)** <br/> Open to everyone to discuss issues and opportunities for this community. | <script language="javascript">LT('8 Nov', '15:50')</script>
+| 14:05 | [Melika Payvand](https://services.ini.uzh.ch/people/melika), INI, Zurich (invited) | <script language="javascript">LT('8 Nov', '14:05')</script>
+| 14:50 | TBA | <script language="javascript">LT('8 Nov', '14:50')</script>
+| 15:10 | TBA | <script language="javascript">LT('8 Nov', '15:10')</script>
+| 15:30 | Break (30mins) | <script language="javascript">LT('8 Nov', '15:30')</script>
 |       | **Session 4** (Chair: Emre Neftci) | 
-| 16:30 | [Jeff Krichmar](https://sites.socsci.uci.edu/~jkrichma/), UC Irvine (invited) <br /> | <script language="javascript">LT('8 Nov', '16:30')</script>
-| 17:15 | TBA | <script language="javascript">LT('8 Nov', '17:15')</script>
-| 17:35 | TBA | <script language="javascript">LT('8 Nov', '17:35')</script>
-| 17:55 | Closing remarks by organizers | <script language="javascript">LT('8 Nov', '17:55')</script>
+| 16:00 | [Jeff Krichmar](https://sites.socsci.uci.edu/~jkrichma/), UC Irvine (invited) <br /> | <script language="javascript">LT('8 Nov', '16:00')</script>
+| 16:45 | TBA | <script language="javascript">LT('8 Nov', '16:45')</script>
+| 17:05 | TBA | <script language="javascript">LT('8 Nov', '17:05')</script>
+| 17:25 | Closing remarks by the organizers | <script language="javascript">LT('8 Nov', '17:25')</script>
 
 
 
@@ -74,9 +73,9 @@
 
 * Two half days
 * 4 invited talks
-* 8 contributed talks
-* Flash talks
-* Poster session
+* 7 contributed talks
+* Flash talks by selected poster presenters
+* Virtual poster session
 
 ## Abstract submissions 
 
