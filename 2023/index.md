@@ -16,7 +16,7 @@
 
 <!--- **Registration**. Free but mandatory. [Click here to register](https://www.eventbrite.co.uk/e/snufa-workshop-2022-tickets-387490864607).-->
 
-**Abstract submission**. Closed (deadline 29th of September, 2023).
+**Abstract submission**. Will open soon (deadline 29th of September, 2023).
 
 **Invited speakers**. 
 [Rodolphe Sepulchre](https://sites.google.com/site/rsepulchre) (KU Leuven and University of Cambridge),
@@ -76,8 +76,4 @@
 * 7 contributed talks
 * Flash talks by selected poster presenters
 * Virtual poster session
-
-## Abstract submissions 
-
-We sent workshop participants a set of blinded abstracts to vote on whether or not they would be interested to see them as a talk. We selected the eight most highly requested abstracts for contributed talks. Abstracts not selected for a talk are presented as posters. If you're interested in adapting this idea for your workshop, [we wrote up a quick guide on how to do it](https://github.com/neural-reckoning/misc-guides/blob/main/workshop-abstract-voting-with-qualtrics-and-office.md).
 
