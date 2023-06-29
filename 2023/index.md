@@ -44,7 +44,7 @@
 |**November 7th** |  |  
 | 14:00 | Welcome by the organizers | <script language="javascript">LT('7 Nov', '14:00')</script> 
 |       | **Session 1** (Chair: Charlotte Frenkel) |  
-| 14:10 | [Rodolphe Sepulchre](https://sites.google.com/site/rsepulchre), KU Leuven and University of Cambridge | <script language="javascript">LT('7 Nov', '14:10')</script> 
+| 14:10 | [Rodolphe Sepulchre](https://sites.google.com/site/rsepulchre), KU Leuven and University of Cambridge (invited) | <script language="javascript">LT('7 Nov', '14:10')</script> 
 | 14:55 | TBA | <script language="javascript">LT('7 Nov', '14:55')</script> 
 | 15:15 | TBA | <script language="javascript">LT('7 Nov', '15:15')</script> 
 | 15:35 | Break (30mins) | 
