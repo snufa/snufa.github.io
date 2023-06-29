@@ -12,7 +12,7 @@
 ## Key information
 
 
-**Workshop**. 7-8 November 2023, European afternoons.
+**Workshop**. 7-8 November 2023, European afternoons (online).
 
 <!--- **Registration**. Free but mandatory. [Click here to register](https://www.eventbrite.co.uk/e/snufa-workshop-2022-tickets-387490864607).-->
 
