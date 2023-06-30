@@ -34,7 +34,7 @@
 
 <script language="javascript">
 	function LT(d, t) {
-		var date = new Date(d+' 2022 '+t+' UTC+1');
+		var date = new Date(d+' 2023 '+t+' UTC+1');
 		document.write(date.toString());
 	}
 </script>
