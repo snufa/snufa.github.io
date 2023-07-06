@@ -10,6 +10,14 @@ The annual SNUFA online workshop brings together researchers in spiking neural n
 
 The workshops are organised by [Dan Goodman](https://neural-reckoning.org/) and [Friedemann Zenke](https://zenkelab.org).
 
+SNUFA 2023
+----------
+
+Dates, invited speakers and abstract submission now available.
+
+<span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://snufa.net/2023/">Go to SNUFA 2023</a></span>
+
+
 Archive
 -------
 
