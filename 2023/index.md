@@ -6,13 +6,13 @@
 
 **Executive committee.** [Emre Neftci](https://www.fz-juelich.de/de/pgi), [Charlotte Frenkel](https://chfrenkel.github.io/), [Dan Goodman](https://neural-reckoning.org), and [Friedemann Zenke](https://zenkelab.org/).
 
-**Quick links.** <span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://forms.office.com/e/p3a5irmfSN">Submit an abstract</a></span>
+**Quick links.** <span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://forms.office.com/e/p3a5irmfSN">Submit an abstract</a></span> <span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://www.eventbrite.co.uk/e/snufa-2023-tickets-675972952297">Register (free)</a></span>
 
 ## Key information
 
 **Workshop**. 7-8 November 2023, European afternoons (online).
 
-<!--- **Registration**. Free but mandatory. [Click here to register](https://www.eventbrite.co.uk/e/snufa-workshop-2022-tickets-387490864607).-->
+**Registration**. Free but mandatory. [Click here to register](https://www.eventbrite.co.uk/e/snufa-2023-tickets-675972952297).
 
 **Abstract submission**. See below for details or [click here](https://forms.office.com/e/p3a5irmfSN) to submit (deadline 29th of September, 2023).
 
