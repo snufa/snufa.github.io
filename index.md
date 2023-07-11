@@ -7,7 +7,7 @@ SNUFA is an online workshop and community focused on research advances in the fi
 SNUFA 2023
 ----------
 
-Dates, invited speakers and abstract submission now available.
+7-8 November 2023, European afternoons (online), invited speakers and abstract submission now available:
 
 <span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://snufa.net/2023/">Go to SNUFA 2023</a></span>
 
