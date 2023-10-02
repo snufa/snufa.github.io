@@ -6,7 +6,7 @@
 
 **Executive committee.** [Emre Neftci](https://www.fz-juelich.de/de/pgi), [Charlotte Frenkel](https://chfrenkel.github.io/), [Dan Goodman](https://neural-reckoning.org), and [Friedemann Zenke](https://zenkelab.org/).
 
-**Quick links.** <span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://forms.office.com/e/p3a5irmfSN">Submit an abstract</a></span> <span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://www.eventbrite.co.uk/e/snufa-2023-tickets-675972952297">Register (free)</a></span>
+**Quick links.** <span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://www.eventbrite.co.uk/e/snufa-2023-tickets-675972952297">Register (free)</a></span>
 
 ## Key information
 
@@ -14,7 +14,7 @@
 
 **Registration**. Free but mandatory. [Click here to register](https://www.eventbrite.co.uk/e/snufa-2023-tickets-675972952297).
 
-**Abstract submission**. See below for details or [click here](https://forms.office.com/e/p3a5irmfSN) to submit (deadline 29th of September, 2023).
+**Abstract submission**. Closed.
 
 **Invited speakers**. 
 [Rodolphe Sepulchre](https://sites.google.com/site/rsepulchre) (KU Leuven and University of Cambridge),
@@ -25,12 +25,6 @@
 <!-- **Talks**. Talks will be streamed on [CrowdCast](https://www.crowdcast.io/e/snufa-2023) with many thanks to [WorldWideNeuro](https://www.world-wide.org/Neuro/) for sponsoring this. 
 
 **Posters**. These will be streamed on Zoom and links will be emailed to registered participants. -->
-
-## Abstract submissions
-
-**Deadline: 29th September, 2023**
-
-[Click here to submit](https://forms.office.com/e/p3a5irmfSN). Abstracts will be made publicly available at the end of the abstract submissions deadline for blinded public comments and ratings. We will select the most highly rated abstracts for contributed talks and flash talks, subject to maintaining a balance between the different fields of, broadly speaking, neuroscience, computer science and neuromorphic engineering. Abstracts not selected for a talk, and abstracts selected for a flash talk, will be presented as posters.
 
 ## Agenda
 
@@ -71,6 +65,12 @@
 | 17:05 | TBA | <script language="javascript">LT('8 Nov', '17:05')</script>
 | 17:25 | Closing remarks by the organizers | <script language="javascript">LT('8 Nov', '17:25')</script>
 
+
+## Abstract submissions
+
+**Closed**
+
+Abstracts will be made publicly available at the end of the abstract submissions deadline for blinded public comments and ratings. We will select the most highly rated abstracts for contributed talks and flash talks, subject to maintaining a balance between the different fields of, broadly speaking, neuroscience, computer science and neuromorphic engineering. Abstracts not selected for a talk, and abstracts selected for a flash talk, will be presented as posters.
 
 
 ## Format
