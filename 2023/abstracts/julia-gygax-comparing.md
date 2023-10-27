@@ -1,0 +1,12 @@
+# Comparing surrogate gradients and likelihood-based training for spiking neural networks
+
+**Authors:** Julia Gygax, Friedemann Zenke
+
+**Presentation type:** Short talk
+
+## Abstract
+
+Spiking neural network (SNN) models are essential for studying the brain and for energy-efficient computing on neuromorphic hardware. However, training SNNs on complex tasks is challenging due to the non-differentiable nature of spikes. Surrogate gradient (SG) descent has emerged as a standard approach to mitigate this problem by providing a continuous relaxation of the spike activation function. Despite its success in deterministic SNNs, the theoretical basis of SGs remains elusive. Conversely, theoretically motivated likelihood-based approaches exist for training stochastic SNNs (e.g., Pfister et al., 2006). Yet, they are only applicable to shallow networks and usually result in lower task performance. This dichotomy raises the questions of whether SGs and likelihood-based methods are fundamentally related, and whether SGs can effectively train stochastic SNNs.
+To address these questions, we systematically analyzed their relationship. While we found that SGs are equivalent to the derivative of the expected output in single neurons, further theoretical analysis revealed that this equivalence generally breaks down, which we highlighted in the following three findings. First, in multilayer networks, SGs do not correspond to the derivative of the expected output. Second, we provide an example where SGs can have the opposite sign of the true gradient in a deterministic non-spiking network, showing that they introduce a bias. Third, we demonstrate that they cannot be understood as gradients of a surrogate loss function.
+Nevertheless, we take a first step towards a theoretical foundation for SGs by formally relating them to stochastic automatic differentiation (Arya et al., 2022). While deterministic SNNs can be considered a special case within this framework, it primarily incorporates and extends likelihood-based approaches, explaining why SGs are well suited for training stochastic SNNs, as we demonstrate in simulations.
+Our work thus establishes a formal link between SGs and stochastic automatic differentiation and confirms their effectiveness in training stochastic SNNs despite their intrinsic bias.

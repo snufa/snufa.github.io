@@ -1,0 +1,60 @@
+# SNUFA 2023 Abstracts
+
+## Invited talks (TBD)
+
+
+
+## Short talk
+
+* [Library of dynamics: linking parameters and behaviour of spiking networks with Simulation-Based Inference](abstracts/aaradhya-vaze-library.md) (Basile Confavreux, Aaradhya Vaze, Poornima Ramesh, Pedro Gonçalves, Jakob H. Macke and Tim P. Vogels)
+* [Linking Rate-Based And Spiking Models: A  Quest Towards Biologically Relevant  Neural Systems](abstracts/aiswarya-p-linking.md) (Aiswarya P S, Indian Institute of Science Education and Research, Thiruvananthapuram, India)
+* [Dendrites support formation and reactivation of sequential memories through Hebbian plasticity](abstracts/alessio-quaresim-dendrites.md) (Alessio Quaresima, Hartmut Fitz, Renato Duarte, Peter Hagoort, Karl Magnus Petersson)
+* [Are training trajectories of deep single-spike and deep ReLU network equivalent?](abstracts/ana-stanojevic-training.md) (Ana Stanojevic, Stanislaw Wozniak, Guillaume Bellec, Giovanni Cherubini, Angeliki Pantazi, Wulfram Gerstner)
+* [Combining various types of spike timing-dependent plasticity to learn efficient neural codes](abstracts/antony-w-combining.md) (Antony W. N’dri, Céline Teulière and Jochen Triesch)
+* [Exploring the Potential of Heterogeneous Spiking Neural Networks for Neuro-AI Advancements](abstracts/biswadeep-chakraborty-exploring.md) (Biswadeep Chakraborty)
+* [Unleashing the Potential of Spiking Neural Networks with Dynamic Confidence](abstracts/chen-li-unleashing.md) (Chen Li)
+* [Smooth Exact Gradient Descent Learning in Spiking Neural Networks](abstracts/christian-klos-smooth.md) (Christian Klos, Raoul-Martin Memmesheimer)
+* [Training spiking trisynaptic circuit models to perform spatial-memory dependent navigation using reinforcement learning](abstracts/christopher-earl-training.md) (Christopher Earl)
+* [Distributing task-related neural activity across a cortical network through task-independent connections](abstracts/christopher-kim-distributing.md) (Christopher Kim)
+* [Laminar Organization and Information Integration in Spiking Recurrent Neural Networks](abstracts/fatemeh-hadaeghi-laminar.md) (Aidai Kazybekova, Fatemeh Hadaeghi, Michael Winklhofer, Claus C. Hilgetag)
+* [A computational model of mammalian brainstem to solve sound localization](abstracts/francesco-de-computational.md) (Francesco De Santis, Alberto Antonietti)
+* [Learning Delays in Spiking Neural Networks using Dilated Convolutions with Learnable Spacings](abstracts/ilyass-hammouamri-learning.md) (Ilyass Hammouamri)
+* [Selectivity of granule cells in a computational model of the dentate gyrus](abstracts/ivan-raikov-selectivity.md) (Ivan Raikov, Aaron Milstein, Ivan Soltesz)
+* [Neuromorphic Intermediate Representation](abstracts/jens-egholm-neuromorphic.md) (Jens Egholm Pedersen, Steven Abreu, Matthias Jobst, Vittorio Fra, and Sadique Sheik)
+* [Input regularization mechanisms of the olfactory bulb glomerular layer](abstracts/jeremy-forest-input.md) (J. Forest, K. R. Mama, R. Moyal, M. Einhorn, A. Borthakur, T. A. Cleland)
+* [Comparing surrogate gradients and likelihood-based training for spiking neural networks](abstracts/julia-gygax-comparing.md) (Julia Gygax, Friedemann Zenke)
+* [Training Spiking Neural Networks for Continuous Control with Surrogate Gradients](abstracts/justus-huebotter-training.md) (Justus Huebotter, Pablo Lanillos, Serge Thill, Marcel van Gerven)
+* [Enhancing the Cleo experiment simulation testbed to support all-optical control, multi-channel optogenetics, and easier integration into data analysis pipelines](abstracts/kyle-johnsen-enhancing.md) (Kyle A. Johnsen, Nathanael A. Cruzado, Adam S. Charles, Christopher J. Rozell)
+* [Accurate detection of precise spiking motifs in neurobiological data](abstracts/laurent-perrinet-accurate.md) (Laurent Perrinet)
+* [The neural tangent kernel in networks with step-like activation functions](abstracts/luke-eilers-neural.md) (Luke Eilers, Sven Goedeke)
+* [Retina optimised for prediction across animal species](abstracts/luke-taylor-retina.md) (Luke Taylor, Andrew J King, Nicol Spencer Harper)
+* [Capacity of a spiking network with preserved weight distribution: a game-theory-inspired study](abstracts/maayan-levy-capacity.md) (Maayan Levy & Tim P. Vogels)
+* [On the role of heterogeneity in multimodal networks ](abstracts/marcus-ghosh-role.md) (Marcus Ghosh, Gabriel Béna, Volker Bormuth, Dan F. M. Goodman  )
+* [Training fast spiking networks through STDP and control feedback](abstracts/martino-sorbaro-training.md) (Alexander Efremov, Martino Sorbaro, Pau Vilimelis Aceituno, Benjamin Grewe)
+* [Training SNNs with Local Synaptic Plasticity and Online Error Signal](abstracts/mike-stuck-training.md) (Mike Stuck and Richard Naud)
+* [Real-Time Gesture Recognition with Event Camera](abstracts/muhammad-aitsam-real-time.md) (Muhammad Aitsam)
+* [How do receptor secretion and transport properties lead to the regularization of synaptic plasticity and benefit learning?](abstracts/oleg-nikitin-receptor.md) (Oleg Nikitin, Olga Lukyanova, Alex Kunin)
+* [The dual nature of synaptic homeostasis: Interaction between fast and slow processes](abstracts/petros-evgenios-dual.md) (Petros Evgenios Vlachos)
+* [The Effect of Neuron Behavior on Local Field Potentials](abstracts/rahmi-elibol-effect.md) (Rahmi Elibol)
+* [Noise cancellation and visual processing using Resonate-and-Fire neurons](abstracts/reem-al-noise.md) (Reem Al Fata, Jules Lecomte)
+* [MotorSRNN: A Brain-Inspired Spiking Recurrent Neural Network for Accuracy-Energy-Balanced Cortical Spike Train Decoding](abstracts/shaomin-zhang-motorsrnn.md) (Tengjun Liu)
+* [SNN Model Training Evaluated Through Loss Landscapes](abstracts/siddharth-joshi-model.md) (Thomas Summe, Siddarth Joshi)
+* [First-spike coding promotes accurate and efficient spiking neural networks for discrete events with rich temporal structures](abstracts/siying-liu-first-spike.md) (Siying Liu)
+* [Efficient Uncertainty Estimation in Spiking Neural Networks via MC-dropout](abstracts/tao-sun-efficient.md) (Tao Sun)
+* [Efficient computing of high-dimensional neural representations with biologically plausible E-I spiking networks](abstracts/veronika-koren-efficient.md) (Veronika Koren)
+* [Nanoimaging of Correlated Oxide Memristive Devices](abstracts/yohannes-abate-nanoimaging.md) (Yohannes Abate)
+
+
+
+
+## Flash talk
+
+
+
+
+
+## Poster
+
+
+
+
