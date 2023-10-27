@@ -2,7 +2,7 @@
 
 **Authors:** Tengjun Liu
 
-**Presentation type:** Short talk
+**Presentation type:** Poster
 
 ## Abstract
 

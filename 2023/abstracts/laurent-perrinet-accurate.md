@@ -2,7 +2,7 @@
 
 **Authors:** Laurent Perrinet
 
-**Presentation type:** Short talk
+**Presentation type:** Poster
 
 ## Abstract
 

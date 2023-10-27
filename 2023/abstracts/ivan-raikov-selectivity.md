@@ -2,7 +2,7 @@
 
 **Authors:** Ivan Raikov, Aaron Milstein, Ivan Soltesz
 
-**Presentation type:** Short talk
+**Presentation type:** Poster
 
 ## Abstract
 

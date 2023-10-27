@@ -2,7 +2,7 @@
 
 **Authors:** Christian Klos, Raoul-Martin Memmesheimer
 
-**Presentation type:** Short talk
+**Presentation type:** Poster
 
 ## Abstract
 

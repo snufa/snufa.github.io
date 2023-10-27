@@ -2,7 +2,7 @@
 
 **Authors:** Ana Stanojevic, Stanislaw Wozniak, Guillaume Bellec, Giovanni Cherubini, Angeliki Pantazi, Wulfram Gerstner
 
-**Presentation type:** Short talk
+**Presentation type:** Flash talk
 
 ## Abstract
 

@@ -2,7 +2,7 @@
 
 **Authors:** Basile Confavreux, Aaradhya Vaze, Poornima Ramesh, Pedro Gonçalves, Jakob H. Macke and Tim P. Vogels
 
-**Presentation type:** Short talk
+**Presentation type:** Flash talk
 
 ## Abstract
 

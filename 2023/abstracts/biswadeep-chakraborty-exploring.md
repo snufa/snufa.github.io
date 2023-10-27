@@ -2,7 +2,7 @@
 
 **Authors:** Biswadeep Chakraborty
 
-**Presentation type:** Short talk
+**Presentation type:** Flash talk
 
 ## Abstract
 

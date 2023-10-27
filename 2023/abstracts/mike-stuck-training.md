@@ -2,7 +2,7 @@
 
 **Authors:** Mike Stuck and Richard Naud
 
-**Presentation type:** Short talk
+**Presentation type:** Flash talk
 
 ## Abstract
 

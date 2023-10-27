@@ -2,7 +2,7 @@
 
 **Authors:** Christopher Earl
 
-**Presentation type:** Short talk
+**Presentation type:** Poster
 
 ## Abstract
 

@@ -2,7 +2,7 @@
 
 **Authors:** Francesco De Santis, Alberto Antonietti
 
-**Presentation type:** Short talk
+**Presentation type:** Poster
 
 ## Abstract
 

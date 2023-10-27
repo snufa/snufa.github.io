@@ -2,7 +2,7 @@
 
 **Authors:** Aiswarya P S, Indian Institute of Science Education and Research, Thiruvananthapuram, India
 
-**Presentation type:** Short talk
+**Presentation type:** Poster
 
 ## Abstract
 

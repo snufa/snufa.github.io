@@ -2,7 +2,7 @@
 
 **Authors:** Kyle A. Johnsen, Nathanael A. Cruzado, Adam S. Charles, Christopher J. Rozell
 
-**Presentation type:** Short talk
+**Presentation type:** Poster
 
 ## Abstract
 

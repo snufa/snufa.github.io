@@ -2,7 +2,7 @@
 
 **Authors:** Marcus Ghosh, Gabriel Béna, Volker Bormuth, Dan F. M. Goodman  
 
-**Presentation type:** Short talk
+**Presentation type:** Poster
 
 ## Abstract
 

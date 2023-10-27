@@ -2,7 +2,7 @@
 
 **Authors:** Jens Egholm Pedersen, Steven Abreu, Matthias Jobst, Vittorio Fra, and Sadique Sheik
 
-**Presentation type:** Short talk
+**Presentation type:** Flash talk
 
 ## Abstract
 

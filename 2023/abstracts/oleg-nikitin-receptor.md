@@ -2,7 +2,7 @@
 
 **Authors:** Oleg Nikitin, Olga Lukyanova, Alex Kunin
 
-**Presentation type:** Short talk
+**Presentation type:** Flash talk
 
 ## Abstract
 

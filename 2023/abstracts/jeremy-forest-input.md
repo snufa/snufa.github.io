@@ -2,7 +2,7 @@
 
 **Authors:** J. Forest, K. R. Mama, R. Moyal, M. Einhorn, A. Borthakur, T. A. Cleland
 
-**Presentation type:** Short talk
+**Presentation type:** Poster
 
 ## Abstract
 

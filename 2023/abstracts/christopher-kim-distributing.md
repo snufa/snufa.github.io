@@ -2,7 +2,7 @@
 
 **Authors:** Christopher Kim
 
-**Presentation type:** Short talk
+**Presentation type:** Flash talk
 
 ## Abstract
 

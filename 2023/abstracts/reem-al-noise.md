@@ -2,7 +2,7 @@
 
 **Authors:** Reem Al Fata, Jules Lecomte
 
-**Presentation type:** Short talk
+**Presentation type:** Flash talk
 
 ## Abstract
 

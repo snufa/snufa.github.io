@@ -2,7 +2,7 @@
 
 **Authors:** Tao Sun
 
-**Presentation type:** Short talk
+**Presentation type:** Poster
 
 ## Abstract
 

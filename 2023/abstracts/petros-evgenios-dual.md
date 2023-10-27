@@ -2,7 +2,7 @@
 
 **Authors:** Petros Evgenios Vlachos
 
-**Presentation type:** Short talk
+**Presentation type:** Poster
 
 ## Abstract
 

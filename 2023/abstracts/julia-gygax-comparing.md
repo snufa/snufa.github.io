@@ -2,7 +2,7 @@
 
 **Authors:** Julia Gygax, Friedemann Zenke
 
-**Presentation type:** Short talk
+**Presentation type:** Flash talk
 
 ## Abstract
 

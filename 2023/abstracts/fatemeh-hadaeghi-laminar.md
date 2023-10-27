@@ -2,7 +2,7 @@
 
 **Authors:** Aidai Kazybekova, Fatemeh Hadaeghi, Michael Winklhofer, Claus C. Hilgetag
 
-**Presentation type:** Short talk
+**Presentation type:** Poster
 
 ## Abstract
 

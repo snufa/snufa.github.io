@@ -2,7 +2,7 @@
 
 **Authors:** Luke Eilers, Sven Goedeke
 
-**Presentation type:** Short talk
+**Presentation type:** Poster
 
 ## Abstract
 
