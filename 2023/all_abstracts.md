@@ -1,5 +1,7 @@
 # SNUFA 2023 Abstracts
 
+[Click here for the full programme](https://snufa.net/2023)
+
 ## Invited talks (TBD)
 
 

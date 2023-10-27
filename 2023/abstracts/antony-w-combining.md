@@ -2,7 +2,7 @@
 
 **Authors:** Antony W. N’dri, Céline Teulière and Jochen Triesch
 
-**Presentation type:** Short talk
+**Presentation type:** Short talk at [SNUFA 2023 online workshop (7-8 Nov 2023)](https://snufa.net/2023)
 
 ## Abstract
 

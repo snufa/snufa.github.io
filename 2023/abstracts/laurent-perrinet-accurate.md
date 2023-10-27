@@ -2,7 +2,7 @@
 
 **Authors:** Laurent Perrinet
 
-**Presentation type:** Poster
+**Presentation type:** Poster at [SNUFA 2023 online workshop (7-8 Nov 2023)](https://snufa.net/2023)
 
 ## Abstract
 

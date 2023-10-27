@@ -2,7 +2,7 @@
 
 **Authors:** Reem Al Fata, Jules Lecomte
 
-**Presentation type:** Flash talk
+**Presentation type:** Flash talk at [SNUFA 2023 online workshop (7-8 Nov 2023)](https://snufa.net/2023)
 
 ## Abstract
 

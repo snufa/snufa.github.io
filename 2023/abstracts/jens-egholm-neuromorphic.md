@@ -2,7 +2,7 @@
 
 **Authors:** Jens Egholm Pedersen, Steven Abreu, Matthias Jobst, Vittorio Fra, and Sadique Sheik
 
-**Presentation type:** Flash talk
+**Presentation type:** Flash talk at [SNUFA 2023 online workshop (7-8 Nov 2023)](https://snufa.net/2023)
 
 ## Abstract
 

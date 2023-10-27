@@ -2,7 +2,7 @@
 
 **Authors:** Basile Confavreux, Aaradhya Vaze, Poornima Ramesh, Pedro Gonçalves, Jakob H. Macke and Tim P. Vogels
 
-**Presentation type:** Flash talk
+**Presentation type:** Flash talk at [SNUFA 2023 online workshop (7-8 Nov 2023)](https://snufa.net/2023)
 
 ## Abstract
 

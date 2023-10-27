@@ -2,7 +2,7 @@
 
 **Authors:** Ana Stanojevic, Stanislaw Wozniak, Guillaume Bellec, Giovanni Cherubini, Angeliki Pantazi, Wulfram Gerstner
 
-**Presentation type:** Flash talk
+**Presentation type:** Flash talk at [SNUFA 2023 online workshop (7-8 Nov 2023)](https://snufa.net/2023)
 
 ## Abstract
 

@@ -2,7 +2,7 @@
 
 **Authors:** Ka-Wa Yip
 
-**Presentation type:** 
+**Presentation type:**  at [SNUFA 2023 online workshop (7-8 Nov 2023)](https://snufa.net/2023)
 
 ## Abstract
 

@@ -2,7 +2,7 @@
 
 **Authors:** J. Forest, K. R. Mama, R. Moyal, M. Einhorn, A. Borthakur, T. A. Cleland
 
-**Presentation type:** Poster
+**Presentation type:** Poster at [SNUFA 2023 online workshop (7-8 Nov 2023)](https://snufa.net/2023)
 
 ## Abstract
 
