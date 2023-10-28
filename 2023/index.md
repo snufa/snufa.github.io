@@ -63,7 +63,7 @@
 | 15:30 | Break (30mins) | <script language="javascript">LT('8 Nov', '15:30')</script>
 |       | **Session 4** (Chair: Emre Neftci) | 
 | 16:00 | [Jeff Krichmar](https://sites.socsci.uci.edu/~jkrichma/), UC Irvine (invited) <br /> | <script language="javascript">LT('8 Nov', '16:00')</script>
-| 16:45 | Alexander Efremov, Martino Sorbaro, Pau Vilimelis Aceituno, Benjamin Grewe<br/>[Training fast spiking networks through STDP and control feedback](https://snufa.net/2023/abstracts/martino-sorbaro-training.html) | <script language="javascript">LT('8 Nov', '16:45')</script>
+| 16:45 | **Alexander Efremov**, Martino Sorbaro, Pau Vilimelis Aceituno, Benjamin Grewe<br/>[Training fast spiking networks through STDP and control feedback](https://snufa.net/2023/abstracts/martino-sorbaro-training.html) | <script language="javascript">LT('8 Nov', '16:45')</script>
 | 17:05 | **Antony W. N’dri**, Céline Teulière and Jochen Triesch<br/>[Combining various types of spike timing-dependent plasticity to learn efficient neural codes](https://snufa.net/2023/abstracts/antony-w-combining.html) | <script language="javascript">LT('8 Nov', '17:05')</script>
 | 17:25 | Closing remarks by the organizers | <script language="javascript">LT('8 Nov', '17:25')</script>
 
