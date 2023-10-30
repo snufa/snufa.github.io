@@ -44,7 +44,6 @@
 * [Training spiking trisynaptic circuit models to perform spatial-memory dependent navigation using reinforcement learning](abstracts/christopher-earl-training.md) (Christopher Earl)
 * [Laminar Organization and Information Integration in Spiking Recurrent Neural Networks](abstracts/fatemeh-hadaeghi-laminar.md) (Aidai Kazybekova, Fatemeh Hadaeghi, Michael Winklhofer, Claus C. Hilgetag)
 * [A computational model of mammalian brainstem to solve sound localization](abstracts/francesco-de-computational.md) (Francesco De Santis, Alberto Antonietti)
-* [Selectivity of granule cells in a computational model of the dentate gyrus](abstracts/ivan-raikov-selectivity.md) (Ivan Raikov, Aaron Milstein, Ivan Soltesz)
 * [Input regularization mechanisms of the olfactory bulb glomerular layer](abstracts/jeremy-forest-input.md) (J. Forest, K. R. Mama, R. Moyal, M. Einhorn, A. Borthakur, T. A. Cleland)
 * [Enhancing the Cleo experiment simulation testbed to support all-optical control, multi-channel optogenetics, and easier integration into data analysis pipelines](abstracts/kyle-johnsen-enhancing.md) (Kyle A. Johnsen, Nathanael A. Cruzado, Adam S. Charles, Christopher J. Rozell)
 * [Accurate detection of precise spiking motifs in neurobiological data](abstracts/laurent-perrinet-accurate.md) (Laurent Perrinet)
