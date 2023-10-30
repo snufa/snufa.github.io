@@ -1,6 +1,6 @@
 # The neural tangent kernel in networks with step-like activation functions
 
-**Authors:** Luke Eilers, Sven Goedeke
+**Authors:** Luke Eilers, Andreas Eberle, Raoul-Martin Memmesheimer, Sven Goedeke
 
 **Presentation type:** Poster at [SNUFA 2023 online workshop (7-8 Nov 2023)](https://snufa.net/2023)
 
