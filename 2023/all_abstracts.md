@@ -2,9 +2,12 @@
 
 [Click here for the full programme](https://snufa.net/2023)
 
-## Invited talks (TBD)
+## Invited talks
 
-
+* [Neuromorphic learning: a control perspective](abstracts/rodolphe-sepulchre-neuromorphic.md) (Rodolphe Sepulchre)
+* TBD (Gabriel Ocker)
+* TBD (Melika Payvand)
+* [CARLSim: An Open-Source Community Resource for Large-Scale, Detailed Spiking Neural Network Research and Development](abstracts/jeff-krichmar-carlsim.md) (Jeff Krichmar)
 
 ## Short talk
 
