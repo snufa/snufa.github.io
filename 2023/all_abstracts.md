@@ -5,7 +5,7 @@
 ## Invited talks
 
 * [Neuromorphic learning: a control perspective](abstracts/rodolphe-sepulchre-neuromorphic.md) (Rodolphe Sepulchre)
-* TBD (Gabriel Ocker)
+* [Plasticity, activity, and computation in neuronal networks](abstracts/gabriel-ocker-plasticity.md)
 * TBD (Melika Payvand)
 * [CARLSim: An Open-Source Community Resource for Large-Scale, Detailed Spiking Neural Network Research and Development](abstracts/jeff-krichmar-carlsim.md) (Jeff Krichmar)
 

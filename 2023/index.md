@@ -49,7 +49,7 @@
 | 15:15 | **Alessio Quaresima**, Hartmut Fitz, Renato Duarte, Peter Hagoort, Karl Magnus Petersson<br/>[Dendrites support formation and reactivation of sequential memories through Hebbian plasticity](https://snufa.net/2023/abstracts/alessio-quaresim-dendrites.html) | <script language="javascript">LT('7 Nov', '15:15')</script> 
 | 15:35 | Break (30mins) | 
 |       | **Session 2** (Chair: Friedemann Zenke) |  
-| 16:05 | [Gabriel Ocker](https://www.bu.edu/math/profile/gabriel-ocker/), Boston University (invited) |  <script language="javascript">LT('7 Nov', '16:05')</script>
+| 16:05 | [Gabriel Ocker](https://www.bu.edu/math/profile/gabriel-ocker/), Boston University (invited) <br/> [Plasticity, activity, and computation in neuronal networks](abstracts/gabriel-ocker-plasticity.md) |  <script language="javascript">LT('7 Nov', '16:05')</script>
 | 16:50 | **Maayan Levy** & Tim P. Vogels<br/>[Capacity of a spiking network with preserved weight distribution: a game-theory-inspired study](https://snufa.net/2023/abstracts/maayan-levy-capacity.html) | <script language="javascript">LT('7 Nov', '16:50')</script> 
 | 17:10 | [Flash talks by selected poster presenters](all_abstracts.md) | <script language="javascript">LT('7 Nov', '17:10')</script>
 | 17:30 | Break (30mins) | <script language="javascript">LT('7 Nov', '17:30')</script>
