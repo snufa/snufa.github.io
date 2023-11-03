@@ -42,7 +42,6 @@
 ## Poster
 
 * [Linking Rate-Based And Spiking Models: A  Quest Towards Biologically Relevant  Neural Systems](abstracts/aiswarya-p-linking.md) (Aiswarya P S, Indian Institute of Science Education and Research, Thiruvananthapuram, India)
-* [Unleashing the Potential of Spiking Neural Networks with Dynamic Confidence](abstracts/chen-li-unleashing.md) (Chen Li)
 * [Smooth Exact Gradient Descent Learning in Spiking Neural Networks](abstracts/christian-klos-smooth.md) (Christian Klos, Raoul-Martin Memmesheimer)
 * [Training spiking trisynaptic circuit models to perform spatial-memory dependent navigation using reinforcement learning](abstracts/christopher-earl-training.md) (Christopher Earl)
 * [Laminar Organization and Information Integration in Spiking Recurrent Neural Networks](abstracts/fatemeh-hadaeghi-laminar.md) (Aidai Kazybekova, Fatemeh Hadaeghi, Michael Winklhofer, Claus C. Hilgetag)
