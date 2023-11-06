@@ -6,7 +6,7 @@
 
 **Executive committee.** [Emre Neftci](https://www.fz-juelich.de/de/pgi), [Charlotte Frenkel](https://chfrenkel.github.io/), [Dan Goodman](https://neural-reckoning.org), and [Friedemann Zenke](https://zenkelab.org/).
 
-**Quick links.** <span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://www.eventbrite.co.uk/e/snufa-2023-tickets-675972952297">Register (free)</a></span>
+**Quick links.** <span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://www.eventbrite.co.uk/e/snufa-2023-tickets-675972952297">Register (free)</a></span> <span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://www.crowdcast.io/c/snufa-2023">CrowdCast for main sessions</a></span> <span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://www.eventbrite.co.uk/x/snufa-2023-tickets-675972952297">Poster link for registered participants</a></span>
 
 ## Key information
 
@@ -53,7 +53,7 @@
 | 16:50 | **Maayan Levy** & Tim P. Vogels<br/>[Capacity of a spiking network with preserved weight distribution: a game-theory-inspired study](https://snufa.net/2023/abstracts/maayan-levy-capacity.html) | <script language="javascript">LT('7 Nov', '16:50')</script> 
 | 17:10 | [Flash talks by selected poster presenters](all_abstracts.md) | <script language="javascript">LT('7 Nov', '17:10')</script>
 | 17:30 | Break (30mins) | <script language="javascript">LT('7 Nov', '17:30')</script>
-| 18:00 | **Poster session (Zoom)** |  <script language="javascript">LT('7 Nov', '18:00')</script>
+| 18:00 | **Poster session (Zoom)** <br/><a href="https://www.eventbrite.co.uk/x/snufa-2023-tickets-675972952297">Poster link for registered participants</a> |  <script language="javascript">LT('7 Nov', '18:00')</script>
 | **November 8th** | | 
 | 14:00 | Welcome to day two | <script language="javascript">LT('8 Nov', '14:00')</script> 
 |       | **Session 3** (Chair: Dan Goodman) | 
