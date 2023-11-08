@@ -58,7 +58,7 @@
 | 14:00 | Welcome to day two | <script language="javascript">LT('8 Nov', '14:00')</script> 
 |       | **Session 3** (Chair: Dan Goodman) | 
 | 14:05 | [Melika Payvand](https://services.ini.uzh.ch/people/melika), INI, Zurich (invited) <br/> [Analog substrates for temporal and local event-based computation](abstracts/melika-payvand-analog.md) | <script language="javascript">LT('8 Nov', '14:05')</script>
-| 14:50 | **Ilyass Hammouamri**<br/>[Learning Delays in Spiking Neural Networks using Dilated Convolutions with Learnable Spacings](https://snufa.net/2023/abstracts/ilyass-hammouamri-learning.html) | <script language="javascript">LT('8 Nov', '14:50')</script>
+| 14:50 | **Ilyass Hammouamri**, Ismail Khalfaoui Hassani, Timothée Masquelier<br/>[Learning Delays in Spiking Neural Networks using Dilated Convolutions with Learnable Spacings](https://snufa.net/2023/abstracts/ilyass-hammouamri-learning.html) | <script language="javascript">LT('8 Nov', '14:50')</script>
 | 15:10 | **Justus Huebotter**, Pablo Lanillos, Serge Thill, Marcel van Gerven<br/>[Training Spiking Neural Networks for Continuous Control with Surrogate Gradients](https://snufa.net/2023/abstracts/justus-huebotter-training.html) | <script language="javascript">LT('8 Nov', '15:10')</script>
 | 15:30 | Break (30mins) | <script language="javascript">LT('8 Nov', '15:30')</script>
 |       | **Session 4** (Chair: Emre Neftci) | 

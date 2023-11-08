@@ -1,6 +1,6 @@
 # Learning Delays in Spiking Neural Networks using Dilated Convolutions with Learnable Spacings
 
-**Authors:** Ilyass Hammouamri
+**Authors:** Ilyass Hammouamri, Ismail Khalfaoui Hassani, Timothée Masquelier
 
 **Presentation type:** Short talk at [SNUFA 2023 online workshop (7-8 Nov 2023)](https://snufa.net/2023)
 

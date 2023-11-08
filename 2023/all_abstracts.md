@@ -13,7 +13,7 @@
 
 * [Dendrites support formation and reactivation of sequential memories through Hebbian plasticity](abstracts/alessio-quaresim-dendrites.md) (Alessio Quaresima, Hartmut Fitz, Renato Duarte, Peter Hagoort, Karl Magnus Petersson)
 * [Combining various types of spike timing-dependent plasticity to learn efficient neural codes](abstracts/antony-w-combining.md) (Antony W. N’dri, Céline Teulière and Jochen Triesch)
-* [Learning Delays in Spiking Neural Networks using Dilated Convolutions with Learnable Spacings](abstracts/ilyass-hammouamri-learning.md) (Ilyass Hammouamri)
+* [Learning Delays in Spiking Neural Networks using Dilated Convolutions with Learnable Spacings](abstracts/ilyass-hammouamri-learning.md) (Ilyass Hammouamri, Ismail Khalfaoui Hassani, Timothée Masquelier)
 * [Training Spiking Neural Networks for Continuous Control with Surrogate Gradients](abstracts/justus-huebotter-training.md) (Justus Huebotter, Pablo Lanillos, Serge Thill, Marcel van Gerven)
 * [Capacity of a spiking network with preserved weight distribution: a game-theory-inspired study](abstracts/maayan-levy-capacity.md) (Maayan Levy & Tim P. Vogels)
 * [Training fast spiking networks through STDP and control feedback](abstracts/martino-sorbaro-training.md) (Alexander Efremov, Martino Sorbaro, Pau Vilimelis Aceituno, Benjamin Grewe)
