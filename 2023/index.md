@@ -6,13 +6,15 @@
 
 **Executive committee.** [Emre Neftci](https://www.fz-juelich.de/de/pgi), [Charlotte Frenkel](https://chfrenkel.github.io/), [Dan Goodman](https://neural-reckoning.org), and [Friedemann Zenke](https://zenkelab.org/).
 
-**Quick links.** <span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://www.eventbrite.co.uk/e/snufa-2023-tickets-675972952297">Register (free)</a></span> <span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://www.crowdcast.io/c/snufa-2023">CrowdCast for main sessions</a></span> <span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://www.eventbrite.co.uk/x/snufa-2023-tickets-675972952297">Poster link for registered participants</a></span>
+**Quick links.** <span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://www.youtube.com/playlist?list=PL09WqqDbQWHHPPOpmHezdxbuQqow6EarR">Recorded talks on Youtube</a></span>
 
 ## Key information
 
 **Workshop**. 7-8 November 2023, European afternoons (online).
 
-**Registration**. Free but mandatory. [Click here to register](https://www.eventbrite.co.uk/e/snufa-2023-tickets-675972952297).
+**[Recorded talks (Youtube)](https://www.youtube.com/playlist?list=PL09WqqDbQWHHPPOpmHezdxbuQqow6EarR)**
+
+**Registration**. Closed.
 
 **Abstract submission**. Closed.
 
@@ -21,10 +23,6 @@
 [Melika Payvand](https://services.ini.uzh.ch/people/melika) (INI, Zurich),
 [Gabriel Ocker](https://www.bu.edu/math/profile/gabriel-ocker/) (Boston University),
 [Jeff Krichmar](https://sites.socsci.uci.edu/~jkrichma/) (UC Irvine)
-
-<!-- **Talks**. Talks will be streamed on [CrowdCast](https://www.crowdcast.io/e/snufa-2023) with many thanks to [WorldWideNeuro](https://www.world-wide.org/Neuro/) for sponsoring this. 
-
-**Posters**. These will be streamed on Zoom and links will be emailed to registered participants. -->
 
 ## Agenda
 
