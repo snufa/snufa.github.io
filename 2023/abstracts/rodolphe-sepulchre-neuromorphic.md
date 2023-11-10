@@ -12,3 +12,6 @@ neuromodulation. The talk will review this modeling framework, early attempts
 to turn it into a neuromorphic implementation, and ongoing research to make it
 algorithmic and scalable.
 
+[Watch it on Youtube](https://youtu.be/u9Nxp9PvuM4?si=I6hkkoHyW5hVOhYZ)
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/u9Nxp9PvuM4?si=I6hkkoHyW5hVOhYZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
