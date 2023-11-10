@@ -36,7 +36,9 @@
 * [Noise cancellation and visual processing using Resonate-and-Fire neurons](abstracts/reem-al-noise.md) (Reem Al Fata, Jules Lecomte)
 * [First-spike coding promotes accurate and efficient spiking neural networks for discrete events with rich temporal structures](abstracts/siying-liu-first-spike.md) (Siying Liu)
 
+[Watch on Youtube](https://youtu.be/q8c7gIf9tpw?si=jlf7m-6aLa_y2tVP)
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/q8c7gIf9tpw?si=jlf7m-6aLa_y2tVP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 ## Poster
