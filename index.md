@@ -27,4 +27,4 @@ Archive
 * [SNUFA 2021](/2021).
 * [SNUFA 2020](/2020).
 
-SNUFA logo courtesy of [Koshika Yadava](https://kyadava.net)
+SNUFA logo courtesy of [Skala Art](https://skala-art.net)
