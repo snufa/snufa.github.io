@@ -16,7 +16,7 @@
 [Christian Machens](https://machenslab.org/) (Champalimaud),
 [David Kappel](https://www.ini.rub.de/the_institute/people/david-kappel/) (University of Bochum),
 [Chiara Bartolozzi](https://www.iit.it/people-details/-/people/chiara-bartolozzi) (IIT Genova),
-TBA
+[Anna Levina](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/self-organization-and-optimality-in-neuronal-networks/) (Uni Tübingen),
 
 ## Agenda
 
