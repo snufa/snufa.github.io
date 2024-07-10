@@ -11,7 +11,7 @@ All our previous talks and seminars are available on our [YouTube channel](https
 SNUFA 2024
 ----------
 
-Currently in preparation, will likely take place 5-6 or 12-13 November 2024, European afternoons (online).
+Currently in preparation, will likely take place 5-6 <!-- or 12-13 --> November 2024, European afternoons (online).
 
 <span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://snufa.net/2024/">Go to SNUFA 2024</a></span>
 
