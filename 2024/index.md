@@ -6,17 +6,19 @@
 
 **Executive committee.** [Melika Payvand](https://services.ini.uzh.ch/people/melika), [Laurent Perrinet](https://laurentperrinet.github.io/), [Dan Goodman](https://neural-reckoning.org), and [Friedemann Zenke](https://zenkelab.org/).
 
+**Quick links.** <span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://forms.office.com/e/1XZufmVndb">Submit an abstract</a></span>
 
 ## Key information
 
 **Workshop**. 5-6 November 2024, European afternoons (online).
 
+**Abstract submission deadline**. 27 September 2024. [Submit an abstract](https://forms.office.com/e/1XZufmVndb)
 
 **Invited speakers**. 
-[Chiara Bartolozzi](https://www.iit.it/people-details/-/people/chiara-bartolozzi) (IIT Genova),
-[David Kappel](https://www.ini.rub.de/the_institute/people/david-kappel/) (University of Bochum),
-[Anna Levina](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/self-organization-and-optimality-in-neuronal-networks/) (Uni Tübingen),
-[Christian Machens](https://machenslab.org/) (Champalimaud)
+* [Chiara Bartolozzi](https://www.iit.it/people-details/-/people/chiara-bartolozzi) (IIT Genova),
+* [David Kappel](https://www.ini.rub.de/the_institute/people/david-kappel/) (University of Bochum),
+* [Anna Levina](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/self-organization-and-optimality-in-neuronal-networks/) (Uni Tübingen),
+* [Christian Machens](https://machenslab.org/) (Champalimaud)
 
 ## Agenda
 
@@ -34,6 +36,7 @@
 
 Abstracts will be made publicly available at the end of the abstract submissions deadline for blinded public comments and ratings. We will select the most highly rated abstracts for contributed talks and flash talks, subject to maintaining a balance between the different fields of, broadly speaking, neuroscience, computer science and neuromorphic engineering. Abstracts not selected for a talk, and abstracts selected for a flash talk, will be presented as posters.
 
+**Abstract submission deadline**. 27 September 2024. [Submit an abstract](https://forms.office.com/e/1XZufmVndb)
 
 ## Format
 
