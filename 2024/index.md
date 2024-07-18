@@ -6,13 +6,15 @@
 
 **Executive committee.** [Melika Payvand](https://services.ini.uzh.ch/people/melika), [Laurent Perrinet](https://laurentperrinet.github.io/), [Dan Goodman](https://neural-reckoning.org), and [Friedemann Zenke](https://zenkelab.org/).
 
-**Quick links.** <span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://forms.office.com/e/1XZufmVndb">Submit an abstract</a></span>
+**Quick links.** <span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://forms.office.com/e/1XZufmVndb">Submit an abstract</a></span> <span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://www.eventbrite.com/e/snufa-2024-tickets-950947628957?keep_tld=1">Register (free)</a></span>
 
 ## Key information
 
 **Workshop**. 5-6 November 2024, European afternoons (online).
 
 **Abstract submission deadline**. 27 September 2024. [Submit an abstract](https://forms.office.com/e/1XZufmVndb)
+
+**Registration**. Registration is free but required. [Register via EventBrite](https://www.eventbrite.com/e/snufa-2024-tickets-950947628957?keep_tld=1)
 
 **Invited speakers**. 
 * [Chiara Bartolozzi](https://www.iit.it/people-details/-/people/chiara-bartolozzi) (IIT Genova),
