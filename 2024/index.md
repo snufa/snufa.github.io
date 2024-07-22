@@ -48,3 +48,7 @@ Abstracts will be made publicly available at the end of the abstract submissions
 * Flash talks by selected poster presenters
 * Virtual poster session
 
+
+
+
+SNUFA logo courtesy of [Skala Art](https://skala-art.net/)
