@@ -33,6 +33,32 @@
 	}
 </script>
 
+| Time (CET) | Session | Local date/time 
+|------------|---------|-----------------
+|**November 5th** |  |  
+| 14:00 | Welcome by the organizers | <script language="javascript">LT('5 Nov', '14:00')</script> 
+|       | **Session 1** |  
+| 14:10 | [Chiara Bartolozzi](https://www.iit.it/people-details/-/people/chiara-bartolozzi), IIT Genova (invited) | <script language="javascript">LT('5 Nov', '14:10')</script> 
+| 14:55 | Contributed talk (TBD) | <script language="javascript">LT('5 Nov', '14:55')</script> 
+| 15:15 | Contributed talk (TBD) | <script language="javascript">LT('5 Nov', '15:15')</script> 
+| 15:35 | Break | <script language="javascript">LT('5 Nov', '15:35')</script> 
+|       | **Session 2** |  
+| 16:05 | [Christian Machens](https://machenslab.org/), Champalimaud (invited) | <script language="javascript">LT('5 Nov', '16:05')</script> 
+| 16:50 | Contributed talk (TBD) | <script language="javascript">LT('5 Nov', '16:50')</script> 
+| 17:10 | Flash talks | <script language="javascript">LT('5 Nov', '17:10')</script> 
+| 17:30 | Poster session | <script language="javascript">LT('5 Nov', '17:30')</script> 
+|**November 6th** |  |  
+| 14:00 | Welcome to day 2 | <script language="javascript">LT('6 Nov', '14:00')</script> 
+|       | **Session 3** |  
+| 14:05 | [David Kappel](https://www.ini.rub.de/the_institute/people/david-kappel/), University of Bochum (invited) | <script language="javascript">LT('6 Nov', '14:05')</script> 
+| 14:50 | Contributed talk (TBD) | <script language="javascript">LT('6 Nov', '14:50')</script> 
+| 15:10 | Contributed talk (TBD) | <script language="javascript">LT('6 Nov', '15:10')</script> 
+| 15:30 | Break | <script language="javascript">LT('6 Nov', '15:30')</script> 
+|       | **Session 4** |  
+| 16:00 | [Anna Levina](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/self-organization-and-optimality-in-neuronal-networks/), Uni Tübingen (invited) | <script language="javascript">LT('6 Nov', '16:00')</script> 
+| 16:45 | Contributed talk (TBD) | <script language="javascript">LT('6 Nov', '16:45')</script> 
+| 17:05 | Contributed talk (TBD) | <script language="javascript">LT('6 Nov', '17:05')</script> 
+| 17:25 | Closing remarks | <script language="javascript">LT('6 Nov', '17:25')</script> 
 
 ## Abstract submissions
 
