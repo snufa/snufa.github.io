@@ -30,6 +30,7 @@
 * [Weight transport through spike timing for robust local gradients](abstracts/timo-gierlich-weight.md) (Andreas Baumbach, Akos F. Kungl, Kevin Max, Mihai A. Petrovici)
 * [Bridging sampling methods with attractor dynamics in spiking models of head direction systems](abstracts/vojko-pjanovic-bridging.md) (Vojko Pjanovic, Jacob Zavatone-Veth, Ann Hermundstad, Paul Masset, Sander Keemink, Michele Nardin)
 * [Discovering Connectome Patterns of Brain through the Lens of Generative Models](abstracts/xingyu-liu-discovering.md) (Xingyu Liu, Guozhang Chen)
+* [Functions of excitatory-inhibitory assemblies in olfactory memory networks ](abstracts/claire-meissner-bernard-functions.md) (Claire Meissner-Bernard, Bethan Jenkins, Peter Rupprecht, Friedemann Zenke, Thomas Frank, Rainer W. Friedrich)
 
 
 
@@ -41,7 +42,6 @@
 * [Surrogate Surrogate Gradients](abstracts/chen-li-surrogate.md) (Chen LI)
 * [Computational Study of Dopamine Receptor and Calcium Channel Interactions in Layer II Stellate Cell Excitability ](abstracts/chitaranjan-mahapatra-computational.md) (Chitaranjan Mahapatra, Andrew P. Davison)
 * [Adaptation of SNN for Sequence Detection in a Wake Up Receiver](abstracts/claire-goursaud-adaptation.md) (Pierrick JOSEPH, Guillaume MARTHE, Claire GOURSAUD)
-* [Functions of excitatory-inhibitory assemblies in olfactory memory networks ](abstracts/claire-meissner-bernard-functions.md) (Claire Meissner-Bernard, Bethan Jenkins, Peter Rupprecht, Friedemann Zenke, Thomas Frank, Rainer W. Friedrich)
 * [Accent Classification Using Spiking Neural Networks](abstracts/cosmin-moarcas-accent.md) (Cosmin Moarcas)
 * [Exploring Astrocytic Roles in Context-Driven Synaptic Modulation: A Preliminary Study in Spiking Neural Networks](abstracts/david-ibáñez-exploring.md) (David Ibáñez)
 * [Collective oscillations in balanced neural networks induced by discrete synaptic events](abstracts/denis-s-collective.md) (Denis S. Goldobin, Matteo di Volo, Alessandro Torcini)
