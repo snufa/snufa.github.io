@@ -1,0 +1,11 @@
+# Bridging model and experiment in systems neuroscience with Cleo: the Closed-Loop, Electrophysiology, and Optophysiology simulation testbed
+
+**Authors:** Kyle A. Johnsen, Nathanael A. Cruzado, Zachary C. Menard, Adam A. Willats, Adam S. Charles, Jeffrey E. Markowitz, Christopher J. Rozell
+                           
+
+
+**Presentation type:** Poster at [SNUFA 2024 online workshop (5-6 Nov 2024)](https://snufa.net/2024)
+
+## Abstract
+
+Systems neuroscience has experienced an explosion of new tools for reading and writing neural activity, enabling exciting new experiments such as all-optical or closed-loop control that effect powerful causal interventions. At the same time, improved computational models are capable of reproducing behavior and neural activity with increasing fidelity. Unfortunately, these advances have drastically increased the complexity of integrating different lines of research, resulting in the missed opportunities and untapped potential of suboptimal experiments. Experiment simulation can help bridge this gap, allowing model and experiment to better inform each other by providing a low-cost testbed for experiment design, model validation, and methods engineering. Specifically, this can be achieved by incorporating the simulation of the experimental interface into our models, but no existing tool integrates optogenetics, two-photon calcium imaging, electrode recording, and flexible closed-loop processing with neural population simulations. To address this need, we have developed Cleo: the Closed-Loop, Electrophysiology, and Optophysiology experiment simulation testbed. Cleo is a Python package enabling injection of recording and stimulation devices as well as closed-loop control with realistic latency into a Brian spiking neural network model. It is the only publicly available tool currently supporting two-photon and multi-opsin/wavelength optogenetics. To facilitate adoption and extension by the community, Cleo is open-source, modular, tested, and documented, and can export results to various data formats. Here we describe the design and features of Cleo, validate output of individual components and integrated experiments, and demonstrate its utility for advancing optogenetic techniques in prospective experiments using previously published systems neuroscience models.

@@ -1,0 +1,11 @@
+# Weight transport through spike timing for robust local gradients
+
+**Authors:** Andreas Baumbach, Akos F. Kungl, Kevin Max, Mihai A. Petrovici
+                           
+
+
+**Presentation type:** Flash talk at [SNUFA 2024 online workshop (5-6 Nov 2024)](https://snufa.net/2024)
+
+## Abstract
+
+Both in machine learning and in computational neuroscience, plasticity in functional neural networks is frequently expressed as gradient descent on a cost. Often, this imposes symmetry constraints that are difficult to reconcile with local computation. For example, wake-sleep learning in networks characterized by Boltzmann distributions inherently builds on the assumption of symmetric connectivity. Similarly, the error backpropagation algorithm is notoriously plagued by the weight transport problem between the representation and the error stream. Existing solutions such as feedback alignment tend to circumvent the problem by deferring to the robustness of these algorithms to weight asymmetry. However, such solutions are known to scale poorly with network size and depth and require additional mechanisms to improve their functionality. We address weight transport in spiking networks and suggest that synapses can use spike timing statistics to extract and correct the asymmetry between effective reciprocal connections. Apart from being quintessentially spike-based and fully local, our proposed mechanism — spiked-based alignment learning (SAL) — takes advantage of a ubiquitous feature of physical neuronal networks: noise. Based on an interplay between Hebbian and anti-Hebbian plasticity, it allows synapses to recover the true local gradient. This implicitly also alleviates discrepancies that arise from neuron and synapse variability — an omnipresent property of physical neuronal networks, both biological and artificial. We demonstrate the general properties of SAL in two different network models. In probabilistic spiking networks, we show how a combination of Hebbian and anti-Hebbian plasticity can significantly improve convergence to the target distribution as compared to Hebbian plasticity alone. And in neuronal hierarchies based on cortical microcircuits, we show how our proposed mechanism effectively enables the copying of forward weights to the feedback pathway, thus allowing the backpropagation of correct feedback errors.

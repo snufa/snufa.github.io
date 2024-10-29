@@ -1,0 +1,11 @@
+# Inferring Physical Time from Neural Adaptation Time
+
+**Authors:** Raphael Lafond-Mercier, Leonard Maler, Avner Wallach, Andre Longtin
+                           
+
+
+**Presentation type:** Poster at [SNUFA 2024 online workshop (5-6 Nov 2024)](https://snufa.net/2024)
+
+## Abstract
+
+Biological systems must represent physical time. The molecular-neuronal time-keeping strategy is known in some detail for time scales on the order of many hours up to a day. But little is known about the actual algorithm and associated neuronal circuits and dynamics for timing intervals on the order of seconds to minutes. Recent work has shown that midbrain neurons in weakly electric fish can represent time intervals through an adaptive process of recovery from firing, which operates on time scale of hundreds of milliseconds to a minute or more. This slow dynamical memory process can explain the measured spatial error during a path learning task. That study did not address the range of time constants in details. It is also unclear how the different parameters of the adaptive model change the performance of time interval estimation. Here, we show that estimating a single time interval is done best when all adaptive cells are identical and without memory. We also show that a well chosen heterogeneous network can still perform quite well. This is important, since memory and heterogeneity in the model parameters are necessary for estimating multiple time intervals. With this in mind, we can explain why recorded cells are actually heterogeneous. PG neurons seem to have evolved to compromise between perfectly encoding the latest interval in a sequence of encounters and encoding previous time intervals. The response of these neurons is fed into the pallium, a highly recurrent structure in the fish brain responsible for spatial learning, making this timing information all the more crucial. These results therefore lay out the building blocks for the performance analysis of long time dynamical adaptation and its role in the representation of time and space.

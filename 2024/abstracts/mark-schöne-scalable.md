@@ -1,0 +1,11 @@
+# Scalable Event-by-event Processing With Deep State-Space Models
+
+**Authors:** Mark Schöne, Neeraj Mohan Sushma, Jingyue Zhuge, Christian Mayr, Anand Subramoney, David Kappel
+                           
+**Presenting author:** Mark Schöne
+
+**Presentation type:** Poster at [SNUFA 2024 online workshop (5-6 Nov 2024)](https://snufa.net/2024)
+
+## Abstract
+
+Event-based sensors are well suited for real-time processing due to their fast response times and encoding of the sensory data as successive temporal differences. However, most current methods that process event data either collapse events into frames or cannot scale up when processing the event data directly event-by-event. In this work, we address the key challenges of scaling up event-by-event modeling of the long event streams emitted by such sensors, which is a particularly relevant problem for neuromorphic computing. While prior methods can process up to a few thousand time steps, our model, based on modern recurrent deep state-space models, scales to event streams of millions of events for both training and inference. We scale them up to handle long event streams by leveraging three key features: their stable parameterization for learning long-range dependencies, their ability to process sequence elements in parallel, and their effective integration of asynchronous events. We further augment these with novel event-centric techniques that enable our model to match or beat the state-of-the-art performance on several event stream benchmarks. We significantly advance the state-of-the-art performance on the Spiking Speech Commands task, achieving an accuracy of 88.4%, which represents a substantial 7.7% improvement. Further, our model provides a new paradigm for processing event-based vision signals event-by-event with purely recurrent networks. We demonstrate this on the DVS128-Gestures dataset, where we achieve competitive results without using frames or convolutional neural networks. Building on recent progress in recurrent sequence models, we show preliminary results on adapting the time-variant Mamba model to an event-based and asynchronous framework. Our work demonstrates, for the first time, that it is possible to use fully event-based processing with purely recurrent networks to achieve state-of-the-art task performance in several event-based machine learning benchmarks.

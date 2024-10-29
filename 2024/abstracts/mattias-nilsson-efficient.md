@@ -1,0 +1,11 @@
+# Efficient Streaming Speech Quality Prediction with Spiking Neural Networks
+
+**Authors:** Mattias Nilsson, Riccardo Miccini, Julian Rossbroich, Clément Laroche, Tobias Piechowiak, Friedemann Zenke
+                           
+
+
+**Presentation type:** Poster at [SNUFA 2024 online workshop (5-6 Nov 2024)](https://snufa.net/2024)
+
+## Abstract
+
+As speech processing systems become increasingly prevalent, the demand for unintrusive speech quality monitoring without the need for clean reference signals is growing. While traditional deep learning methods can predict speech quality effectively, their high computational demands limit their feasibility for mobile and edge devices. Here, we present a deep convolutional spiking neural network (SNN) for efficient speech quality prediction, which is naturally suited for continuous real-time inference, as opposed to non-causal and frame-based models. Our model is based on leaky integrate-and-fire (LIF) neurons and uses 1D spectral convolutions to process speech signals continuously in the time–frequency domain. We train the model using surrogate gradients and include heterogeneous neuronal time constants as trainable parameters. We train and evaluate our model on the DNS Challenge 2020 dataset labelled with PESQ scores. Our model is approaching the performance of a non-causal baseline CNN model on the test set, with Pearson correlation coefficients of 0.79 and 0.84, respectively. The SNN has an activation sparsity of 93.0% per 20-ms time-step by default, which we find can be increased to 98.5% by regularization before task performance starts to drop sharply. In conclusion, we present a straight-forward SNN architecture for speech quality prediction, which does not rely on specialized mechanisms such as synaptic delays and uses conventional LIF neuron models. This ongoing work demonstrates potential for energy-efficient application of SNNs in a novel use-case. Estimating the energy-efficiency of the model will be part of our continued work.
