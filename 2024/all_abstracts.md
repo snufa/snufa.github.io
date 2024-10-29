@@ -72,7 +72,7 @@
 * [Striatal Beat Frequency RL Automata as a Model of Time Cell Attenuation](abstracts/michael-tarlton-striatal.md) (Michael Tarlton)
 * [Vibration Vision: Real-Time Machinery Fault Diagnosis with Event Cameras](abstracts/muhammad-aitsam-vibration.md) (Muhammad Aitsam)
 * [Inferring Physical Time from Neural Adaptation Time](abstracts/raphael-lafond-mercier-inferring.md) (Raphael Lafond-Mercier, Leonard Maler, Avner Wallach, Andre Longtin)
-* [Decoding Finger Velocity from Cortical Spike Trains with Recurrent Spiking Neural Networks](abstracts/shaomin-zhang-decoding.md) (Tengjun Liu*, Julia Gygax*, Julian Rossbroich*, Yansong Chua, Shaomin Zhang, Friedemann Zenke)
+* [Decoding Finger Velocity from Cortical Spike Trains with Recurrent Spiking Neural Networks](abstracts/shaomin-zhang-decoding.md) (Tengjun Liu, Julia Gygax, Julian Rossbroich, Yansong Chua, Shaomin Zhang, Friedemann Zenke)
 * [Functional Composition of Spiking Neural Networks with Application to Cascade Control](abstracts/simon-d-functional.md) (Simon D. Levy)
 * [DPSNN: Spiking Neural Network for Low-Latency Streaming Speech Enhancement](abstracts/tao-sun-dpsnn.md) (Tao Sun, Sander Bohte)
 * [Credit assignment through sampling in Poisson Spiking Neural Networks](abstracts/tifenn-hirtzlin-credit.md) (Tifenn Hirtzlin)
