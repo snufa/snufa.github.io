@@ -8,7 +8,7 @@
 
 ## Talk
 
-* [On the role of temporal hierarchy in Spiking Neural Networks](abstracts/filippo-moro-role.md) (Filippo Moro, ‪Pau Vilimelis Aceituno‬, Laura Kriener, Melika Payvand)
+* [On the role of temporal hierarchy in Spiking Neural Networks](abstracts/filippo-moro-role.md) (Filippo Moro, Pau Vilimelis Aceituno, Laura Kriener, Melika Payvand)
 * [Adapting to time: why nature chose to evolve a diverse set of neurons](abstracts/karim-habashy-adapting.md) (Karim G. Habashy, Benjamin D. Evans, Dan F. M. Goodman and Jeffrey S. Bowers)
 * [A feedback control algorithm for online learning in Spiking Neural Networks and Neuromorphic devices](abstracts/matteo-saponati-feedback.md) (Matteo Saponati, Chiara De Luca, Giacomo Indiveri, Benjamin Grewe)
 * [Using Dynamical Systems Theory to Improve Surrogate Gradient Learning in Spiking Neural Networks](abstracts/rainer-engelken-using.md) (Rainer Engelken, Larry Abbott)
