@@ -6,7 +6,7 @@
 
 **Executive committee.** [Melika Payvand](https://services.ini.uzh.ch/people/melika), [Laurent Perrinet](https://laurentperrinet.github.io/), [Dan Goodman](https://neural-reckoning.org), and [Friedemann Zenke](https://zenkelab.org/).
 
-**Quick links.** <span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://www.eventbrite.com/e/snufa-2024-tickets-950947628957?keep_tld=1">Register (free)</a></span>
+**Quick links.** <span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://www.eventbrite.com/e/snufa-2024-tickets-950947628957?keep_tld=1">Register (free)</a></span> <span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://www.crowdcast.io/c/snufa-2024">Watch live on Crowdcast</a></span>
 
 ## Key information
 
@@ -27,6 +27,8 @@
 [Click here for all abstracts](all_abstracts.md).
 
 [Click here to open in Google Calendar](https://calendar.google.com/calendar/u/0?cid=OTYzMGJmOWIyZmJjZjNmNjE0ZDMzN2MyZTVmZjhmMWQ0NDYxZTMwYTM3OWNlNmJmZDA5YWVkMzg1MGJlN2IxMUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) (allows you to add to your own calendar).
+
+[Click here to watch live on Crowdcast](https://www.crowdcast.io/c/snufa-2024).
 
 <script language="javascript">
 	function LT(d, t) {
