@@ -1,8 +1,8 @@
 # Weight transport through spike timing for robust local gradients
 
-**Authors:** Andreas Baumbach, Akos F. Kungl, Kevin Max, Mihai A. Petrovici
+**Authors:** Timo Gierlich, Andreas Baumbach, Akos F. Kungl, Kevin Max, Mihai A. Petrovici
                            
-
+**Presenting author:** Timo Gierlich
 
 **Presentation type:** Flash talk at [SNUFA 2024 online workshop (5-6 Nov 2024)](https://snufa.net/2024)
 
