@@ -43,7 +43,6 @@
 * [Computational Study of Dopamine Receptor and Calcium Channel Interactions in Layer II Stellate Cell Excitability ](abstracts/chitaranjan-mahapatra-computational.md) (Chitaranjan Mahapatra, Andrew P. Davison)
 * [Adaptation of SNN for Sequence Detection in a Wake Up Receiver](abstracts/claire-goursaud-adaptation.md) (Pierrick JOSEPH, Guillaume MARTHE, Claire GOURSAUD)
 * [Accent Classification Using Spiking Neural Networks](abstracts/cosmin-moarcas-accent.md) (Cosmin Moarcas)
-* [Exploring Astrocytic Roles in Context-Driven Synaptic Modulation: A Preliminary Study in Spiking Neural Networks](abstracts/david-ibáñez-exploring.md) (David Ibáñez)
 * [Collective oscillations in balanced neural networks induced by discrete synaptic events](abstracts/denis-s-collective.md) (Denis S. Goldobin, Matteo di Volo, Alessandro Torcini)
 * [Structured stabilization in recurrent neural circuits through inhibitory synaptic plasticity](abstracts/dylan-festa-structured.md) (Dylan Festa, Claudia Cusseddu, Julijana Gjorgjieva)
 * [Exploring Brain Network Connectivity In Schizophrenia Groups: Influence of M1 Receptor Polymorphism](abstracts/ece-çağlayan-exploring.md) (Ece Çağlayan, Yağmur Kır, Murat Perit Çakır, Bora Başkak)
