@@ -2,7 +2,7 @@
 
 **Authors:** Claire Meissner-Bernard, Bethan Jenkins, Peter Rupprecht, Friedemann Zenke, Thomas Frank, Rainer W. Friedrich
                            
-
+**Presenting author:** Claire Meissner-Bernard
 
 **Presentation type:** Flash talk at [SNUFA 2024 online workshop (5-6 Nov 2024)](https://snufa.net/2024)
 

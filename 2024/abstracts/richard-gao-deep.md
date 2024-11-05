@@ -2,7 +2,7 @@
 
 **Authors:** Richard Gao, Michael Deistler, Auguste Schulz, Pedro J. Gonçalves, Jakob H. Macke
                            
-
+**Presenting author:** Richard Gao
 
 **Presentation type:** Flash talk at [SNUFA 2024 online workshop (5-6 Nov 2024)](https://snufa.net/2024)
 

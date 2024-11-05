@@ -2,7 +2,7 @@
 
 **Authors:** James Walker, Moein Khajehnejad, Adeel Razi
                            
-
+**Presenting author:** James Walker
 
 **Presentation type:** Flash talk at [SNUFA 2024 online workshop (5-6 Nov 2024)](https://snufa.net/2024)
 
