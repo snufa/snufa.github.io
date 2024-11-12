@@ -11,17 +11,18 @@ All our previous talks and seminars are available on our [YouTube channel](https
 SNUFA 2024
 ----------
 
-Currently in preparation, will likely take place 5-6 <!-- or 12-13 --> November 2024, European afternoons (online).
+Took place 5-6 November 2024, European afternoons (online).
 
-<span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://snufa.net/2024/">Go to SNUFA 2024</a></span>
+<span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://snufa.net/2024/">Go to SNUFA 2024</a></span> <span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://www.youtube.com/playlist?list=PL09WqqDbQWHHijfS3PyGxPxeoATc-suAv">Watch the recordings</a></span>
 
-The 2024 workshop is being organised by [Dan Goodman](https://neural-reckoning.org/), [Friedemann Zenke](https://zenkelab.org), [Melika Payvand](https://www.ini.uzh.ch/en/research/groups/EIS.html) and [Laurent Perrinet](https://laurentperrinet.github.io/).
+The 2024 workshop was organised by [Dan Goodman](https://neural-reckoning.org/), [Friedemann Zenke](https://zenkelab.org), [Melika Payvand](https://www.ini.uzh.ch/en/research/groups/EIS.html) and [Laurent Perrinet](https://laurentperrinet.github.io/).
 
 [Join our Discord](https://discord.gg/aYvgGakrVK) to chat about this research area, and to get announcements of new papers, conferences, jobs, grant schemes, etc.
 
 Archive
 -------
 
+* [SNUFA 2024](/2024).
 * [SNUFA 2023](/2023).
 * [SNUFA 2022](/2022).
 * [SNUFA 2021](/2021).

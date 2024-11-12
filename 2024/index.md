@@ -6,7 +6,7 @@
 
 **Executive committee.** [Melika Payvand](https://services.ini.uzh.ch/people/melika), [Laurent Perrinet](https://laurentperrinet.github.io/), [Dan Goodman](https://neural-reckoning.org), and [Friedemann Zenke](https://zenkelab.org/).
 
-**Quick links.** <span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://www.eventbrite.com/e/snufa-2024-tickets-950947628957?keep_tld=1">Register (free)</a></span> <span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://www.crowdcast.io/c/snufa-2024">Watch live on Crowdcast</a></span>
+**Quick links.** <span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://www.youtube.com/playlist?list=PL09WqqDbQWHHijfS3PyGxPxeoATc-suAv">Watch recordings on YouTube</a></span>
 
 ## Key information
 
@@ -14,7 +14,7 @@
 
 **Abstract submission is now closed**. Deadline was 27 September 2024.
 
-**Registration**. Registration is free but required. [Register via EventBrite](https://www.eventbrite.com/e/snufa-2024-tickets-950947628957?keep_tld=1)
+**Registration**. Registration is now closed.
 
 **Invited speakers**. 
 * [Chiara Bartolozzi](https://www.iit.it/people-details/-/people/chiara-bartolozzi) (IIT Genova),
@@ -26,9 +26,11 @@
 
 [Click here for all abstracts](all_abstracts.md).
 
-[Click here to open in Google Calendar](https://calendar.google.com/calendar/u/0?cid=OTYzMGJmOWIyZmJjZjNmNjE0ZDMzN2MyZTVmZjhmMWQ0NDYxZTMwYTM3OWNlNmJmZDA5YWVkMzg1MGJlN2IxMUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) (allows you to add to your own calendar).
+[Click here for all recorded videos](https://www.youtube.com/playlist?list=PL09WqqDbQWHHijfS3PyGxPxeoATc-suAv).
 
-[Click here to watch live on Crowdcast](https://www.crowdcast.io/c/snufa-2024).
+<!--[Click here to open in Google Calendar](https://calendar.google.com/calendar/u/0?cid=OTYzMGJmOWIyZmJjZjNmNjE0ZDMzN2MyZTVmZjhmMWQ0NDYxZTMwYTM3OWNlNmJmZDA5YWVkMzg1MGJlN2IxMUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) (allows you to add to your own calendar).
+
+[Click here to watch live on Crowdcast](https://www.crowdcast.io/c/snufa-2024).-->
 
 <script language="javascript">
 	function LT(d, t) {
