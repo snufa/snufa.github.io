@@ -13,7 +13,7 @@
 
 
 **Invited speakers**. 
-[Elisabetta Chicca]()https://www.rug.nl/research/zernike/bio-inspired-circuits-and-systems/chicca-group/?lang=en (University of Groningen),
+[Elisabetta Chicca](https://www.rug.nl/research/zernike/bio-inspired-circuits-and-systems/chicca-group/?lang=en) (University of Groningen),
 [Jason Eshraghian](https://ncg.ucsc.edu/jason-eshraghian-bio/) (UC Santa Cruz),
 [Tomoki Fukai](https://www.oist.jp/research/research-units/ncbc) (OIST),
 
