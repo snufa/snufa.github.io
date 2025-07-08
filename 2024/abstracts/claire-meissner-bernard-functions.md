@@ -1,0 +1,11 @@
+# Functions of excitatory-inhibitory assemblies in olfactory memory networks 
+
+**Authors:** Claire Meissner-Bernard, Bethan Jenkins, Peter Rupprecht, Friedemann Zenke, Thomas Frank, Rainer W. Friedrich
+                           
+**Presenting author:** Claire Meissner-Bernard
+
+**Presentation type:** Flash talk at [SNUFA 2024 online workshop (5-6 Nov 2024)](https://snufa.net/2024)
+
+## Abstract
+
+Recent experimental and theoretical studies challenge the classical view that learning-induced changes in connectivity occur only between excitatory neurons, leading to the hypothesis that memories are encoded in assemblies of highly connected excitatory (E) and inhibitory (I) neurons. To investigate the computational properties of networks with E-I assemblies, we built a data-constrained spiking neural network model of area Dp, the zebrafish homolog of olfactory cortex. Indeed, Dp exhibits both features of a memory network and signatures of plastic and structured inhibition. First, we studied how E-I assemblies shape neural geometry, the organization of activity patterns in neural state space. Unlike classical E assemblies, E-I assemblies did not generate discrete attractor states towards which neighboring activity converges. Instead, they locally reorganized odor-evoked activity in a way that enhanced the classification of learned odors while also providing a distance metric between an odor input and learned odors. In a second stage, we manipulated the activity of inhibitory neurons to uncover additional functions of structured inhibitory connectivity in memory networks. We found that inhibitory neurons in assemblies prevented networks from responding similarly to uncorrelated odor inputs (“runaway correlations”), thereby improving sensory processing. We further analyzed the mechanism underlying runaway correlations in the model of Dp and confirmed predictions of the model experimentally in the adult zebrafish, which suggests that E-I assemblies are likely to exist in biological networks. Taken together, our results provide valuable insights into fundamental neuronal computations of networks with specific E-I circuit motifs.

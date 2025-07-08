@@ -1,0 +1,11 @@
+# Neural Mechanisms for Strategy-dependent Decision-making in the Prefrontal Cortex
+
+**Authors:** Tianshu Li, Giancarlo La Camera
+                           
+**Presenting author:** Tianshu Li
+
+**Presentation type:** Flash talk at [SNUFA 2024 online workshop (5-6 Nov 2024)](https://snufa.net/2024)
+
+## Abstract
+
+The ability to adjust behavior according to context is essential to survival. The prefrontal cortex (PFC) is known to process contextual information, which is used to produce appropriate decisions, but many questions remain. This is especially the case for “strategic” behavior where the context follows from abstract rules. We analyzed the dynamics of neural activity in the PFC of monkeys performing a strategy-based task using hidden Markov model (HMM). In this task, one of three targets is chosen based on three strategies determined by the current instruction stimulus (IS) and previous trial outcome. The "repeat-stay, change-shift" strategy involves selecting the previously chosen target if the IS remains the same (repeat-stay); selecting a different target if the IS changes (change-shift); and if the latter is not rewarded, choosing the remaining target in the next trial ("second-chance" trials). Our HMM analysis showed that PFC activity is metastable, involving sharp transitions across hidden neural states encoding variables such as strategy, decision, action, reward, and previous-trial choices. Decisions in "second-chance" trials could be predicted from the neural activity before IS onset, suggesting that memory of two past trials is not required. We trained an artificial recurrent neural network and developed a multi-modular spiking neural network to perform the same task. Both models successfully attain levels of performance comparable to the monkeys’ and predict the existence of bias in the monkeys’ target selection. However, only the spiking neural network captures the complexity of the neural activity. The spiking neural network model’s modular architecture suggests possible mechanisms for storing information across multiple trials, inferring strategies, and integrating memory with successful strategies, a hallmark of primate behavior. 
