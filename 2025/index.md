@@ -16,7 +16,7 @@
 [Elisabetta Chicca](https://www.rug.nl/research/zernike/bio-inspired-circuits-and-systems/chicca-group/?lang=en) (University of Groningen),
 [Jason Eshraghian](https://ncg.ucsc.edu/jason-eshraghian-bio/) (UC Santa Cruz),
 [Tomoki Fukai](https://www.oist.jp/research/research-units/ncbc) (OIST),
-[Chengcheng Huang](https://www.mathematics.pitt.edu/people/chengcheng-huang) (UPitt).
+[Chengcheng Huang](https://www.mathematics.pitt.edu/people/chengcheng-huang) (Pitt).
 
 
 ## Format
