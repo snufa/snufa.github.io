@@ -54,7 +54,6 @@
 | 14:50 | Contributed talk | <script language="javascript">LT('6 Nov', '14:50')</script> 
 | 15:10 | Contributed talk | <script language="javascript">LT('6 Nov', '15:10')</script> 
 | 15:30 | Break | <script language="javascript">LT('6 Nov', '15:30')</script> 
-
 |       | **Session 4** - chaired by Dan Goodman |  
 | 16:00 | [Jason Eshraghian](https://ncg.ucsc.edu/jason-eshraghian-bio/), UC Santa Cruz | <script language="javascript">LT('6 Nov', '16:00')</script> 
 | 16:45 | Contributed talk | <script language="javascript">LT('6 Nov', '16:45')</script> 
