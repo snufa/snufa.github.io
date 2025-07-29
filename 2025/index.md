@@ -18,6 +18,28 @@
 [Tomoki Fukai](https://www.oist.jp/research/research-units/ncbc) (OIST),
 [Chengcheng Huang](https://www.mathematics.pitt.edu/people/chengcheng-huang) (Pitt).
 
+
+## Format
+
+* Two half days
+* 4 invited talks
+* 7 contributed talks
+* Flash talks by selected poster presenters
+* Virtual poster session
+
+
+
+## Abstract submission
+
+**Deadline:** Sept 26, 2025 (anywhere on earth)
+
+<span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://forms.cloud.microsoft/e/XkZLavhaJe">Submit abstract</a></span>
+
+Abstracts will be made publicly available at the end of the abstract submissions deadline for blinded public comments and ratings. We will select the most highly rated abstracts for contributed talks and flash talks, subject to maintaining a balance between the different fields of, broadly speaking, neuroscience, computer science and neuromorphic engineering. Abstracts not selected for a talk, and abstracts selected for a flash talk, will be presented as posters.
+
+
+
+
 ## Agenda
 
 
@@ -60,10 +82,4 @@
 | 17:05 | Contributed talk | <script language="javascript">LT('6 Nov', '17:05')</script> 
 | 17:25 | Closing remarks | <script language="javascript">LT('6 Nov', '17:25')</script> 
 
-## Format
 
-* Two half days
-* 4 invited talks
-* 7 contributed talks
-* Flash talks by selected poster presenters
-* Virtual poster session
