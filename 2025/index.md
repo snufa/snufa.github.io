@@ -18,6 +18,48 @@
 [Tomoki Fukai](https://www.oist.jp/research/research-units/ncbc) (OIST),
 [Chengcheng Huang](https://www.mathematics.pitt.edu/people/chengcheng-huang) (Pitt).
 
+## Agenda
+
+
+
+<!--[Click here to open in Google Calendar](https://calendar.google.com/calendar/u/0?cid=OTYzMGJmOWIyZmJjZjNmNjE0ZDMzN2MyZTVmZjhmMWQ0NDYxZTMwYTM3OWNlNmJmZDA5YWVkMzg1MGJlN2IxMUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) (allows you to add to your own calendar).
+
+[Click here to watch live on Crowdcast](https://www.crowdcast.io/c/snufa-2024).-->
+
+<script language="javascript">
+	function LT(d, t) {
+		var date = new Date(d+' 2024 '+t+' UTC+1');
+		document.write(date.toString());
+	}
+</script>
+
+| Time (CET) | Session | Local date/time 
+|------------|---------|-----------------
+|**November 5th** |  |  
+| 14:00 | Welcome by the organizers | <script language="javascript">LT('5 Nov', '14:00')</script> 
+|       | **Session 1** - chaired by TODO |  
+| 14:10 | [Tomoki Fukai](https://www.oist.jp/research/research-units/ncbc), OIST | <script language="javascript">LT('5 Nov', '14:10')</script> 
+| 14:55 | Contributed talk | <script language="javascript">LT('5 Nov', '14:55')</script> 
+| 15:15 | Contributed talk | <script language="javascript">LT('5 Nov', '15:15')</script> 
+| 15:35 | Break | <script language="javascript">LT('5 Nov', '15:35')</script> 
+|       | **Session 2** - chaired by TODO |  
+| 16:05 | [Chengcheng Huang](https://www.mathematics.pitt.edu/people/chengcheng-huang), Pitt | <script language="javascript">LT('5 Nov', '16:05')</script> 
+| 16:50 | Contributed talk | <script language="javascript">LT('5 Nov', '16:50')</script> 
+| 17:10 | Flash talks by selected poster presenters | <script language="javascript">LT('5 Nov', '17:10')</script> 
+| 17:30 | Poster session | <script language="javascript">LT('5 Nov', '17:30')</script> 
+|**November 6th** |  |  
+| 14:00 | Welcome to day 2 | <script language="javascript">LT('6 Nov', '14:00')</script> 
+|       | **Session 3** - chaired by TODO |  
+| 14:05 | [Elisabetta Chicca](https://www.rug.nl/research/zernike/bio-inspired-circuits-and-systems/chicca-group/?lang=en), University of Groningen | <script language="javascript">LT('6 Nov', '14:05')</script> 
+| 14:50 | Contributed talk | <script language="javascript">LT('6 Nov', '14:50')</script> 
+| 15:10 | Contributed talk | <script language="javascript">LT('6 Nov', '15:10')</script> 
+| 15:30 | Break | <script language="javascript">LT('6 Nov', '15:30')</script> 
+
+|       | **Session 4** - chaired by TODO |  
+| 16:00 | [Jason Eshraghian](https://ncg.ucsc.edu/jason-eshraghian-bio/), UC Santa Cruz | <script language="javascript">LT('6 Nov', '16:00')</script> 
+| 16:45 | Contributed talk | <script language="javascript">LT('6 Nov', '16:45')</script> 
+| 17:05 | Contributed talk | <script language="javascript">LT('6 Nov', '17:05')</script> 
+| 17:25 | Closing remarks | <script language="javascript">LT('6 Nov', '17:25')</script> 
 
 ## Format
 
