@@ -28,6 +28,12 @@
 * Virtual poster session
 
 
+## Registration
+
+<span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://www.eventbrite.co.uk/e/snufa-2025-tickets-1549418545579">Register</a></span>
+
+Attendance is free, but registration is required (to receive the streaming links).
+
 
 ## Abstract submission
 
