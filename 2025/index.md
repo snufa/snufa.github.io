@@ -6,6 +6,8 @@
 
 **Program committee.** [David Kappel](https://www.ini.rub.de/the_institute/people/david-kappel/), [Julijana Gjorgjieva](https://www.mls.ls.tum.de/compneuro/home/), [Dan Goodman](https://neural-reckoning.org), and [Friedemann Zenke](https://zenkelab.org/).
 
+**Quick links.** <span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://imperial.eu.qualtrics.com/jfe/form/SV_bKJCYoETdtWGIyG">Vote for your preferred abstracts</a></span>
+<span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://www.eventbrite.co.uk/e/snufa-2025-tickets-1549418545579">Register</a></span>
 
 ## Key information
 
@@ -34,21 +36,21 @@
 
 Attendance is free, but registration is required (to receive the streaming links).
 
+## Abstract voting
 
-## Abstract submission
+<span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://imperial.eu.qualtrics.com/jfe/form/SV_bKJCYoETdtWGIyG">Vote for your preferred abstracts</a></span>
+
+Please only vote once!
+
+<!-- ## Abstract submission
 
 **Deadline:** Sept 26, 2025 (anywhere on earth)
 
 <span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://forms.cloud.microsoft/e/XkZLavhaJe">Submit abstract</a></span>
 
-Abstracts will be made publicly available at the end of the abstract submissions deadline for blinded public comments and ratings. We will select the most highly rated abstracts for contributed talks and flash talks, subject to maintaining a balance between the different fields of, broadly speaking, neuroscience, computer science and neuromorphic engineering. Abstracts not selected for a talk, and abstracts selected for a flash talk, will be presented as posters.
-
-
-
+Abstracts will be made publicly available at the end of the abstract submissions deadline for blinded public comments and ratings. We will select the most highly rated abstracts for contributed talks and flash talks, subject to maintaining a balance between the different fields of, broadly speaking, neuroscience, computer science and neuromorphic engineering. Abstracts not selected for a talk, and abstracts selected for a flash talk, will be presented as posters. -->
 
 ## Agenda
-
-
 
 <!--[Click here to open in Google Calendar](https://calendar.google.com/calendar/u/0?cid=OTYzMGJmOWIyZmJjZjNmNjE0ZDMzN2MyZTVmZjhmMWQ0NDYxZTMwYTM3OWNlNmJmZDA5YWVkMzg1MGJlN2IxMUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) (allows you to add to your own calendar).
 
