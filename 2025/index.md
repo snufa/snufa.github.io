@@ -6,8 +6,7 @@
 
 **Program committee.** [David Kappel](https://www.ini.rub.de/the_institute/people/david-kappel/), [Julijana Gjorgjieva](https://www.mls.ls.tum.de/compneuro/home/), [Dan Goodman](https://neural-reckoning.org), and [Friedemann Zenke](https://zenkelab.org/).
 
-**Quick links.** <span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://imperial.eu.qualtrics.com/jfe/form/SV_bKJCYoETdtWGIyG">Vote for your preferred abstracts</a></span>
-<span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://www.eventbrite.co.uk/e/snufa-2025-tickets-1549418545579">Register</a></span>
+**Quick links.** <span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://www.eventbrite.co.uk/e/snufa-2025-tickets-1549418545579">Register</a></span>
 
 ## Key information
 
@@ -36,11 +35,11 @@
 
 Attendance is free, but registration is required (to receive the streaming links).
 
-## Abstract voting
+<!--## Abstract voting
 
 <span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://imperial.eu.qualtrics.com/jfe/form/SV_bKJCYoETdtWGIyG">Vote for your preferred abstracts</a></span>
 
-Please only vote once!
+Please only vote once!-->
 
 <!-- ## Abstract submission
 
