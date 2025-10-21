@@ -1,0 +1,11 @@
+# A genetic algorithm for self-supervised models of oscillatory neurodynamics
+
+**Authors:** Jason Sherfey, Andre Bastos
+                           
+
+
+**Presentation type:** Poster at [SNUFA 2025 online workshop (5-6 Nov 2025)](https://snufa.net/2025)
+
+## Abstract
+
+Predictive processing theories propose that the brain supervises itself, to build an internal model of its environment. This internal model emerges by minimizing the prediction error, the discrepancy between internally generated predictions and external sensory signals. Empirically, this internal model is implemented with neurobiology and generates neurodynamics, especially oscillatory rhythms. In current approaches, there exists a trade-off between algorithmic and implementational aspects. One group of predictive processing models perform self-supervised computations but miss neurobiologic details and oscillatory neurodynamics. In the other group, biophysical models implement neural network models with maximal brain-like structure and oscillatory dynamics but require manual supervision. Here, we propose an evolutionary algorithm, the genetic stochastic delta rule (GSDR), to conduct simulations with biophysical neural networks. This approach enhances the explanatory power of theories in neurophysiology by exploring parameter spaces in a self-supervised fashion. We first evaluate GSDR in a simplified and minimal optimization problem. Then, we simulate commonly observed neural dynamics such as firing rate and modulation of neuronal oscillations. We show that GSDR is capable of replicating oscillatory dynamics observed through in-vivo electrophysiology, such that they emerge from synaptic plasticity. This methodology broadens the scope for biology-plausible, automated, large-scale and multi-objective simulations within computational neuroscience. With this virtuous cycle between data and models established by GSDR, we suggest that the search for the circuits underlying predictive processing can be grounded to neuronal data, improving the neurobiological basis of theories.

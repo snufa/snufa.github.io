@@ -1,0 +1,11 @@
+# Spiking neurons as predictive controllers of linear systems
+
+**Authors:** Paolo Agliati, André Urbano, Pablo Lanillos, Nasir Ahmad, Marcel van Gerven, Sander Keemink
+                           
+
+
+**Presentation type:** Talk at [SNUFA 2025 online workshop (5-6 Nov 2025)](https://snufa.net/2025)
+
+## Abstract
+
+Neurons communicate with downstream systems via sparse and incredibly brief electrical pulses, or spikes. Using these events, they control various targets such as neuromuscular units, neurosecretory systems, and other neurons in connected circuits. This gave rise to the idea of spiking neurons as controllers, in which spikes are the control signal. Using instantaneous events directly as the control inputs, also called ‘impulse control’, is challenging as it does not scale well to larger networks and has low analytical tractability. Therefore, current spiking control usually relies on filtering the spike signal to approximate analog control. This ultimately means spiking neural networks (SNNs) have to output a continuous control signal, necessitating continuous energy input into downstream systems. In our work, we circumvent the need for rate-based representations, providing a scalable method for task-specific spiking control with sparse neural activity. We take inspiration from optimal control theory and we expand existing theoretical neuroscience concepts by defining a spiking rule where spikes are only emitted if they bring a dynamical system closer to a target state. From this principle, we derive the required connectivity for an SNN, and show that it can successfully control linear systems. We show that for physically constrained systems, predictive control is required, and the control signal ends up exploiting the passive dynamics of the downstream system. Finally, we show that the control method scales to both high-dimensional networks and systems. Importantly, in all cases, we maintain a closed-form mathematical derivation of the network connectivity, the network dynamics and the control objective. Our work builds upon spike coding concepts to advance the understanding of SNNs as biologically-inspired controllers, providing insight into how real neurons could exert control, and enabling applications in neuromorphic hardware design. 

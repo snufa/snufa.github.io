@@ -1,0 +1,11 @@
+# Noradrenergic-inspired gain modulation attenuates the stability gap in joint training
+
+**Authors:** Alejandro Rodriguez-Garcia , Anindya Ghosh, Srikanth Ramaswamy
+                           
+
+
+**Presentation type:** Poster at [SNUFA 2025 online workshop (5-6 Nov 2025)](https://snufa.net/2025)
+
+## Abstract
+
+Recent studies in continual learning have identified a transient drop in performance on mastered tasks when assimilating new ones, known as the stability gap. Such dynamics contradict the objectives of continual learning, revealing a lack of robustness in mitigating forgetting, and notably, persisting even under an ideal joint‐loss regime. Examining the stability gap within this idealized joint training context is critical to isolate it from other sources of forgetting and fully elucidate its underlying mechanisms. We argue that this gap reflects an imbalance between rapid adaptation and robust retention at task boundaries, underscoring the need to investigate mechanisms that reconcile plasticity and stability within continual learning frameworks. Biological brains navigate a similar plasticity-stability dilemma by operating concurrently on multiple timescales, leveraging neuromodulatory signals to modulate synaptic plasticity. However, artificial networks lack native multitimescale dynamics, and although optimizers like momentum-SGD and Adam introduce implicit timescale regularization, they still exhibit stability gaps. Inspired by locus coeruleus-mediated noradrenergic bursts, which transiently enhance neuronal gain under uncertainty to facilitate sensory assimilation, we propose uncertainty-modulated gain dynamics -- an adaptive mechanism that approximates a two-timescale optimizer and dynamically balances integration of knowledge with minimal interference on previously consolidated information. We evaluate our mechanism on domain-incremental and class-incremental variants of the MNIST, CIFAR and mini-ImageNet benchmarks under joint training, demonstrating that uncertainty-modulated gain dynamics effectively attenuate the stability gap. Finally, our analysis elucidates how gain modulation replicates noradrenergic functions in cortical circuits, offering mechanistic insights into reducing stability gaps, and that gain-modulated neural networks can enhance performance in continual learning tasks.

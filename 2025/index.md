@@ -51,6 +51,8 @@ Abstracts will be made publicly available at the end of the abstract submissions
 
 ## Agenda
 
+[Click here for all abstracts](all_abstracts.md).
+
 <!--[Click here to open in Google Calendar](https://calendar.google.com/calendar/u/0?cid=OTYzMGJmOWIyZmJjZjNmNjE0ZDMzN2MyZTVmZjhmMWQ0NDYxZTMwYTM3OWNlNmJmZDA5YWVkMzg1MGJlN2IxMUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) (allows you to add to your own calendar).
 
 [Click here to watch live on Crowdcast](https://www.crowdcast.io/c/snufa-2024).-->
@@ -68,25 +70,25 @@ Abstracts will be made publicly available at the end of the abstract submissions
 | 14:00 | Welcome by the organizers | <script language="javascript">LT('5 Nov', '14:00')</script> 
 |       | **Session 1** - chaired by David Kappel |  
 | 14:10 | [Tomoki Fukai](https://www.oist.jp/research/research-units/ncbc), OIST | <script language="javascript">LT('5 Nov', '14:10')</script> 
-| 14:55 | Contributed talk | <script language="javascript">LT('5 Nov', '14:55')</script> 
-| 15:15 | Contributed talk | <script language="javascript">LT('5 Nov', '15:15')</script> 
+| 14:55 | **Christoph Miehl**<br/>[Assembly-based computations through contextual dendritic gating of plasticity](abstracts/christoph-miehl-assembly-based.md) | <script language="javascript">LT('5 Nov', '14:55')</script> 
+| 15:15 | **Claudia Cusseddu**<br/>[Synaptic Plasticity Shapes Triplet Connectivity Motifs in Spiking Networks](abstracts/claudia-cusseddu-synaptic.md) | <script language="javascript">LT('5 Nov', '15:15')</script> 
 | 15:35 | Break | <script language="javascript">LT('5 Nov', '15:35')</script> 
 |       | **Session 2** - chaired by Julijana Gjorgjieva |  
 | 16:05 | [Chengcheng Huang](https://www.mathematics.pitt.edu/people/chengcheng-huang), Pitt | <script language="javascript">LT('5 Nov', '16:05')</script> 
-| 16:50 | Contributed talk | <script language="javascript">LT('5 Nov', '16:50')</script> 
-| 17:10 | Flash talks by selected poster presenters | <script language="javascript">LT('5 Nov', '17:10')</script> 
+| 16:50 | **Paolo Agliati**<br/>[Spiking neurons as predictive controllers of linear systems](abstracts/paolo-agliati-spiking.md) | <script language="javascript">LT('5 Nov', '16:50')</script> 
+| 17:10 | [Flash talks by selected poster presenters](all_abstracts.md) | <script language="javascript">LT('5 Nov', '17:10')</script> 
 | 17:30 | Poster session | <script language="javascript">LT('5 Nov', '17:30')</script> 
 |**November 6th** |  |  
 | 14:00 | Welcome to day 2 | <script language="javascript">LT('6 Nov', '14:00')</script> 
 |       | **Session 3** - chaired by Friedemann Zenke |  
 | 14:05 | [Elisabetta Chicca](https://www.rug.nl/research/zernike/bio-inspired-circuits-and-systems/chicca-group/?lang=en), University of Groningen | <script language="javascript">LT('6 Nov', '14:05')</script> 
-| 14:50 | Contributed talk | <script language="javascript">LT('6 Nov', '14:50')</script> 
-| 15:10 | Contributed talk | <script language="javascript">LT('6 Nov', '15:10')</script> 
+| 14:50 | **Manoj NH**<br/>[Spiking Differential Equation Solvers: A Minimal Framework for Dynamical Computation](abstracts/manoj-n-spiking.md) | <script language="javascript">LT('6 Nov', '14:50')</script> 
+| 15:10 | **Raphaël Bergoin**<br/>[Emergence and maintenance of modularity in neural networks with Hebbian and anti-Hebbian inhibitory STDP](abstracts/raphaël-bergoin-emergence.md) | <script language="javascript">LT('6 Nov', '15:10')</script> 
 | 15:30 | Break | <script language="javascript">LT('6 Nov', '15:30')</script> 
 |       | **Session 4** - chaired by Dan Goodman |  
 | 16:00 | [Jason Eshraghian](https://ncg.ucsc.edu/jason-eshraghian-bio/), UC Santa Cruz | <script language="javascript">LT('6 Nov', '16:00')</script> 
-| 16:45 | Contributed talk | <script language="javascript">LT('6 Nov', '16:45')</script> 
-| 17:05 | Contributed talk | <script language="javascript">LT('6 Nov', '17:05')</script> 
+| 16:45 | **Balazs Meszaros**<br/>[Space as Time Through Neuron Position Learning](abstracts/balázs-mészáros-space.md) | <script language="javascript">LT('6 Nov', '16:45')</script> 
+| 17:05 | **Marissa Dominijanni**<br/>[Extending Spike-Timing Dependent Plasticity to Learning Synaptic Delays](abstracts/marissa-dominijanni-extending.md) | <script language="javascript">LT('6 Nov', '17:05')</script> 
 | 17:25 | Closing remarks | <script language="javascript">LT('6 Nov', '17:25')</script> 
 
 

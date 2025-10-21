@@ -1,0 +1,11 @@
+# Quantum-Inspired Neuromorphic Modeling of Action Potentials at the Edge for Bio-Inspired AI
+
+**Authors:** Chitaranjan Mahapatra, Ashish Kumar Pradhan
+                           
+**Presenting author:** Chitaranjan Mahapatra
+
+**Presentation type:** Poster at [SNUFA 2025 online workshop (5-6 Nov 2025)](https://snufa.net/2025)
+
+## Abstract
+
+The increasing demand for intelligent, energy-efficient bio-sensing and prosthetic devices necessitates a new approach to neuromorphic computing. This work introduces a novel framework that merges principles of quantum mechanics with classical computational neuroscience, presenting a quantum-inspired model for the simulation of neuronal action potentials. Our approach leverages the well-established Hodgkin-Huxley dynamics but incorporates two-level quantum systems to more accurately capture the stochastic and probabilistic behavior of ion channel gating. We demonstrate that this method offers a significant improvement in both energy efficiency and computational fidelity compared to traditional spiking neuron models. To facilitate real-time execution on resource-constrained devices, we developed a highly optimized Python toolchain. This framework, built upon libraries such as QuTiP for quantum simulations, SciPy for numerical analysis, and TensorFlow Lite for edge deployment, enables the seamless emulation of complex neural dynamics on low-power System-on-Chip (SoC) and Field-Programmable Gate Array (FPGA) architectures. A key innovation of this research is the conceptualization of the semiconductor-ion channel interface as a Field-Effect Transistor (FET). This enables the direct and efficient translation of ionic fluxes into measurable electrical signals, a crucial step for the development of bio-integrated systems. Our preliminary benchmarks show a substantial reduction in power consumption, paving the way for autonomous, long-duration neuroprosthetics and biohybrid AI systems. This research bridges the gap between theoretical computational neuroscience and practical neuromorphic engineering, offering a blueprint for the next generation of bio-inspired, energy-efficient artificial intelligence.

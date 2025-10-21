@@ -1,0 +1,11 @@
+# A Unified Cross-Domain Software Framework for Interfacing with Biological, Virtual, and Neuromorphic Spiking Neuronal Networks
+
+**Authors:** Andrey Formozov, Liam Keegan, Harald Mack, James S. Bowyer, J. Simon Wiegert 
+                           
+
+
+**Presentation type:** Poster at [SNUFA 2025 online workshop (5-6 Nov 2025)](https://snufa.net/2025)
+
+## Abstract
+
+Experimental and computational neuroscience, as well as neuromorphic engineering, often operate on a similar level of abstraction, considering spiking neural (neuronal) networks with plasticity as a substrate for computation. However, the methods used to control and observe these networks differ significantly across the disciplines. In computational models, inputs and boundary conditions can be flexibly defined, and internal parameters of interest are generally accessible. It is not always possible in neuromorphic implementations and, to a greater extent, in biological systems. Advances in all-optical and electrophysiological bidirectional interfacing are gradually closing this gap by providing high-throughput readout and control over the states of biological neurons. Building on these advances and leveraging the invariance of representations of spiking neural networks across disciplines, we propose a concept of a cross-domain framework suitable for controlling spiking neuronal networks, regardless of whether they are implemented biologically, virtually, or in neuromorphic hardware. To demonstrate the feasibility of this approach, we have developed a software package with a unified interface that allows computational neuroscientists to interact with real biological experiments and neuromorphic systems nearly as if they were running virtual simulations. Conversely, experimentalists can run computational models as if they were real experiments. The proposed framework will foster a convergence of the disciplines and a fruitful exchange of concepts, theories, and empirical findings between them. Ultimately, it will impact both fundamental research and practical applications and find relevance in education.
