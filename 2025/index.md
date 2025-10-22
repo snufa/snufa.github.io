@@ -74,7 +74,7 @@ Abstracts will be made publicly available at the end of the abstract submissions
 | 15:15 | **Claudia Cusseddu**<br/>[Synaptic Plasticity Shapes Triplet Connectivity Motifs in Spiking Networks](abstracts/claudia-cusseddu-synaptic.md) | <script language="javascript">LT('5 Nov', '15:15')</script> 
 | 15:35 | Break | <script language="javascript">LT('5 Nov', '15:35')</script> 
 |       | **Session 2** - chaired by Julijana Gjorgjieva |  
-| 16:05 | [Chengcheng Huang](https://www.mathematics.pitt.edu/people/chengcheng-huang), Pitt | <script language="javascript">LT('5 Nov', '16:05')</script> 
+| 16:05 | [Chengcheng Huang](https://www.mathematics.pitt.edu/people/chengcheng-huang), Pitt <br /> State modulation in spatial spiking networks of multiple interneuron subtypes | <script language="javascript">LT('5 Nov', '16:05')</script> 
 | 16:50 | **Paolo Agliati**<br/>[Spiking neurons as predictive controllers of linear systems](abstracts/paolo-agliati-spiking.md) | <script language="javascript">LT('5 Nov', '16:50')</script> 
 | 17:10 | [Flash talks by selected poster presenters](all_abstracts.md) | <script language="javascript">LT('5 Nov', '17:10')</script> 
 | 17:30 | Poster session | <script language="javascript">LT('5 Nov', '17:30')</script> 
