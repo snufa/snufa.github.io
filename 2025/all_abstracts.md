@@ -2,7 +2,6 @@
 
 [Click here for the full programme](https://snufa.net/2025)
 
-## Invited talks (TBD)
 
 
 

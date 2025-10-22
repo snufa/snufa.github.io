@@ -69,7 +69,7 @@ Abstracts will be made publicly available at the end of the abstract submissions
 |**November 5th** |  |  
 | 14:00 | Welcome by the organizers | <script language="javascript">LT('5 Nov', '14:00')</script> 
 |       | **Session 1** - chaired by David Kappel |  
-| 14:10 | [Tomoki Fukai](https://www.oist.jp/research/research-units/ncbc), OIST | <script language="javascript">LT('5 Nov', '14:10')</script> 
+| 14:10 | [Tomoki Fukai](https://www.oist.jp/research/research-units/ncbc), OIST <br/> Spontaneous replay of memory assemblies in plastic spiking network models | <script language="javascript">LT('5 Nov', '14:10')</script> 
 | 14:55 | **Christoph Miehl**<br/>[Assembly-based computations through contextual dendritic gating of plasticity](abstracts/christoph-miehl-assembly-based.md) | <script language="javascript">LT('5 Nov', '14:55')</script> 
 | 15:15 | **Claudia Cusseddu**<br/>[Synaptic Plasticity Shapes Triplet Connectivity Motifs in Spiking Networks](abstracts/claudia-cusseddu-synaptic.md) | <script language="javascript">LT('5 Nov', '15:15')</script> 
 | 15:35 | Break | <script language="javascript">LT('5 Nov', '15:35')</script> 
@@ -86,7 +86,7 @@ Abstracts will be made publicly available at the end of the abstract submissions
 | 15:10 | **Raphaël Bergoin**<br/>[Emergence and maintenance of modularity in neural networks with Hebbian and anti-Hebbian inhibitory STDP](abstracts/raphaël-bergoin-emergence.md) | <script language="javascript">LT('6 Nov', '15:10')</script> 
 | 15:30 | Break | <script language="javascript">LT('6 Nov', '15:30')</script> 
 |       | **Session 4** - chaired by Dan Goodman |  
-| 16:00 | [Jason Eshraghian](https://ncg.ucsc.edu/jason-eshraghian-bio/), UC Santa Cruz | <script language="javascript">LT('6 Nov', '16:00')</script> 
+| 16:00 | [Jason Eshraghian](https://ncg.ucsc.edu/jason-eshraghian-bio/), UC Santa Cruz <br /> Neuromorphic LLMs | <script language="javascript">LT('6 Nov', '16:00')</script> 
 | 16:45 | **Balazs Meszaros**<br/>[Space as Time Through Neuron Position Learning](abstracts/balázs-mészáros-space.md) | <script language="javascript">LT('6 Nov', '16:45')</script> 
 | 17:05 | **Marissa Dominijanni**<br/>[Extending Spike-Timing Dependent Plasticity to Learning Synaptic Delays](abstracts/marissa-dominijanni-extending.md) | <script language="javascript">LT('6 Nov', '17:05')</script> 
 | 17:25 | Closing remarks | <script language="javascript">LT('6 Nov', '17:25')</script> 
