@@ -81,7 +81,7 @@ Abstracts will be made publicly available at the end of the abstract submissions
 |**November 6th** |  |  
 | 14:00 | Welcome to day 2 | <script language="javascript">LT('6 Nov', '14:00')</script> 
 |       | **Session 3** - chaired by Friedemann Zenke |  
-| 14:05 | [Elisabetta Chicca](https://www.rug.nl/research/zernike/bio-inspired-circuits-and-systems/chicca-group/?lang=en), University of Groningen | <script language="javascript">LT('6 Nov', '14:05')</script> 
+| 14:05 | [Elisabetta Chicca](https://www.rug.nl/research/zernike/bio-inspired-circuits-and-systems/chicca-group/?lang=en), University of Groningen <br /> Event-Based Vision for Egomotion Estimation | <script language="javascript">LT('6 Nov', '14:05')</script> 
 | 14:50 | **Manoj NH**<br/>[Spiking Differential Equation Solvers: A Minimal Framework for Dynamical Computation](abstracts/manoj-n-spiking.md) | <script language="javascript">LT('6 Nov', '14:50')</script> 
 | 15:10 | **Raphaël Bergoin**<br/>[Emergence and maintenance of modularity in neural networks with Hebbian and anti-Hebbian inhibitory STDP](abstracts/raphaël-bergoin-emergence.md) | <script language="javascript">LT('6 Nov', '15:10')</script> 
 | 15:30 | Break | <script language="javascript">LT('6 Nov', '15:30')</script> 
