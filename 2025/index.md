@@ -6,7 +6,10 @@
 
 **Program committee.** [David Kappel](https://www.ini.rub.de/the_institute/people/david-kappel/), [Julijana Gjorgjieva](https://www.mls.ls.tum.de/compneuro/home/), [Dan Goodman](https://neural-reckoning.org), and [Friedemann Zenke](https://zenkelab.org/).
 
-**Quick links.** <span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://www.eventbrite.co.uk/e/snufa-2025-tickets-1549418545579">Register</a></span>
+**Quick links.**
+<span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://imperial-ac-uk.zoom.us/j/94112756498?pwd=roHyzgMgmceCn6gmiYucH3svafbiYU.1">Join main meeting</a></span>
+<span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://imperial-ac-uk.zoom.us/j/94157174631?pwd=Oy3qd69QcJyFW5blrMHdqYwk5sgRx4.1">Join poster session</a></span>
+<span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://www.eventbrite.co.uk/e/snufa-2025-tickets-1549418545579">Register</a></span>
 
 ## Key information
 
@@ -63,6 +66,11 @@ Abstracts will be made publicly available at the end of the abstract submissions
 		document.write(date.toString());
 	}
 </script>
+
+<span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://imperial-ac-uk.zoom.us/j/94112756498?pwd=roHyzgMgmceCn6gmiYucH3svafbiYU.1">Join main meeting</a></span>
+
+<span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://imperial-ac-uk.zoom.us/j/94157174631?pwd=Oy3qd69QcJyFW5blrMHdqYwk5sgRx4.1">Join poster session</a></span>
+
 
 | Time (CET) | Session | Local date/time 
 |------------|---------|-----------------
