@@ -3,6 +3,6 @@ description: "Spiking Neural networks as Universal Function Approximators"
 show_downloads: false
 github:
   is_project_page: false
-remote_theme: jekyll/minima@v2.5.2
+remote_theme: jekyll/cayman@0.2.0
 plugins:
 - jekyll-remote-theme
