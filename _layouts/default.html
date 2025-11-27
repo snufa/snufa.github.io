@@ -21,6 +21,14 @@
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       <a class="nav-link" href="https://youtube.com/playlist?list=PL09WqqDbQWHFoXyLxIxoblfO7SSQcCAZ-&si=-9I_JYai5MeFaHHK" rel="me"><i class="fa-brands fa-youtube"></i></a>
       <a class="nav-link" href="https://discord.gg/aYvgGakrVK" rel="me"><i class="fa-brands fa-discord"></i></a>
+      <details class="workshop-selector">
+        <summary>Meetings</summary>
+        <ul>
+          {% for year in site.meeting_years %}
+          <li><a href="{{ site.baseurl }}/{{ year }}">{{ year }}</a></li>
+          {% endfor %}
+        </ul>
+      </details>      
     </header>
 
     <main id="content" class="main-content" role="main">

@@ -31,3 +31,30 @@
 .nav-link {
   font-size: 1.5rem;
 }
+
+details.workshop-selector {
+  display: inline-block;
+  position: relative;
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+}
+details.workshop-selector > summary::before {
+  content: "▶ "
+}
+details.workshop-selector[open] > summary::before {
+  content: "▼ "
+}
+details.workshop-selector > ul {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background: white;
+  border: 1px solid silver;
+  padding: 0.5rem;
+  margin: 0;
+  list-style-type: none;
+}
+details.workshop-selector[open] > ul {
+  display: block;
+}
