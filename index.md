@@ -25,7 +25,7 @@ The 2025 workshop is being organised by [David Kappel](https://www.ini.rub.de/th
 Archive
 -------
 
-* [SNUFA 2025](/2025).
+* [SNUFA 2025](2025).
 * [SNUFA 2024](/2024).
 * [SNUFA 2023](/2023).
 * [SNUFA 2022](/2022).
