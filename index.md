@@ -25,11 +25,15 @@ The 2025 workshop is being organised by [David Kappel](https://www.ini.rub.de/th
 Archive
 -------
 
-* [SNUFA 2025](/2025).
-* [SNUFA 2024](/2024).
-* [SNUFA 2023](/2023).
-* [SNUFA 2022](/2022).
+* [SNUFA 2025](2025/index.md).
+* [SNUFA 2024](2024/index.md).
+* [SNUFA 2023](2023/index.md).
+* [SNUFA 2022](2022/index.md).
 * [SNUFA 2021](2021/index.md).
-* [SNUFA 2020](2020.md).
+* [SNUFA 2020](2020/index.md).
+
+{% for year in site.meeting_years %}
+* [SNUFA {{ year }}](/{{ year }}/index.md)
+{% endfor %}
 
 SNUFA logo courtesy of [Skala Art](https://skala-art.net)
