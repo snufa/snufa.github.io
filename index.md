@@ -1,4 +1,4 @@
-## SNUFA
+<!-- ## SNUFA -->
 
 SNUFA is an online workshop and community focused on research advances in the field of "Spiking Networks as Universal Function Approximators."
 

@@ -7,5 +7,15 @@
   color:#000;
   text-align:center;
   background-color:#159957;
-  background-image:linear-gradient(120deg, #155e92, #b3b1cf, #ffffff)
+  background-image:linear-gradient(120deg, #155e92, #b3b1cf, #ffffff);
+  padding:1rem 1rem;
+}
+
+.main-content h1,
+.main-content h2,
+.main-content h3,
+.main-content h4,
+.main-content h5,
+.main-content h6 {
+  color:#155e92
 }
