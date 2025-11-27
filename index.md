@@ -29,7 +29,7 @@ Archive
 * [SNUFA 2024](/2024).
 * [SNUFA 2023](/2023).
 * [SNUFA 2022](/2022).
-* [SNUFA 2021](/2021).
-* [SNUFA 2020](/2020).
+* [SNUFA 2021](2021/index.md).
+* [SNUFA 2020](2020.md).
 
 SNUFA logo courtesy of [Skala Art](https://skala-art.net)
