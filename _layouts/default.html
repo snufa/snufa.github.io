@@ -18,10 +18,13 @@
 
     <header class="page-header" role="banner">
       <a href="{{ site.baseurl }}">
-        <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+        {% if page.url == "/" %}
+        <h1 class="project-name">SNUFA</h1>
+        <h2 class="project-tagline">Spiking Neural Networks As Universal Function Approximators</h2>
+        {% endif %}
+        <!-- <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1> -->
         <!-- <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2> -->
       </a>
-      {% include breadcrumbs.html %}
       <details class="workshop-selector">
         <summary>Meetings</summary>
         <ul>
@@ -32,6 +35,9 @@
       </details>      
       <a class="nav-link" href="https://youtube.com/playlist?list=PL09WqqDbQWHFoXyLxIxoblfO7SSQcCAZ-&si=-9I_JYai5MeFaHHK" rel="me"><i class="fa-brands fa-youtube"></i> YouTube</a>
       <a class="nav-link" href="https://discord.gg/aYvgGakrVK" rel="me"><i class="fa-brands fa-discord"></i> Discord</a>
+      {% if page.url != "/" %}
+      {% include breadcrumbs.html %}
+      {% endif %}
     </header>
 
     <main id="content" class="main-content" role="main">

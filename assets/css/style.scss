@@ -64,6 +64,13 @@ details.workshop-selector[open] > ul {
   display: block;
 }
 
-.breadcrumbs {
-    display: inline-block;
+// #breadcrumbs {
+//   display: inline;
+//   margin-left: 0.5rem;
+//   margin-right: 0.5rem;
+// }
+
+#breadcrumbs a {
+  color: black;
+  text-decoration: none;
 }
