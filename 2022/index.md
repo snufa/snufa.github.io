@@ -30,7 +30,7 @@
 
 ## Agenda
 
-[Click here for all abstracts](all_abstracts.md).
+[Click here for all abstracts](abstracts/index.md).
 
 [Click here to open in Google Calendar](https://calendar.google.com/calendar/u/0?cid=OTYzMGJmOWIyZmJjZjNmNjE0ZDMzN2MyZTVmZjhmMWQ0NDYxZTMwYTM3OWNlNmJmZDA5YWVkMzg1MGJlN2IxMUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) (allows you to add to your own calendar).
 

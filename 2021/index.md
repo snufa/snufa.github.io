@@ -16,7 +16,7 @@ Talks can be viewed on [Crowdcast](https://www.crowdcast.io/e/snufa-2021) or [Yo
 
 ## Agenda
 
-List of [abstracts](abstracts)
+List of [abstracts](abstracts.md)
 
 <script language="javascript">
 	function LT(d, t) {

@@ -1,6 +1,6 @@
 # List of SNUFA2021 abstracts
 
-[Back to meeting overview](.)
+[Back to meeting overview](index.md)
 
 ## Deriving local synaptic learning rules for efficient representations in networks of spiking neurons 
 Viola Priesemann, Lucas Rudelt, Fabian Mikulasch <br/>

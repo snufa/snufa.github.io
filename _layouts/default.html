@@ -17,14 +17,12 @@
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
     <header class="page-header" role="banner">
-      <a href="{{ site.baseurl }}">
-        {% if page.url == "/" %}
-        <h1 class="project-name">SNUFA</h1>
-        <h2 class="project-tagline">Spiking Neural Networks As Universal Function Approximators</h2>
-        {% endif %}
-        <!-- <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1> -->
-        <!-- <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2> -->
-      </a>
+      {% if page.url == "/" %}
+      <h1 class="project-name">SNUFA</h1>
+      <h2 class="project-tagline">Spiking Neural Networks As Universal Function Approximators</h2>
+      {% endif %}
+      <!-- <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1> -->
+      <!-- <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2> -->
       <details class="workshop-selector">
         <summary>Meetings</summary>
         <ul>

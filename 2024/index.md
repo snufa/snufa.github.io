@@ -24,7 +24,7 @@
 
 ## Agenda
 
-[Click here for all abstracts](all_abstracts.md).
+[Click here for all abstracts](abstracts/index.md).
 
 [Click here for all recorded videos](https://www.youtube.com/playlist?list=PL09WqqDbQWHHijfS3PyGxPxeoATc-suAv).
 
@@ -51,7 +51,7 @@
 |       | **Session 2** - chaired by Julia Gygax |  
 | 16:05 | [Christian Machens](https://machenslab.org/), Champalimaud (invited) | <script language="javascript">LT('5 Nov', '16:05')</script> 
 | 16:50 | **William Podlaski**<br/>[Storing overlapping associative memories on latent manifolds in low-rank spiking networks](abstracts/william-podlaski-storing.md) | <script language="javascript">LT('5 Nov', '16:50')</script> 
-| 17:10 | [Flash talks by selected poster presenters](all_abstracts.md) | <script language="javascript">LT('5 Nov', '17:10')</script> 
+| 17:10 | [Flash talks by selected poster presenters](abstracts/index.md) | <script language="javascript">LT('5 Nov', '17:10')</script> 
 | 17:30 | Poster session | <script language="javascript">LT('5 Nov', '17:30')</script> 
 |**November 6th** |  |  
 | 14:00 | Welcome to day 2 | <script language="javascript">LT('6 Nov', '14:00')</script> 

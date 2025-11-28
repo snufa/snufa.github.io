@@ -26,7 +26,7 @@
 
 ## Agenda
 
-[Click here for all abstracts](all_abstracts.md).
+[Click here for all abstracts](abstracts/index.md).
 
 [Click here to open in Google Calendar](https://calendar.google.com/calendar/u/0?cid=OTYzMGJmOWIyZmJjZjNmNjE0ZDMzN2MyZTVmZjhmMWQ0NDYxZTMwYTM3OWNlNmJmZDA5YWVkMzg1MGJlN2IxMUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) (allows you to add to your own calendar).
 
@@ -49,7 +49,7 @@
 |       | **Session 2** (Chair: Friedemann Zenke) |  
 | 16:05 | [Gabriel Ocker](https://www.bu.edu/math/profile/gabriel-ocker/), Boston University (invited) <br/> [Plasticity, activity, and computation in neuronal networks](abstracts/gabriel-ocker-plasticity.md) |  <script language="javascript">LT('7 Nov', '16:05')</script>
 | 16:50 | **Maayan Levy** & Tim P. Vogels<br/>[Capacity of a spiking network with preserved weight distribution: a game-theory-inspired study](https://snufa.net/2023/abstracts/maayan-levy-capacity.html) | <script language="javascript">LT('7 Nov', '16:50')</script> 
-| 17:10 | [Flash talks by selected poster presenters](all_abstracts.md) <br/>[Watch on Youtube](https://youtu.be/q8c7gIf9tpw?si=jlf7m-6aLa_y2tVP) | <script language="javascript">LT('7 Nov', '17:10')</script>
+| 17:10 | [Flash talks by selected poster presenters](abstracts/index.md) <br/>[Watch on Youtube](https://youtu.be/q8c7gIf9tpw?si=jlf7m-6aLa_y2tVP) | <script language="javascript">LT('7 Nov', '17:10')</script>
 | 17:30 | Break (30mins) | <script language="javascript">LT('7 Nov', '17:30')</script>
 | 18:00 | **Poster session (Zoom)** <br/><a href="https://www.eventbrite.co.uk/x/snufa-2023-tickets-675972952297">Poster link for registered participants</a> |  <script language="javascript">LT('7 Nov', '18:00')</script>
 | **November 8th** | | 
