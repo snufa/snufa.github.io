@@ -41,6 +41,15 @@
     <main id="content" class="main-content" role="main">
       {{ content }}
 
+      {% if page.links %}
+      <div class="related-links">
+        <h2>Related Links</h2>
+          {% for link in page.links %}
+          <span class="big-link"><a href="{{ link.url }}">{{ link.title }}</a></span>
+          {% endfor %}
+      </div>
+      {% endif %}
+
       {% if page.youtube %}
       <div class="video-container">
         <!-- insert a full width youtube video -->
