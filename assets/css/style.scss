@@ -78,3 +78,13 @@ details.workshop-selector[open] > ul {
   color: black;
   text-decoration: none;
 }
+
+.video-container {
+  display: flex;
+  justify-content: center;
+}
+
+.video-container iframe {
+  width: 100% !important;
+  aspect-ratio: 16/9;
+}
