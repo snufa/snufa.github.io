@@ -1,3 +1,6 @@
+---
+youtube: ucL5AvmdD1E?si=HoubevvZefGur1Vg&start=635&end=772
+---
 # Asynchrony as a substitute for chaos in training ring spiking neural networks
 
 **Authors:** Afroditi Talidou, Wilten Nicola

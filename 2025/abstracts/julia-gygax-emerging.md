@@ -1,3 +1,6 @@
+---
+youtube: ucL5AvmdD1E?si=HoubevvZefGur1Vg&start=953&end=1068
+---
 # Emerging assembly structures in trained spiking neural networks
 
 **Authors:** Julia Gygax, Friedemann Zenke

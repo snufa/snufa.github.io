@@ -1,3 +1,6 @@
+---
+youtube: ucL5AvmdD1E?si=HoubevvZefGur1Vg&start=337&end=467
+---
 # Neuromodulation enhances dynamic sensory processing in spiking neural network models
 
 **Authors:** AbdelQader AlKilany, Dan Goodman

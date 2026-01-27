@@ -1,3 +1,6 @@
+---
+youtube: ucL5AvmdD1E?si=HoubevvZefGur1Vg&start=1124
+---
 # Energy-Based and Transformer Models for Neural Circuit Modeling
 
 **Authors:** Abolfazl HaqiqiFar, Reza Jafari

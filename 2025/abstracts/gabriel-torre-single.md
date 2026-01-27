@@ -1,3 +1,6 @@
+---
+youtube: ucL5AvmdD1E?si=HoubevvZefGur1Vg&start=793&end=932
+---
 # Single Spiking Neural Network with Neuromodulated Attractors for Adaptive Robotic Quadruped Gait Switching
 
 **Authors:** Gabriel Torre, Juan Giribet, Sergio Lew
