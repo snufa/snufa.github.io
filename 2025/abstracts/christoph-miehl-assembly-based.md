@@ -1,3 +1,6 @@
+---
+youtube: r5djP6bXxk4?si=W0M9PCYCTairk69X
+---
 # Assembly-based computations through contextual dendritic gating of plasticity
 
 **Authors:** Sebastian Onasch, Christoph Miehl, M. Maurycy Miękus, Julijana Gjorgjieva
