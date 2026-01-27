@@ -3,6 +3,8 @@ youtube: ucL5AvmdD1E?si=HoubevvZefGur1Vg&start=337&end=467
 links:
   - title: Paper
     url: https://neural-reckoning.org/pub_neuromodulation_enhances_sensory.html
+  - title: Abdel's page
+    url: https://neural-reckoning.org/abdelqader_alkilany.html
 ---
 # Neuromodulation enhances dynamic sensory processing in spiking neural network models
 
