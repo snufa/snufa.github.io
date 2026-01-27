@@ -16,3 +16,5 @@ links:
 The YouTube code is what you get if you go to the video, click Share and then copy the end part of the URL.
 
 For links, the format should be obvious. You can have as many as you like in a list.
+
+If creating a pull request is something you don't know how to do, you can also just <a href="mailto:d.goodman@imperial.ac.uk">send an email to Dan Goodman</a> with the change you would like to make and the URL of the file on GitHUb. However, it may take longer for him to merge your change if you do it this way.
