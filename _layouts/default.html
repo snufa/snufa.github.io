@@ -48,10 +48,10 @@
           <span class="big-link"><a href="{{ link.url }}">{{ link.title }}</a></span>
           {% endfor %}
       </div>
-      {% else %}
+      {% elsif content contains "## Abstract" %}
       <div class="no-links-guide">
         <p>
-          Are you the author and do you want to add some related links to this page? If so, <a href="{{ site.baseurl }}/guide-to-adding-related-links-and-videos">check out our guide to adding related links and videos.</a>
+          Are you the author and do you want to add some related links to this page? If so, <a href="{{ site.baseurl }}/adding-links-and-videos">check out our guide to adding related links and videos.</a>
         </p>
       </div>
       {% endif %}
@@ -62,12 +62,14 @@
         <iframe src="https://www.youtube-nocookie.com/embed/{{ page.youtube }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         <!-- <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/{{ page.youtube }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
       </div>
-      {% elsif content contains 'Talk' or content contains 'talk' %}
+      {% elsif content contains "## Abstract" %}
+      {% if content contains 'Talk' or content contains 'talk' %}
       <div class="no-links-guide">
         <p>
-          Are you the author and do you want to add your embedded video to this page? If so, <a href="{{ site.baseurl }}/guide-to-adding-related-links-and-videos">check out our guide to adding related links and videos.</a>
+          Are you the author and do you want to add your embedded video to this page? If so, <a href="{{ site.baseurl }}/adding-links-and-videos">check out our guide to adding related links and videos.</a>
         </p>
       </div>
+      {% endif %}
       {% endif %}
 
       <!-- <footer class="site-footer">
