@@ -1,3 +1,6 @@
+---
+youtube: oQiQLUyS1qM?si=RvbRVUp0C9OmAEdc
+---
 # Emergence and maintenance of modularity in neural networks with Hebbian and anti-Hebbian inhibitory STDP
 
 **Authors:** Raphaël Bergoin, Alessandro Torcini, Gustavo Deco, Mathias Quoy, Gorka Zamora-López

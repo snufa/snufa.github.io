@@ -1,3 +1,6 @@
+---
+youtube: 0G7vHD4M3WI?si=lJqxOIuT3WjMP2EE
+---
 # Space as Time Through Neuron Position Learning
 
 **Authors:** Balázs Mészáros, James C. Knight, Thomas Nowotny, Danyal Akarca

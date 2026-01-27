@@ -1,3 +1,6 @@
+---
+youtube: ucL5AvmdD1E?si=HoubevvZefGur1Vg&start=0&end=126
+---
 # Neural Heterogeneity Enables Adaptive Encoding of Time Sequences
 
 **Authors:** Raphaël Lafond-Mercier, Leonard Maler, Avner Wallach, André Longtin

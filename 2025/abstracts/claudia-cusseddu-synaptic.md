@@ -1,3 +1,6 @@
+---
+youtube: hMWbKFe-cJM?si=DprOGwASmfDSulVP
+---
 # Synaptic Plasticity Shapes Triplet Connectivity Motifs in Spiking Networks
 
 **Authors:** Claudia Cusseddu, Dylan Festa, Christoph Miehl, Julijana Gjorgjieva
