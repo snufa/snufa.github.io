@@ -1,6 +1,6 @@
 # SNUFA 2025
 
-<img align="right" width="499" style="max-width: 40%" src="/images/snufa_hog.gif">
+<img align="right" width="499" style="max-width: 40%" src="../images/snufa_hog.gif">
 
 **Brief summary.** This online workshop brings together researchers in the fields of computational neuroscience, machine learning, and neuromorphic engineering to present their work and discuss ways of translating these findings into a better understanding of neural circuits. Topics include artificial and biologically plausible learning algorithms and the dissection of trained spiking circuits toward understanding neural processing. We have a manageable number of talks with ample time for discussions.
 
@@ -52,7 +52,7 @@ Abstracts will be made publicly available at the end of the abstract submissions
 
 ## Agenda
 
-[Click here for all abstracts](all_abstracts.md).
+[Click here for all abstracts](abstracts/index.md).
 
 <!--[Click here to open in Google Calendar](https://calendar.google.com/calendar/u/0?cid=OTYzMGJmOWIyZmJjZjNmNjE0ZDMzN2MyZTVmZjhmMWQ0NDYxZTMwYTM3OWNlNmJmZDA5YWVkMzg1MGJlN2IxMUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) (allows you to add to your own calendar).
 
@@ -80,7 +80,7 @@ Abstracts will be made publicly available at the end of the abstract submissions
 |       | **Session 2** - chaired by Julijana Gjorgjieva |  
 | 16:05 | [Chengcheng Huang](https://www.mathematics.pitt.edu/people/chengcheng-huang), Pitt <br /> State modulation in spatial spiking networks of multiple interneuron subtypes | <script language="javascript">LT('5 Nov', '16:05')</script> 
 | 16:50 | **Paolo Agliati**<br/>[Spiking neurons as predictive controllers of linear systems](abstracts/paolo-agliati-spiking.md) | <script language="javascript">LT('5 Nov', '16:50')</script> 
-| 17:10 | [Flash talks by selected poster presenters](all_abstracts.md) | <script language="javascript">LT('5 Nov', '17:10')</script> 
+| 17:10 | [Flash talks by selected poster presenters](abstracts/index.md) | <script language="javascript">LT('5 Nov', '17:10')</script> 
 | 17:30 | Poster session | <script language="javascript">LT('5 Nov', '17:30')</script> 
 |**November 6th** |  |  
 | 14:00 | Welcome to day 2 | <script language="javascript">LT('6 Nov', '14:00')</script> 

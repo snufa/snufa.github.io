@@ -1,3 +1,6 @@
+---
+youtube: f1RxbDeL27E?si=chZ6-kzgR8jnYWHS
+---
 # Spiking neurons as predictive controllers of linear systems
 
 **Authors:** Paolo Agliati, André Urbano, Pablo Lanillos, Nasir Ahmad, Marcel van Gerven, Sander Keemink

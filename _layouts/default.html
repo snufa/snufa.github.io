@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+
+{% seo %}
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+    {% include head-custom.html %}
+  </head>
+  <body>
+    <a id="skip-to-content" href="#content">Skip to the content.</a>
+
+    <header class="page-header" role="banner">
+      {% if page.url == "/" %}
+      <h1 class="project-name">SNUFA</h1>
+      <h2 class="project-tagline">Spiking Neural Networks As Universal Function Approximators</h2>
+      {% endif %}
+      <!-- <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1> -->
+      <!-- <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2> -->
+      <details class="workshop-selector">
+        <summary>Meetings</summary>
+        <ul>
+          {% for year in site.meeting_years %}
+          <li><a href="{{ site.baseurl }}/{{ year }}">{{ year }}</a></li>
+          {% endfor %}
+        </ul>
+      </details>      
+      <a class="nav-link" href="https://youtube.com/playlist?list=PL09WqqDbQWHFoXyLxIxoblfO7SSQcCAZ-&si=-9I_JYai5MeFaHHK" rel="me"><i class="fa-brands fa-youtube"></i> YouTube</a>
+      <a class="nav-link" href="https://discord.gg/aYvgGakrVK" rel="me"><i class="fa-brands fa-discord"></i> Discord</a>
+      {% if page.url != "/" %}
+      {% include breadcrumbs.html %}
+      {% endif %}
+    </header>
+
+    <main id="content" class="main-content" role="main">
+      {{ content }}
+
+      {% if page.links %}
+      <div class="related-links">
+        <h2>Related Links</h2>
+          {% for link in page.links %}
+          <span class="big-link"><a href="{{ link.url }}">{{ link.title }}</a></span>
+          {% endfor %}
+      </div>
+      {% elsif content contains "Presentation type" %}
+      <div class="no-links-guide">
+        <p>
+          Are you the author and do you want to add some related links to this page? If so, <a href="{{ site.baseurl }}/adding-links-and-videos">check out our guide to adding related links and videos.</a>
+        </p>
+      </div>
+      {% endif %}
+
+      {% if page.youtube %}
+      <div class="video-container">
+        <!-- insert a full width youtube video -->
+        <iframe src="https://www.youtube-nocookie.com/embed/{{ page.youtube }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <!-- <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/{{ page.youtube }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
+      </div>
+      {% elsif content contains "Presentation type" %}
+      {% if content contains 'Talk' or content contains 'talk' %}
+      <div class="no-links-guide">
+        <p>
+          Are you the author and do you want to add your embedded video to this page? If so, <a href="{{ site.baseurl }}/adding-links-and-videos">check out our guide to adding related links and videos.</a>
+        </p>
+      </div>
+      {% endif %}
+      {% endif %}
+
+      <!-- <footer class="site-footer">
+      </footer> -->
+    </main>
+  </body>
+</html>

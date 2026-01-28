@@ -1,6 +1,6 @@
 # SNUFA 2024
 
-<img align="right" width="499" style="max-width: 40%" src="/images/snufa_hog.gif">
+<img align="right" width="499" style="max-width: 40%" src="../images/snufa_hog.gif">
 
 **Brief summary.** This online workshop brings together researchers in the fields of computational neuroscience, machine learning, and neuromorphic engineering to present their work and discuss ways of translating these findings into a better understanding of neural circuits. Topics include artificial and biologically plausible learning algorithms and the dissection of trained spiking circuits toward understanding neural processing. We have a manageable number of talks with ample time for discussions.
 
@@ -24,7 +24,7 @@
 
 ## Agenda
 
-[Click here for all abstracts](all_abstracts.md).
+[Click here for all abstracts](abstracts/index.md).
 
 [Click here for all recorded videos](https://www.youtube.com/playlist?list=PL09WqqDbQWHHijfS3PyGxPxeoATc-suAv).
 
@@ -51,7 +51,7 @@
 |       | **Session 2** - chaired by Julia Gygax |  
 | 16:05 | [Christian Machens](https://machenslab.org/), Champalimaud (invited) | <script language="javascript">LT('5 Nov', '16:05')</script> 
 | 16:50 | **William Podlaski**<br/>[Storing overlapping associative memories on latent manifolds in low-rank spiking networks](abstracts/william-podlaski-storing.md) | <script language="javascript">LT('5 Nov', '16:50')</script> 
-| 17:10 | [Flash talks by selected poster presenters](all_abstracts.md) | <script language="javascript">LT('5 Nov', '17:10')</script> 
+| 17:10 | [Flash talks by selected poster presenters](abstracts/index.md) | <script language="javascript">LT('5 Nov', '17:10')</script> 
 | 17:30 | Poster session | <script language="javascript">LT('5 Nov', '17:30')</script> 
 |**November 6th** |  |  
 | 14:00 | Welcome to day 2 | <script language="javascript">LT('6 Nov', '14:00')</script> 

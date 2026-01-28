@@ -1,3 +1,6 @@
+---
+youtube: _wqjVwBTurA?si=DQU3dLmlxfcpNXBG
+---
 # Neuronal heterogeneity of normalization strength in a circuit model
 
 **Authors:** Deying Song, Douglas Ruff, Marlene Cohen, Chengcheng Huang

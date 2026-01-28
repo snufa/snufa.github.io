@@ -1,3 +1,6 @@
+---
+youtube: qrshojuLPkw?si=ZfiSbu3OHnE2J66Z
+---
 # Extending Spike-Timing Dependent Plasticity to Learning Synaptic Delays
 
 **Authors:** Marissa Dominijanni, Alexander Ororbia, Kenneth W. Regan

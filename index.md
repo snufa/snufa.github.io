@@ -1,8 +1,8 @@
-## SNUFA
+<!-- ## SNUFA -->
 
 SNUFA is an online workshop and community focused on research advances in the field of "Spiking Networks as Universal Function Approximators."
 
-<img align="right" width="300" style="max-width: 40%" src="/images/snufa_mascot.png">
+<img align="right" width="300" style="max-width: 40%" src="images/snufa_mascot.png">
 
 The annual SNUFA online workshop brings together researchers in spiking neural networks to present their work and discuss translating these findings into a better understanding of neural circuits and novel brain-inspired computing approaches. Topics of interest include artificial and biologically plausible learning algorithms and the dissection of trained spiking circuits toward understanding neural processing.
 
@@ -25,11 +25,10 @@ The 2025 workshop is being organised by [David Kappel](https://www.ini.rub.de/th
 Archive
 -------
 
-* [SNUFA 2025](/2025).
-* [SNUFA 2024](/2024).
-* [SNUFA 2023](/2023).
-* [SNUFA 2022](/2022).
-* [SNUFA 2021](/2021).
-* [SNUFA 2020](/2020).
+<ul class="archive-list">
+{% for year in site.meeting_years %}
+<li><a href="{{ site.baseurl }}/{{ year }}">SNUFA {{ year }}</a></li>
+{% endfor %}
+</ul>
 
 SNUFA logo courtesy of [Skala Art](https://skala-art.net)

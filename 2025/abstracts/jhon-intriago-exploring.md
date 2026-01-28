@@ -1,3 +1,6 @@
+---
+youtube: ucL5AvmdD1E?si=HoubevvZefGur1Vg&start=483&end=609
+---
 # Exploring Information-Constrained Latent Spaces in Adaptive Spiking Neural Networks
 
 **Authors:** Jhon Intriago, Pablo A. Estévez
