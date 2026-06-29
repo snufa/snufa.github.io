@@ -31,4 +31,4 @@ Archive
 {% endfor %}
 </ul>
 
-SNUFA logo courtesy of [Skala Art](https://skala-art.net)
+SNUFA logo courtesy of [Koshika](https://koshika.net)
