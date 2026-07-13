@@ -1,4 +1,4 @@
-# SNUFA 2025
+# SNUFA 2026
 
 <img align="right" width="499" style="max-width: 40%" src="../images/snufa_hog.gif">
 
@@ -11,7 +11,7 @@
 
 ## Key information
 
-**Workshop**. 4-5 November 2025, European afternoons (online).
+**Workshop**. 4-5 November 2026, European afternoons (online).
 
 
 **Invited speakers**. 
@@ -30,7 +30,7 @@
 
 <!-- ## Registration
 
-<span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://www.eventbrite.co.uk/e/snufa-2025-tickets-1549418545579">Register</a></span>
+<span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://www.eventbrite.co.uk/e/snufa-2026-tickets-1549418545579">Register</a></span>
 
 Attendance is free, but registration is required (to receive the streaming links). -->
 
@@ -42,7 +42,7 @@ Please only vote once !-->
 
 ## Abstract submission
 
-**Deadline:** Sept 25, 2025 (anywhere on earth)
+**Deadline:** Sept 25, 2026 (anywhere on earth)
 
 <span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://forms.cloud.microsoft/e/2z19jyiWqS">Submit abstract</a></span>
 
@@ -60,7 +60,7 @@ Abstracts will be made publicly available at the end of the abstract submissions
 
 <script language="javascript">
 	function LT(d, t) {
-		var date = new Date(d+' 2025 '+t+' UTC+1');
+		var date = new Date(d+' 2026 '+t+' UTC+1');
 		document.write(date.toString());
 	}
 </script>
