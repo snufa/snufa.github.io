@@ -13,14 +13,17 @@ All our previous talks and seminars are available on our [YouTube channel](https
 <span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://youtube.com/playlist?list=PL09WqqDbQWHFoXyLxIxoblfO7SSQcCAZ-&si=-9I_JYai5MeFaHHK">YouTube</a></span>
 <span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://discord.gg/aYvgGakrVK">Discord</a></span>
 
-<!-- SNUFA 2025
+SNUFA 2026
 ----------
 
-The online workshop will likely take place 5-6 November 2025, European afternoons (online).
+The online workshop will likely take place 4-5 November 2026, European afternoons (online).
 
-<span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://snufa.net/2025/">Go to SNUFA 2025</a></span>
+<span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://snufa.net/2026/">Go to SNUFA 2026</a></span>
 
-The 2025 workshop is being organised by [David Kappel](https://www.ini.rub.de/the_institute/people/david-kappel/), [Julijana Gjorgjieva](https://www.mls.ls.tum.de/compneuro/home/), [Dan Goodman](https://neural-reckoning.org), and [Friedemann Zenke](https://zenkelab.org/). -->
+The 2026 workshop is being organised by 
+[Sacha van Albada](https://www.fz-juelich.de/profile/albada_s.van), [Jason Eshraghian](https://ncg.ucsc.edu/jason-eshraghian-bio/), [Dan Goodman](https://neural-reckoning.org), and [Friedemann Zenke](https://zenkelab.org/).
+
+
 
 Archive
 -------
