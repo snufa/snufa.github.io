@@ -17,7 +17,8 @@
 **Invited speakers**. 
 [Giulia D'Angelo](https://giuliadangelo.github.io/) (Czech Technical University in Prague),
 [Eugene Izhikevich](https://www.braincorp.com/team/dr-eugene-izhikevich) (Brain Corp and DeepSpike),
-[Mihai Petrovici](https://physiologie.unibe.ch/research/research_groups/neuro_inspired_theory_modeling_and_applications/index_eng.html) (Univeristy of Bern)
+[Mihai Petrovici](https://physiologie.unibe.ch/research/research_groups/neuro_inspired_theory_modeling_and_applications/index_eng.html) (Univeristy of Bern),
+[Susanne Schreiber](https://www.neuron-science.de/susanne-schreiber) (Humboldt University)
 
 
 ## Format
