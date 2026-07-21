@@ -76,24 +76,24 @@ Abstracts will be made publicly available at the end of the abstract submissions
 |------------|---------|-----------------|
 | **November 4th** | | |
 | 14:00 | Welcome by the organizers | <script language="javascript">LT('4 Nov', '14:00')</script> |
-| | **Session 1** | |
+| | **Session 1** | Chaired by Sacha van Albada |
 | 14:10 | Susanne Schreiber (Humboldt University) | <script language="javascript">LT('4 Nov', '14:10')</script> |
 | 14:55 | Contributed talk 1 | <script language="javascript">LT('4 Nov', '14:55')</script> |
 | 15:15 | Contributed talk 2 | <script language="javascript">LT('4 Nov', '15:15')</script> |
 | 15:35 | Break | <script language="javascript">LT('4 Nov', '15:35')</script> |
-| | **Session 2** | |
+| | **Session 2** | Chaired by Dan Goodman  |
 | 16:05 | Mihai Petrovici (University of Bern) | <script language="javascript">LT('4 Nov', '16:05')</script> |
 | 16:50 | Contributed talk 3 | <script language="javascript">LT('4 Nov', '16:50')</script> |
 | 17:10 | Flash talks by selected poster presenters | <script language="javascript">LT('4 Nov', '17:10')</script> |
 | 17:30 | Poster session | <script language="javascript">LT('4 Nov', '17:30')</script> |
 | **November 5th** | | |
 | 14:00 | Welcome to day 2 | <script language="javascript">LT('5 Nov', '14:00')</script> |
-| | **Session 3** | |
+| | **Session 3** | Chaired by Friedemann Zenke |
 | 14:05 | Eugene Izhikevich (Brain Corp and DeepSpike) | <script language="javascript">LT('5 Nov', '14:05')</script> |
 | 14:50 | Contributed talk 4 | <script language="javascript">LT('5 Nov', '14:50')</script> |
 | 15:10 | Contributed talk 5 | <script language="javascript">LT('5 Nov', '15:10')</script> |
 | 15:30 | Break | <script language="javascript">LT('5 Nov', '15:30')</script> |
-| | **Session 4** | |
+| | **Session 4** | Chaired by Jason Eshraghian |
 | 16:00 | Giulia D'Angelo (Czech Technical University) | <script language="javascript">LT('5 Nov', '16:00')</script> |
 | 16:45 | Contributed talk 6 | <script language="javascript">LT('5 Nov', '16:45')</script> |
 | 17:05 | Contributed talk 7 | <script language="javascript">LT('5 Nov', '17:05')</script> |
