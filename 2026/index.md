@@ -30,11 +30,11 @@
 * Virtual poster session
 
 
-<!-- ## Registration
+## Registration
 
-<span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://www.eventbrite.co.uk/e/snufa-2026-tickets-1549418545579">Register</a></span>
+<span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://www.eventbrite.co.uk/e/snufa-2026-tickets-1998792114019">Register</a></span>
 
-Attendance is free, but registration is required (to receive the streaming links). -->
+Attendance is free, but registration is required (to receive the streaming links). 
 
 <!-- ## Abstract voting
 
