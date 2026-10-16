@@ -1,0 +1,11 @@
+# Clustered heterogeneity, spiking history and efficient silencing maximize mutual information in adaptive burst coding of time
+
+**Authors:** Raphael Lafond-Mercier, Leonard Maler, Andre Longtin
+                           
+
+
+**Presentation type:** Poster at [SNUFA 2026 online workshop (4-5 Nov 2026)](https://snufa.net/2026)
+
+## Abstract
+
+Neurons involved in a computation are remarkably diverse. They display a range of thresholds, time scales and spiking history dependence, and often exhibit adaptation that enhances computational power by concentrating spikes into bursts at transient stimuli. We seek basic organizational principles for coding with cellular heterogeneity by focusing on the encoding and retrieval of inter-event time interval sequences by adaptive neurons whose burst size at each event grows with the time elapsed since the previous one. We formulate the general input-output mutual information maximization problem for parallel neurons with a fading memory of past bursts. The solution reveals an unexpected multi-variate heterogeneity that is tailored to encode information efficiently. Gradient ascent on mutual information with respect to intrinsic neuronal parameters produces a number of parameterized clusters bounded by the sequence length. Correlations between parameters emerge naturally. The predicted covariation of adaptation time with spiking history strength, and the optimal combination of history and non-history cells, agree with experiments. Threshold optimization yields a continuum of time constants and thresholds within each cluster. Strikingly, division of labour between neurons arises where subsets respond selectively to different interval ranges and remain silent otherwise, their silence still carrying information. This creates cell-specific interval ranges that tile reasonably well a uniform prior of intervals, and almost perfectly a scale-free prior, producing a code that is efficient in cell number and reduces metabolic cost by limiting spike rates.

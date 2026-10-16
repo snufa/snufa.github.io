@@ -1,0 +1,11 @@
+# A General Theory of Exact Gradients in Spiking Neural Networks & The Potential of Biorealistic Neuron Models
+
+**Authors:** Lennart P. L. Landsmeer, Amirreza Movahedin, Said Hamdioui, Christos Strydis
+                           
+
+
+**Presentation type:** Talk at [SNUFA 2026 online workshop (4-5 Nov 2026)](https://snufa.net/2026)
+
+## Abstract
+
+Biorealistic neuron models, aiming to reproduce the broad dynamical repertoire of biological neurons, have the potential to replace the currently broadly used leaky-integrate-and-fire (LIF) neurons in artificial spiking neural networks (SNNs). However, state-of-the-art exact event-based gradients methods that provide synaptic weight and delay learning do not support arbitrary complex models. Similarly, existing differentiable biorealistic brain simulators do not support synaptic delays. In this work, we introduce a general theory for exact gradients in SNNs, for arbitrary complex neuron models and including delays or any other neuronal parameter, which integrates within automatic differentiation frameworks and thereby removes the need for manual derivation of neuron-model gradients. This allows us to run machine learning experiments with more biorealistic SNNs, including the polynomial Wilson neuron, the (multicompartmental) Hodgkin-Huxley model and the Izhikevich model in various behaviour regimes. Initial results using this method on the Yin-Yang dataset and a newly developed dataset suggest that more biorealistic models can outperform LIF neurons in certain circumstances, but also that LIF neurons perform better than many models in their default configuration. Furthermore, it seems that biorealistic neurons benefit more from multilayered architectures than their simpler LIF counterparts. As an example, a feed-forward four-layer (4x10) Hodgkin-Huxley network reaches an accuracy of 99.5% on the Yin-Yang dataset (median of 3 seeds). Finally, we show that, specifically, a standalone double exponential synapse component can be defined to introduce learnable delays within an existing, unmodified, differentiable brain simulator. Hopefully this method can thereby serve as a basis for introducing biorealistic models in machine learning and for introducing tunable delays in computational neuroscience.

@@ -1,0 +1,11 @@
+# The Role of Dopamine in Resolving the Speed-Accuracy Trade-Off
+
+**Authors:** Alex Gwyn O'Hare, Jonathan E. Rubin, Timothy Verstynen, Catalina Vich
+                           
+
+
+**Presentation type:** Poster at [SNUFA 2026 online workshop (4-5 Nov 2026)](https://snufa.net/2026)
+
+## Abstract
+
+We use a spiking neural network with a novel model of dopamine (DA) that incorporates tonic, phasic, and ramping phenomena (the TPR model) to investigate how DA resolves the speed-accuracy trade-off during reinforcement learning. Phasic DA transients, which occur during reward events, reflect reward prediction error, the discrepancy between the actual and expected reward, and modulate long-term potentiation and depression at corticostriatal synapses, with the magnitude of phasic DA scaling the magnitude of plasticity, subject to striatal spiny projection neuron (SPN) subtype and the dopamine receptors expressed. Tonic DA, which persists at a much lower concentration in the extracellular space, instead affects the excitability of SPNs. In our model, phasic DA incrementally contributes to the tonic DA level, so tonic DA rises in proportion to the rate of rewards received. In addition to its action on SPN dopamine receptors, tonic DA also acts on the autoreceptors of DA neurons, modulating the rate of DA synthesis and release and thereby dampening phasic DA transients as the tonic DA level rises. Given these dual roles, we hypothesise that as an action becomes habitual, rising tonic DA increases SPN excitability and thus decreases decision time, so that the action can be exploited at a higher frequency, while simultaneously dampening phasic DA and thus the reinforcement of the action, preventing overlearning and fixation. Conversely, in a reward-sparse environment where an agent has yet to learn the optimal action to obtain a reward, phasic DA is proportionally larger, enabling faster learning, while lower SPN excitability extends decision time, allowing for more deliberation and an increase in accuracy. We test this hypothesis using the TPR model within the framework of a forced two-choice bandit task.

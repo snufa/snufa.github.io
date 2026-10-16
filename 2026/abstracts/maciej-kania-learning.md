@@ -1,0 +1,11 @@
+# Learning to play with spikes: characterizing, predicting, and engineering unsupervised plasticity rules for spiking reservoir computing
+
+**Authors:** Maciej Kania, Basile Confavreux, Tim P. Vogels
+                           
+
+
+**Presentation type:** Flash talk at [SNUFA 2026 online workshop (4-5 Nov 2026)](https://snufa.net/2026)
+
+## Abstract
+
+Spiking reservoir computing, and reservoir computing more generally, is a powerful and efficient framework for neuromorphic and biological applications, in which a fixed random reservoir drives a trained readout. Its performance depends critically on the reservoir initialization, so that enriching the reservoir with adaptive, unsupervised plasticity rules offers a natural solution to this limitation. However, it is unclear which rules work, or why, and how to find the best-suited rules for specific tasks without exhaustive and expensive search. Here, we learn how to play the Atari game Pong in a plastic spiking reservoir network. We systematically characterize a large family of local plasticity rules that were meta-learned in prior work. We then show that their performance is predictable and structured: high-scoring rules are characterized by strong differentiation between neurons encoding the ball trajectory and the background, with stable weight dynamics, and consistent readout alignment across time. These mechanistic signatures are not task-specific and transfer to a delayed-match recognition task. Rule performance can be estimated from rule parameters alone. Finally, conditioning simulation-based inference (SBI) on high scores allows us to sample directly from promising regions of the rule space, to discover rules that exceed the performance of those found in the prior distribution and reveal stable, high-performing configurations. Together, these results offer competitive performance against classical reservoir computing while providing a transparent, interpretable account of what makes a plasticity rule useful for neuromorphic hardware and biological computing.

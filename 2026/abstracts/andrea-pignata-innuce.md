@@ -1,0 +1,11 @@
+# The inNuCE Research Infrastructure for Developing Neuromorphic AIoT Applications
+
+**Authors:** Andrea Pignata, Gianvito Urgese
+                           
+
+
+**Presentation type:** Poster at [SNUFA 2026 online workshop (4-5 Nov 2026)](https://snufa.net/2026)
+
+## Abstract
+
+Industry 5.0 and AIoT increasingly require low-power, low-latency, and privacy-preserving computation. Neuromorphic hardware (HW) provides a brain-inspired and energy-efficient paradigm, but remains costly, fragmented, and difficult to access. To address this barrier, we propose NMLOps, a set of practices inspired by MLOps that standardizes the development of Neuromorphic AIoT applications across the entire lifecycle, from data acquisition to deployment and operation. To support this methodology, we developed the inNuCE Research Infrastructure (RI), a facility that enables researchers and industry to prototype and deploy neuromorphic systems. The inNuCE RI consists of two main components: (i) the Heterogeneous Prototyping Platform (HPP), a cloud-based Prototype-as-a-Service environment for neuromorphic/digital co-design, and (ii) a dedicated laboratory hosting neuromorphic sensors and boards for direct experimentation. The HPP supports multiple platforms, including Brainchip Akida, SynSense Speck/Xylo, SpiNNaker, and Intel Loihi, as well as Nvidia Jetson and GPU servers. These resources are containerized with their SDKs to ensure reproducible environments. The NMLOps workflow covers model definition, training, simulation, hardware deployment, and results analysis, and supports both expert tools (VSCode, Jupyter, Kubeflow pipelines) and simplified interfaces. The approach is demonstrated on several AIoT use cases, including human activity recognition, Braille reading, event-based gesture recognition, memory semantization, navigation tracking, and constraint satisfaction. Results show that NMLOps and the inNuCE RI lower the entry barrier to neuromorphic computing by combining scalable cloud access with physical laboratory experimentation.
