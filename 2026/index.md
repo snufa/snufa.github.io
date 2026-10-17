@@ -91,7 +91,7 @@ Abstracts will be made publicly available at the end of the abstract submissions
 | | **Session 3** | Chaired by Friedemann Zenke |
 | 14:05 | Eugene Izhikevich (Brain Corp and DeepSpike) | <script language="javascript">LT('5 Nov', '14:05')</script> |
 | 14:50 | Contributed talk 4 | <script language="javascript">LT('5 Nov', '14:50')</script> |
-| 15:10 | Contributed talk 5 | <script language="javascript">LT('5 Nov', '15:10')</script> |
+| 15:10 | Simon Schultz | <script language="javascript">LT('5 Nov', '15:10')</script> |
 | 15:30 | Break | <script language="javascript">LT('5 Nov', '15:30')</script> |
 | | **Session 4** | Chaired by Jason Eshraghian |
 | 16:00 | Giulia D'Angelo (Czech Technical University) | <script language="javascript">LT('5 Nov', '16:00')</script> |
