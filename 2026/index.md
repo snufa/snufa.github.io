@@ -96,5 +96,5 @@ Abstracts will be made publicly available at the end of the abstract submissions
 | | **Session 4** | Chaired by Jason Eshraghian |
 | 16:00 | Giulia D'Angelo (Czech Technical University) <br/> What's catching your eye? --- Event-driven sensing and neuromorphic computing for active vision | <script language="javascript">LT('5 Nov', '16:00')</script> |
 | 16:45 | Anindya Ghosh<br/>Where forgetting lives in a spiking continual-learning memory | <script language="javascript">LT('5 Nov', '16:45')</script> |
-| 17:05 | Robin Duvoisin<br/>, Energy-Efficient Neural Coding under Uniform and Heavy-Tailed Input Distributions | <script language="javascript">LT('5 Nov', '17:05')</script> |
+| 17:05 | Robin Duvoisin<br/>Energy-Efficient Neural Coding under Uniform and Heavy-Tailed Input Distributions | <script language="javascript">LT('5 Nov', '17:05')</script> |
 | 17:25 | Closing remarks | <script language="javascript">LT('5 Nov', '17:25')</script> |
