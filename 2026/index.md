@@ -89,7 +89,7 @@ Abstracts will be made publicly available at the end of the abstract submissions
 | **November 5th** | | |
 | 14:00 | Welcome to day 2 | <script language="javascript">LT('5 Nov', '14:00')</script> |
 | | **Session 3** | Chaired by Friedemann Zenke |
-| 14:05 | **Eugene Izhikevich** (Brain Corp and DeepSpike) <br/> | <script language="javascript">LT('5 Nov', '14:05')</script> |
+| 14:05 | **Eugene Izhikevich** (Brain Corp and DeepSpike) <br/> Spiking Manifesto | <script language="javascript">LT('5 Nov', '14:05')</script> |
 | 14:50 | **Alireza Valizadeh**<br/> Synaptic plasticity selects transmission delays for resonant communication in spiking networks | <script language="javascript">LT('5 Nov', '14:50')</script> |
 | 15:10 | **Simon Schultz** <br/>Spike timing neural manifolds for learning, memory and computation in the brain | <script language="javascript">LT('5 Nov', '15:10')</script> |
 | 15:30 | Break | <script language="javascript">LT('5 Nov', '15:30')</script> |
