@@ -1,6 +1,6 @@
 # Breaking Point, Engineered: Agents That Design, Prove, and Certify Fault-Tolerant Spiking Networks
 
-**Authors:** Breaking Point, Engineered: Agents That Design, Prove, and Certify Fault-Tolerant Spiking Networks
+**Authors:** Hanah Rahman
                            
 
 
