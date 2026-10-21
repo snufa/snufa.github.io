@@ -70,7 +70,7 @@ Abstracts will be made publicly available at the end of the abstract submissions
 </script>
 
 
-<span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://youtube.com/playlist?list=PL09WqqDbQWHEyTZPLMKEi9-RD6kax0tCR&si=Y-sJeZvIn3O062DG">YouTube playlist</a></span>
+<!-- <span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://youtube.com/playlist?list=PL09WqqDbQWHEyTZPLMKEi9-RD6kax0tCR&si=Y-sJeZvIn3O062DG">YouTube playlist</a></span> -->
 
 
 
