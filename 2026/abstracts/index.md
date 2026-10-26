@@ -5,7 +5,7 @@
 
 ## Invited talks 
 
-* **Susanne Schreiber** (Humboldt University) --- TBD 
+* **Susanne Schreiber** (Humboldt University) --- Same connections, different network dynamics: The role of neuronal personality 
 * **Mihai Petrovici** (University of Bern) --- Thinking at the speed of light
 * **Eugene Izhikevich** (Brain Corp and DeepSpike) --- Spiking Manifesto 
 * **Giulia D'Angelo** (Czech Technical University) --- What's catching your eye? Event-driven sensing and neuromorphic computing for active vision

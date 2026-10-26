@@ -79,7 +79,7 @@ Abstracts will be made publicly available at the end of the abstract submissions
 | **November 4th** | | |
 | 14:00 | Welcome by the organizers | <script language="javascript">LT('4 Nov', '14:00')</script> |
 | | **Session 1** | Chaired by Sacha van Albada |
-| 14:10 | **Susanne Schreiber** (Humboldt University) <br/> | <script language="javascript">LT('4 Nov', '14:10')</script> |
+| 14:10 | **Susanne Schreiber** (Humboldt University) <br/> Same connections, different network dynamics: The role of neuronal personality | <script language="javascript">LT('4 Nov', '14:10')</script> |
 | 14:55 | **Huihong Li** <br/> Firing Rate Homeostasis Improves Learning Through Irregular Spiking | <script language="javascript">LT('4 Nov', '14:55')</script> |
 | 15:15 | **Lennart P. L. Landsmeer** <br/> A General Theory of Exact Gradients in Spiking Neural Networks & The Potential of Biorealistic Neuron Models  | <script language="javascript">LT('4 Nov', '15:15')</script> |
 | 15:35 | Break | <script language="javascript">LT('4 Nov', '15:35')</script> |
