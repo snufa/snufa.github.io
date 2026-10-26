@@ -1,6 +1,6 @@
 # Spike-Coding Networks Are Exactly Solvable: Periodic Firing Patterns as Eigenvectors
 
-**Authors:** William Podlaski, Ildefonso Ferreira Pica
+**Authors:** Ábel Ságodi, William Podlaski, Ildefonso Ferreira Pica
                            
 
 
