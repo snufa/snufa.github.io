@@ -2,9 +2,13 @@
 
 [Click here for the full programme](https://snufa.net/2026)
 
-## Invited talks (TBD)
 
+## Invited talks 
 
+* **Susanne Schreiber** (Humboldt University) --- TBD 
+* **Mihai Petrovici** (University of Bern) --- Thinking at the speed of light
+* **Eugene Izhikevich** (Brain Corp and DeepSpike) --- Spiking Manifesto 
+* **Giulia D'Angelo** (Czech Technical University) --- What's catching your eye? Event-driven sensing and neuromorphic computing for active vision
 
 ## Talk
 
