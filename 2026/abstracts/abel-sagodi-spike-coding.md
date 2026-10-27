@@ -1,3 +1,11 @@
+---
+links:
+  - title: Interactive figures
+    url: https://asagodi.github.io/scn2ppm/
+  - title: Code
+    url: https://github.com/Asagodi/scn2ppm
+---  
+
 # Spike-Coding Networks Are Exactly Solvable: Periodic Firing Patterns as Eigenvectors
 
 **Authors:** Ábel Ságodi, William Podlaski, Ildefonso Ferreira Pica
