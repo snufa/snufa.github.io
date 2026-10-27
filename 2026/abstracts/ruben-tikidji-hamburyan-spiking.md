@@ -22,4 +22,4 @@ In a noisy, theta-modulated, homogeneous network, time differences in spikes (ti
 [6] doi:10.1523/JNEUROSCI.21-03-00961.2001
 
 Acknowledgments (not part of the abstract)
-The results presented in this study were obtained asf a student research project conducted during the Biological Data Science Summer School (BDS^3) 2026 in Uzhhorod, Ukraine.
+The results presented in this study were obtained asf a student research project conducted during the Ukrainian Biological Data Science Summer School (UBDS^3) 2026 in Uzhhorod, Ukraine.
