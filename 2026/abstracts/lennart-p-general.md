@@ -1,3 +1,6 @@
+---
+youtube: dYajuSuPjHg?si=nX_gNwOzoBKaFW3b
+---
 # A General Theory of Exact Gradients in Spiking Neural Networks & The Potential of Biorealistic Neuron Models
 
 **Authors:** Lennart P. L. Landsmeer, Amirreza Movahedin, Said Hamdioui, Christos Strydis

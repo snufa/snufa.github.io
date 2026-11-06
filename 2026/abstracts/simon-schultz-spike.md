@@ -1,3 +1,7 @@
+---
+youtube: afZf20TLWus?si=1v4_EPEFLmtodPnt
+---
+
 # Spike timing neural manifolds for learning, memory and computation in the brain
 
 **Authors:** Simon R. Schultz

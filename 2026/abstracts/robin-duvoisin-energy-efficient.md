@@ -1,3 +1,7 @@
+---
+youtube: HwrLW43V8Yk?si=vBQB7iYEBK3jY3Yk
+---
+
 # Energy-Efficient Neural Coding under Uniform and Heavy-Tailed Input Distributions
 
 **Authors:** Robin Duvoisin, Jean-Pascal Pfister, Pau Vilimelis Aceituno

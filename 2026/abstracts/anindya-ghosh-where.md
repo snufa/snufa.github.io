@@ -1,3 +1,7 @@
+---
+youtube: pTg4h7uoJ4U?si=ZKfzit4VQBsXA60P
+---
+
 # Where forgetting lives in a spiking continual-learning memory
 
 **Authors:** Anindya Ghosh, Alejandro Rodriguez-Garcia, Srikanth Ramaswamy

@@ -1,3 +1,6 @@
+---
+youtube: Qr86mSlb43Y?si=Bjke4oi_EXadwYHH
+---
 # Synaptic plasticity selects transmission delays for resonant communication in spiking networks
 
 **Authors:** Ali Ghadiri, Saeed Taghavi, Hedyeh Rezaei, Ad Aertsen, Arvind Kumar, Alireza Valizadeh

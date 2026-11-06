@@ -1,3 +1,6 @@
+---
+youtube: EK-_pIG35vg?si=A7yjXVopn9mCvwYK
+---
 # Firing Rate Homeostasis Improves Learning Through Irregular Spiking
 
 **Authors:** Huihong Li, Daniel Levenstein

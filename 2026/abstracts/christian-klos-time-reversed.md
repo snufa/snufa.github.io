@@ -1,3 +1,6 @@
+---
+youtube: dkLxh1COzyc?si=WX42iYCI6UfA7-cg
+---
 # Time-reversed event-based simulations enable memory-efficient exact gradient descent in spiking neural networks
 
 **Authors:** Christian Klos

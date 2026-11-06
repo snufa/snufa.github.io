@@ -6,8 +6,8 @@
 
 **Program committee.** [Sacha van Albada](https://www.fz-juelich.de/profile/albada_s.van), [Jason Eshraghian](https://ncg.ucsc.edu/jason-eshraghian-bio/), [Dan Goodman](https://neural-reckoning.org), and [Friedemann Zenke](https://zenkelab.org/).
 
-<!-- **Quick links.** -->
-<!-- <span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://youtube.com/playlist?list=PL09WqqDbQWHEyTZPLMKEi9-RD6kax0tCR&si=Y-sJeZvIn3O062DG">YouTube playlist</a></span> -->
+**Quick links.**
+<span style="background: lightgreen; border-radius: 10px; padding: 10px; display: inline-block; margin: 1px;"><a href="https://www.youtube.com/playlist?list=PLaaQtriO4S44">YouTube playlist</a></span>
 
 ## Key information
 
@@ -79,24 +79,24 @@ Abstracts will be made publicly available at the end of the abstract submissions
 | **November 4th** | | |
 | 14:00 | Welcome by the organizers | <script language="javascript">LT('4 Nov', '14:00')</script> |
 | | **Session 1** | Chaired by Sacha van Albada |
-| 14:10 | **Susanne Schreiber** (Humboldt University) <br/> Same connections, different network dynamics: The role of neuronal personality | <script language="javascript">LT('4 Nov', '14:10')</script> |
-| 14:55 | **Huihong Li** <br/> Firing Rate Homeostasis Improves Learning Through Irregular Spiking | <script language="javascript">LT('4 Nov', '14:55')</script> |
-| 15:15 | **Lennart P. L. Landsmeer** <br/> A General Theory of Exact Gradients in Spiking Neural Networks & The Potential of Biorealistic Neuron Models  | <script language="javascript">LT('4 Nov', '15:15')</script> |
+| 14:10 | **Susanne Schreiber** (Humboldt University) <br/> Same connections, different network dynamics: The role of neuronal personality [(Watch)](https://youtu.be/UKmMhnKxw_k) | <script language="javascript">LT('4 Nov', '14:10')</script> |
+| 14:55 | **Huihong Li** <br/> Firing Rate Homeostasis Improves Learning Through Irregular Spiking [(Watch)](https://youtu.be/EK-_pIG35vg) | <script language="javascript">LT('4 Nov', '14:55')</script> |
+| 15:15 | **Lennart P. L. Landsmeer** <br/> A General Theory of Exact Gradients in Spiking Neural Networks & The Potential of Biorealistic Neuron Models [(Watch)](https://youtu.be/dYajuSuPjHg) | <script language="javascript">LT('4 Nov', '15:15')</script> |
 | 15:35 | Break | <script language="javascript">LT('4 Nov', '15:35')</script> |
 | | **Session 2** | Chaired by Dan Goodman  |
-| 16:05 | **Mihai Petrovici** (University of Bern) <br/> Thinking at the speed of light | <script language="javascript">LT('4 Nov', '16:05')</script> |
-| 16:50 | **Christian Klos** <br/> Time-reversed event-based simulations enable memory-efficient exact gradient descent in spiking neural networks | <script language="javascript">LT('4 Nov', '16:50')</script> |
-| 17:10 | Flash talks by selected poster presenters | <script language="javascript">LT('4 Nov', '17:10')</script> |
+| 16:05 | **Mihai Petrovici** (University of Bern) <br/> Thinking at the speed of light [(Watch)](https://youtu.be/HMVreV5e7as) | <script language="javascript">LT('4 Nov', '16:05')</script> |
+| 16:50 | **Christian Klos** <br/> Time-reversed event-based simulations enable memory-efficient exact gradient descent in spiking neural networks [(Watch)](https://youtu.be/dkLxh1COzyc) | <script language="javascript">LT('4 Nov', '16:50')</script> |
+| 17:10 | Flash talks by selected poster presenters [(Watch)](https://youtu.be/HK7Q22MZE6E)  | <script language="javascript">LT('4 Nov', '17:10')</script> |
 | 17:30 | Poster session | <script language="javascript">LT('4 Nov', '17:30')</script> |
 | **November 5th** | | |
 | 14:00 | Welcome to day 2 | <script language="javascript">LT('5 Nov', '14:00')</script> |
 | | **Session 3** | Chaired by Friedemann Zenke |
-| 14:05 | **Eugene Izhikevich** (Brain Corp and DeepSpike) <br/> Spiking Manifesto | <script language="javascript">LT('5 Nov', '14:05')</script> |
-| 14:50 | **Alireza Valizadeh**<br/> Synaptic plasticity selects transmission delays for resonant communication in spiking networks | <script language="javascript">LT('5 Nov', '14:50')</script> |
-| 15:10 | **Simon Schultz** <br/>Spike timing neural manifolds for learning, memory and computation in the brain | <script language="javascript">LT('5 Nov', '15:10')</script> |
+| 14:05 | **Eugene Izhikevich** (Brain Corp and DeepSpike) <br/> Spiking Manifesto [(Watch)](https://youtu.be/KwkqEWY1tlw) | <script language="javascript">LT('5 Nov', '14:05')</script> |
+| 14:50 | **Alireza Valizadeh**<br/> Synaptic plasticity selects transmission delays for resonant communication in spiking networks [(Watch)](https://youtu.be/Qr86mSlb43Y) | <script language="javascript">LT('5 Nov', '14:50')</script> |
+| 15:10 | **Simon Schultz** <br/>Spike timing neural manifolds for learning, memory and computation in the brain [(Watch)](https://youtu.be/afZf20TLWus) | <script language="javascript">LT('5 Nov', '15:10')</script> |
 | 15:30 | Break | <script language="javascript">LT('5 Nov', '15:30')</script> |
 | | **Session 4** | Chaired by Jason Eshraghian |
-| 16:00 | **Giulia D'Angelo** (Czech Technical University) <br/> What's catching your eye? --- Event-driven sensing and neuromorphic computing for active vision | <script language="javascript">LT('5 Nov', '16:00')</script> |
-| 16:45 | **Anindya Ghosh**<br/>Boundary-free continual learning in a neuromodulated SNN | <script language="javascript">LT('5 Nov', '16:45')</script> |
-| 17:05 | **Robin Duvoisin**<br/>A Framework for Energy-Efficient Neural Coding | <script language="javascript">LT('5 Nov', '17:05')</script> |
+| 16:00 | **Giulia D'Angelo** (Czech Technical University) <br/> What's catching your eye? --- Event-driven sensing and neuromorphic computing for active vision [(Watch)](https://youtu.be/cdn9DHkBclA) | <script language="javascript">LT('5 Nov', '16:00')</script> |
+| 16:45 | **Anindya Ghosh**<br/>Boundary-free continual learning in a neuromodulated SNN [(Watch)](https://youtu.be/pTg4h7uoJ4U) | <script language="javascript">LT('5 Nov', '16:45')</script> |
+| 17:05 | **Robin Duvoisin**<br/>A Framework for Energy-Efficient Neural Coding [(Watch)](https://youtu.be/HwrLW43V8Yk) | <script language="javascript">LT('5 Nov', '17:05')</script> |
 | 17:25 | Closing remarks | <script language="javascript">LT('5 Nov', '17:25')</script> |

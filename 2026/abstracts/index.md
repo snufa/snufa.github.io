@@ -5,25 +5,27 @@
 
 ## Invited talks 
 
-* **Susanne Schreiber** (Humboldt University) --- Same connections, different network dynamics: The role of neuronal personality 
-* **Mihai Petrovici** (University of Bern) --- Thinking at the speed of light
-* **Eugene Izhikevich** (Brain Corp and DeepSpike) --- Spiking Manifesto 
-* **Giulia D'Angelo** (Czech Technical University) --- What's catching your eye? Event-driven sensing and neuromorphic computing for active vision
+* **Susanne Schreiber** (Humboldt University) --- Same connections, different network dynamics: The role of neuronal personality [(Watch)](https://youtu.be/UKmMhnKxw_k)
+* **Mihai Petrovici** (University of Bern) --- Thinking at the speed of light [(Watch)](https://youtu.be/HMVreV5e7as)
+* **Eugene Izhikevich** (Brain Corp and DeepSpike) --- Spiking Manifesto [(Watch)](https://youtu.be/KwkqEWY1tlw)
+* **Giulia D'Angelo** (Czech Technical University) --- What's catching your eye? Event-driven sensing and neuromorphic computing for active vision [(Watch)](https://youtu.be/cdn9DHkBclA)
 
 ## Talk
 
-* [Synaptic plasticity selects transmission delays for resonant communication in spiking networks](alireza-valizadeh-synaptic.md) (Ali Ghadiri, Saeed Taghavi, Hedyeh Rezaei, Ad Aertsen, Arvind Kumar, Alireza Valizadeh)
-* [Where forgetting lives in a spiking continual-learning memory](anindya-ghosh-where.md) (Anindya Ghosh, Alejandro Rodriguez-Garcia, Srikanth Ramaswamy)
-* [Time-reversed event-based simulations enable memory-efficient exact gradient descent in spiking neural networks](christian-klos-time-reversed.md) (Christian Klos)
-* [Firing Rate Homeostasis Improves Learning Through Irregular Spiking](huihong-li-firing.md) (Huihong Li, Daniel Levenstein)
-* [A General Theory of Exact Gradients in Spiking Neural Networks & The Potential of Biorealistic Neuron Models](lennart-p-general.md) (Lennart P. L. Landsmeer, Amirreza Movahedin, Said Hamdioui, Christos Strydis)
-* [Energy-Efficient Neural Coding under Uniform and Heavy-Tailed Input Distributions](robin-duvoisin-energy-efficient.md) (Robin Duvoisin, Jean-Pascal Pfister, Pau Vilimelis Aceituno)
-* [Spike timing neural manifolds for learning, memory and computation in the brain](simon-schultz-spike.md) (Simon R. Schultz)
+* [Synaptic plasticity selects transmission delays for resonant communication in spiking networks](alireza-valizadeh-synaptic.md) (Ali Ghadiri, Saeed Taghavi, Hedyeh Rezaei, Ad Aertsen, Arvind Kumar, Alireza Valizadeh) [(Watch)](https://youtu.be/Qr86mSlb43Y)
+* [Where forgetting lives in a spiking continual-learning memory](anindya-ghosh-where.md) (Anindya Ghosh, Alejandro Rodriguez-Garcia, Srikanth Ramaswamy) [(Watch)](https://youtu.be/pTg4h7uoJ4U)
+* [Time-reversed event-based simulations enable memory-efficient exact gradient descent in spiking neural networks](christian-klos-time-reversed.md) (Christian Klos) [(Watch)](https://youtu.be/dkLxh1COzyc)
+* [Firing Rate Homeostasis Improves Learning Through Irregular Spiking](huihong-li-firing.md) (Huihong Li, Daniel Levenstein) [(Watch)](https://youtu.be/EK-_pIG35vg)
+* [A General Theory of Exact Gradients in Spiking Neural Networks & The Potential of Biorealistic Neuron Models](lennart-p-general.md) (Lennart P. L. Landsmeer, Amirreza Movahedin, Said Hamdioui, Christos Strydis) [(Watch)](https://youtu.be/dYajuSuPjHg)
+* [Energy-Efficient Neural Coding under Uniform and Heavy-Tailed Input Distributions](robin-duvoisin-energy-efficient.md) (Robin Duvoisin, Jean-Pascal Pfister, Pau Vilimelis Aceituno) [(Watch)](https://youtu.be/HwrLW43V8Yk)
+* [Spike timing neural manifolds for learning, memory and computation in the brain](simon-schultz-spike.md) (Simon R. Schultz) [(Watch)](https://youtu.be/afZf20TLWus)
 
 
 
 
 ## Flash talk
+
+[(Click here to watch the flash talks on YouTube.)](https://youtu.be/HK7Q22MZE6E)
 
 * [Bio-plausible statistical regularizer for spiking JEPA](alexis-gleyo-bio-plausible.md) (Alexis Gleyo, Laurent Perrinet)
 * [Learning part-whole relationships through polychronization in a hierarchical spiking network](brian-gardner-learning.md) (Brian Gardner, Patrick McCarthy, Joseph Chrol-Cannon, Dan Goodman, Simon Schultz, Giovanni Lo Iacono, Simon Stringer)
